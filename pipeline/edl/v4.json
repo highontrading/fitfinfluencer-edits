@@ -1,0 +1,67 @@
+{
+ "name": "v4",
+ "src": "v4.mp4",
+ "chunks": "ch4.json",
+ "transcript": "t4.json",
+ "speed": 1.15,
+ "keep": [
+  {
+   "c": 0,
+   "text": "The biggest misconception about weight loss is that it's about willpower."
+  },
+  {
+   "c": 1,
+   "text": "But it's not."
+  },
+  {
+   "c": 2,
+   "text": "It's about biology. Here's what I mean."
+  },
+  {
+   "c": 3,
+   "text": "When your insulin is chronically high,"
+  },
+  {
+   "c": 5,
+   "text": "your body can't access fat. It's physically locked away."
+  },
+  {
+   "c": 6,
+   "text": "No amount of willpower unlocks it."
+  },
+  {
+   "c": 8,
+   "text": "When your cortisol is high from stress and bad sleep, your body stores fat around your belly,"
+  },
+  {
+   "c": 9,
+   "text": "on purpose, as a survival response."
+  },
+  {
+   "c": 10,
+   "text": "You are not weak. Your system is broken."
+  },
+  {
+   "c": 16,
+   "text": "And that's why my protocol attacks all four systems simultaneously."
+  },
+  {
+   "c": 17,
+   "text": "Fasting, diet, exercise, meditation. All four."
+  },
+  {
+   "c": 18,
+   "text": "I used this to go from 110 kgs to 85 kgs in just 45 days. I reduced 10% body fat in the last 30 days only."
+  },
+  {
+   "c": 23,
+   "text": "I'll teach you the entire system in a live webinar. Stop fighting with biology. Start working with it.",
+   "e": 128.62
+  },
+  {
+   "c": 36,
+   "text": "See you in the webinar.",
+   "s": 175.12
+  }
+ ]
+}

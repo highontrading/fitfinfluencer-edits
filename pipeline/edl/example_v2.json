@@ -1,0 +1,71 @@
+{
+ "name": "v90",
+ "src": "v90.mp4",
+ "chunks": "ch90.json",
+ "transcript": "t90.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "text": "Aap logon ne bachpan se ekdam galat seekha hai, ekdam ulta."
+  },
+  {
+   "c": 1,
+   "text": "Pata hai kya?"
+  },
+  {
+   "c": 2,
+   "text": "Ki breakfast is the most important meal."
+  },
+  {
+   "c": 3,
+   "text": "Aur ye sarasar ekdam jhooth hai."
+  },
+  {
+   "c": 4,
+   "text": "Aapko kisne batayi ye cheez? Aapke mummy papa ne?"
+  },
+  {
+   "c": 5,
+   "text": "Aapke dada dadi ne?"
+  },
+  {
+   "c": 6,
+   "text": "Koi doctor ne, koi scientist ne?"
+  },
+  {
+   "c": 7,
+   "text": "Kisne bataya?"
+  },
+  {
+   "c": 8,
+   "text": "1944 mein ek cereal company ne"
+  },
+  {
+   "c": 9,
+   "text": "isko ek marketing campaign ki tarah use kiya tha,"
+  },
+  {
+   "c": 10,
+   "text": "ki breakfast is the most important meal"
+  },
+  {
+   "c": 12,
+   "text": "of the whole day."
+  },
+  {
+   "c": 13,
+   "text": "Kyun? Kyunki aap log raat bhar fast rehte ho, toh phir breakfast karna is most important. Kyun? Kyunki unka cereal bik sake zyada se zyada."
+  },
+  {
+   "c": 14,
+   "text": "Harvard ke ek professor David Sinclair ne 25 saal research ki anti-aging pe,"
+  },
+  {
+   "c": 15,
+   "text": "aur unka kehna tha, breakfast is not the most important meal in the day."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}
