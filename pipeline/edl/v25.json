@@ -1,0 +1,1048 @@
+{
+ "name": "v25",
+ "src": "v25.mp4",
+ "chunks": "ch25.json",
+ "transcript": "t25.json",
+ "speed": 1.1,
+ "crf": 17,
+ "keep": [
+  {
+   "c": 1,
+   "text": "Meri passport ki age aaj ke time par 35 hai,"
+  },
+  {
+   "c": 2,
+   "text": "but"
+  },
+  {
+   "c": 3,
+   "text": "meri body ki age 23 se 24 hi hai abhi tak."
+  },
+  {
+   "c": 4,
+   "text": "Aur aapki age kitni hai?"
+  },
+  {
+   "c": 5,
+   "text": "Aapko lagta hoga ki aapke jo passport pe age likhi hui hai,"
+  },
+  {
+   "c": 6,
+   "text": "wahi aapki body ki age hai."
+  },
+  {
+   "c": 7,
+   "e": 22.53,
+   "text": "But aap ekdam galat ho."
+  },
+  {
+   "c": 9,
+   "text": "Harvard ke ek medical school ke scientist ne ye ekdam achhe tareeke se prove kar diya hai."
+  },
+  {
+   "c": 10,
+   "text": "25 saal ki research ke baad unhone prove kiya"
+  },
+  {
+   "c": 11,
+   "text": "ki aapke passport ki jo age hai, wo aapki body ki actual age se alag hai."
+  },
+  {
+   "c": 12,
+   "text": "Aapke andar ek alag umar chal rahi hai. Aapke heart ki alag umar chal rahi hai, brain ki alag umar chal rahi hai,"
+  },
+  {
+   "c": 13,
+   "text": "liver ki alag umar chal rahi hai, kidney ki alag, aise hi saare organs ki alag-alag umar chal rahi hai."
+  },
+  {
+   "c": 14,
+   "text": "Aur sabse khatarnak baat pata hai kya hai? Jo organ sabse boodha hai,"
+  },
+  {
+   "c": 15,
+   "text": "wo saare organs ko aur boodha karta chala ja raha hai."
+  },
+  {
+   "c": 16,
+   "text": "Aur ye sirf ek theory nahi hai. Professor David Sinclair,"
+  },
+  {
+   "c": 17,
+   "text": "yaani ki Harvard Medical School ke bahut hi naami professor, unki lab mein ye actually dekha gaya hai."
+  },
+  {
+   "c": 18,
+   "text": "Ek experiment mein do choohe rakhe gaye,"
+  },
+  {
+   "c": 19,
+   "text": "dono same maa ke bachche the."
+  },
+  {
+   "c": 20,
+   "text": "Ek ekdam healthy tha, ekdam healthy coat, ekdam badhiya, active."
+  },
+  {
+   "c": 21,
+   "text": "Doosra, do hafte ke treatment ke baad, jhuka hua, grey ho gaye hue baal, wrinkled skin,"
+  },
+  {
+   "c": 22,
+   "text": "yaaddaasht ekdam khatam si ho gayi thi uski."
+  },
+  {
+   "c": 23,
+   "text": "Same DNA tha, same parents the, same age thi."
+  },
+  {
+   "c": 24,
+   "text": "Farak sirf ek cheez ka tha:"
+  },
+  {
+   "c": 25,
+   "text": "epigenome."
+  },
+  {
+   "c": 39,
+   "text": "Aur aaj main exactly wahi science bataunga"
+  },
+  {
+   "c": 40,
+   "text": "ki ye epigenome kya hai,"
+  },
+  {
+   "c": 41,
+   "text": "aur ye aapko kaise boodha kar raha hai, aur"
+  },
+  {
+   "c": 42,
+   "text": "kaise main ek normal middle class insaan"
+  },
+  {
+   "c": 43,
+   "text": "apni biological age 12 saal tak peeche kar di."
+  },
+  {
+   "c": 44,
+   "text": "Toh chaliye sabse basic se samajhte hain. Aapki body ke har ek cell mein, 37 trillion cells hote hain,"
+  },
+  {
+   "c": 45,
+   "text": "aur har ek cell mein 6 feet lamba DNA hota hai."
+  },
+  {
+   "c": 46,
+   "text": "Chhe feet lamba!"
+  },
+  {
+   "c": 47,
+   "text": "Ki aap samajh rahe ho, ab DNA karta kya hai? Ye aapki body ka instruction manual hai."
+  },
+  {
+   "c": 48,
+   "text": "Theek jaise ek car ka manual hota hai, ki kab gear lagana hai, kahan engine hota hai, kaisa AC hota hai, kaise AC ko chalana hai, brakes kaise lagaane hain, waise hi aapke DNA mein likha hua hai ki heart cells kya karenge,"
+  },
+  {
+   "c": 49,
+   "text": "brain cells kya karenge, liver cells kya karenge. Ab dhyaan se suniyega is baat ko, ye baat bahut zyada important hai."
+  },
+  {
+   "c": 56,
+   "text": "Aapke saare cells mein same DNA hai. Heart cells mein same DNA, brain mein same DNA, aapke saare organs mein same DNA,"
+  },
+  {
+   "c": 57,
+   "text": "liver cells mein bhi same DNA. Toh phir heart cell"
+  },
+  {
+   "c": 58,
+   "text": "heart ki tarah"
+  },
+  {
+   "c": 59,
+   "text": "kaam kaise karta hai?"
+  },
+  {
+   "c": 60,
+   "text": "Aur brain cell brain ki tarah kaise kaam karta hai?"
+  },
+  {
+   "c": 61,
+   "text": "Answer hai"
+  },
+  {
+   "c": 62,
+   "text": "epigenome."
+  },
+  {
+   "c": 64,
+   "text": "Epi matlab upar, aur genome matlab genes."
+  },
+  {
+   "c": 65,
+   "text": "Genes ke upar ek control system hota hai."
+  },
+  {
+   "c": 66,
+   "text": "Professor David Sinclair ne"
+  },
+  {
+   "c": 67,
+   "text": "inko samajhne ke liye ek beautiful sa example diya."
+  },
+  {
+   "c": 68,
+   "text": "Socho ek piano hai,"
+  },
+  {
+   "c": 69,
+   "text": "aur aapki body ke"
+  },
+  {
+   "c": 70,
+   "text": "har cell mein"
+  },
+  {
+   "c": 71,
+   "text": "same piano hai."
+  },
+  {
+   "c": 72,
+   "text": "Same keys hain, same notes hain."
+  },
+  {
+   "c": 73,
+   "text": "20,000 genes hain,"
+  },
+  {
+   "c": 74,
+   "text": "20,000 piano keys hain."
+  },
+  {
+   "c": 75,
+   "text": "Ab har cell mein"
+  },
+  {
+   "c": 76,
+   "text": "kuch keys baj rahi hain."
+  },
+  {
+   "c": 79,
+   "text": "Ab heart cell mein kuch keys baj rahi hain:"
+  },
+  {
+   "c": 80,
+   "text": "tak,"
+  },
+  {
+   "c": 81,
+   "text": "tak tak,"
+  },
+  {
+   "c": 82,
+   "text": "dil ki music hai ye. Theek? Brain cells mein alag keys baj rahi hain,"
+  },
+  {
+   "c": 83,
+   "text": "jaise thoughts, memories, focus ki music, ye saari cheezein."
+  },
+  {
+   "c": 84,
+   "text": "Ho rahe hain, same piano hai,"
+  },
+  {
+   "c": 85,
+   "text": "but"
+  },
+  {
+   "c": 86,
+   "text": "different music hai. Aur ye music kaun baja raha hai?"
+  },
+  {
+   "c": 87,
+   "text": "Epigenome."
+  },
+  {
+   "c": 98,
+   "text": "Technically hota kya hai ki aapka DNA protein ke around wrap hota hai, jaise ek dhaaga"
+  },
+  {
+   "c": 99,
+   "text": "tennis ball ke around lipat jaaye."
+  },
+  {
+   "c": 101,
+   "text": "Jahan DNA tight wrap hai,"
+  },
+  {
+   "c": 102,
+   "text": "wahan gene band hai."
+  },
+  {
+   "c": 103,
+   "text": "Jahan DNA khula hua hai,"
+  },
+  {
+   "c": 104,
+   "text": "wo gene chaalu hai."
+  },
+  {
+   "c": 105,
+   "text": "Aur isko scientists kehte hain open chromatin aur"
+  },
+  {
+   "c": 106,
+   "text": "closed chromatin."
+  },
+  {
+   "c": 107,
+   "text": "Jab aap jawaan hote hain, ye packaging perfect hoti hai. Heart cell mein sirf heart waale genes hote hain, brain cell mein sirf brain waale, liver mein sirf liver waale."
+  },
+  {
+   "c": 108,
+   "text": "Beautiful music bajta hai poori body mein, aur bahut achhi genes maani jaati hain"
+  },
+  {
+   "c": 109,
+   "text": "jab jawaan hote ho, toh."
+  },
+  {
+   "c": 110,
+   "text": "Ab dheere dheere jab aapki age badhti hai,"
+  },
+  {
+   "c": 111,
+   "text": "toh aging mein hota kya hai? Ye packaging waala jo ye epigenome tha na, ye bigadne lagta hai."
+  },
+  {
+   "c": 112,
+   "text": "Jaise purani cassette ka tape"
+  },
+  {
+   "c": 113,
+   "text": "ulajh jaata hai,"
+  },
+  {
+   "c": 114,
+   "text": "ki tangle ho jaata hai, waise hi aapke DNA ki packaging ulajh jaati hai."
+  },
+  {
+   "c": 115,
+   "text": "Jo gene band hone chahiye the, wo chaalu reh jaate hain, wo khule reh jaate hain. Jo gene chaalu rehne chahiye the, wo band ho jaate hain. Aur"
+  },
+  {
+   "c": 116,
+   "text": "hota kya hai phir?"
+  },
+  {
+   "c": 117,
+   "text": "Aapke brain cells bhool jaate hain ki wo brain cells the."
+  },
+  {
+   "c": 118,
+   "text": "Thoda liver cells ke saath"
+  },
+  {
+   "c": 119,
+   "text": "behave karne lagte hain, unki tarah."
+  },
+  {
+   "c": 120,
+   "text": "Thoda kidney cells ke saath, unki tarah behave karne lagte hain, thoda"
+  },
+  {
+   "c": 121,
+   "text": "heart cell, unki tarah behave karne lagte hain."
+  },
+  {
+   "c": 122,
+   "text": "Aur jo beautiful music aapko bachpan se jawaani tak baj raha tha, wo ab noise ban jaati hai."
+  },
+  {
+   "c": 123,
+   "text": "Aur ye hai"
+  },
+  {
+   "c": 124,
+   "text": "cacophony,"
+  },
+  {
+   "c": 125,
+   "text": "yaani ki besuraapan."
+  },
+  {
+   "c": 126,
+   "text": "Isko Professor David kehte hain"
+  },
+  {
+   "c": 127,
+   "text": "ki ye information theory of aging hai."
+  },
+  {
+   "c": 132,
+   "text": "Aging ka matlab DNA kharab hona nahi hai."
+  },
+  {
+   "c": 133,
+   "text": "Ye bahut zyada important hai. Purani science kehti thi ki aging yaani ki"
+  },
+  {
+   "c": 134,
+   "text": "DNA ka mutation ho gaya."
+  },
+  {
+   "c": 142,
+   "text": "Lekin Sinclair ne ye prove kar diya ki 100 saal ki jo cell ka DNA le karke aap jawaan"
+  },
+  {
+   "c": 143,
+   "text": "mouse bana sakte the."
+  },
+  {
+   "c": 144,
+   "text": "Wo DNA intact hai, wo DNA theek hai."
+  },
+  {
+   "c": 145,
+   "text": "Problem DNA mein nahi hai, problem uski packaging mein hai."
+  },
+  {
+   "c": 146,
+   "text": "Yaani ki problem"
+  },
+  {
+   "c": 147,
+   "text": "epigenome mein hai."
+  },
+  {
+   "c": 148,
+   "text": "Problem ye hai ki cells bhool gaya hai ki kaun si genes kab kharab ho rahi hain, kaun sa on hai, kaun sa off hai."
+  },
+  {
+   "c": 149,
+   "text": "Kis ki? Heart ki genes liver mein, liver ki genes"
+  },
+  {
+   "c": 150,
+   "text": "heart mein, is tareeke se"
+  },
+  {
+   "c": 151,
+   "text": "chalne lagi hain."
+  },
+  {
+   "c": 152,
+   "text": "Aur sabse important cheez, ab aata hai wo hissa jo sabse zyada disturbing hai."
+  },
+  {
+   "c": 154,
+   "text": "Aapki body mein har organ ki age ekdam alag-alag hai."
+  },
+  {
+   "c": 156,
+   "text": "Haan, bilkul sahi baat hai ye. Aapke heart ki age 40 years ho sakti hai, jabki aapki passport age 30 hai."
+  },
+  {
+   "c": 157,
+   "text": "Aapke brain ki age 25 ho sakti hai, jabki aapke lungs ki age 45 ho sakti hai."
+  },
+  {
+   "c": 159,
+   "text": "Ye kaise ho sakta hai?"
+  },
+  {
+   "c": 160,
+   "text": "Aur ye kaise pata chalega?"
+  },
+  {
+   "c": 161,
+   "text": "Epigenetic clock se pata chalega."
+  },
+  {
+   "c": 162,
+   "text": "Steve Horvath naam ke ek scientist ne"
+  },
+  {
+   "c": 163,
+   "text": "clock develop kiya ye."
+  },
+  {
+   "c": 164,
+   "text": "Har cell mein ek timer hota hai."
+  },
+  {
+   "c": 165,
+   "text": "Aapke DNA par kuch chemical markers hote hain,"
+  },
+  {
+   "c": 166,
+   "text": "jaise methyl groups ke."
+  },
+  {
+   "c": 167,
+   "text": "Inke pattern exactly"
+  },
+  {
+   "c": 168,
+   "text": "is tareeke se pata chalta hai"
+  },
+  {
+   "c": 169,
+   "text": "jaise cells kitne purane ho gaye."
+  },
+  {
+   "c": 171,
+   "text": "Aur sabse insane baat pata hai kya hai? Ye kaise pata chalta hai? Aapke munh se jo swab liye jaate hain na,"
+  },
+  {
+   "c": 172,
+   "text": "is ek cheek swab se hi scientists ko pata chal sakta hai ki aapke heart ki age kya hai,"
+  },
+  {
+   "c": 173,
+   "text": "aapki kidney ki age kya hai, aapke brain ki age kya hai."
+  },
+  {
+   "c": 174,
+   "text": "Kyun?"
+  },
+  {
+   "c": 175,
+   "text": "Kyunki aapke munh ke cells mein aapki poori body ki memory stored hai."
+  },
+  {
+   "c": 178,
+   "text": "Aur agar aapne zindagi bhar smoking ki hai,"
+  },
+  {
+   "c": 179,
+   "text": "toh munh ki cells bata degi ki aapne kitne time tak smoke kiya hai,"
+  },
+  {
+   "c": 180,
+   "text": "kitna heart kharab kiya hai, kitna lungs kharab kiya hai."
+  },
+  {
+   "c": 181,
+   "text": "Ki fasting ki hai toh wo bhi pata chal jaayega, exercise ki hai toh wo bhi pata chal jaayega."
+  },
+  {
+   "c": 182,
+   "text": "Aur ye saari cheezein sirf aur sirf swab se pata chal jaayengi."
+  },
+  {
+   "c": 183,
+   "text": "Aur ab yahan pe ek naya experiment suniye."
+  },
+  {
+   "c": 184,
+   "text": "Yahan pe twins ka experiment aaya."
+  },
+  {
+   "c": 185,
+   "e": 899.98,
+   "text": "Do identical twins the, same DNA tha, same parents the, same birth,"
+  },
+  {
+   "c": 187,
+   "text": "lekin das saal apart biological age mein. Ekdam change the, das saal ka change tha."
+  },
+  {
+   "c": 188,
+   "text": "Kyunki unki lifestyle alag thi."
+  },
+  {
+   "c": 189,
+   "text": "Ek ne achha khaaya, exercise ki, stress manage kiya. Doosre ne nahi kiya, kharab kiya."
+  },
+  {
+   "c": 190,
+   "text": "80% aging aapki lifestyle se decide hoti hai,"
+  },
+  {
+   "c": 191,
+   "text": "aur 20%, sirf aur sirf 20% aapki genes se."
+  },
+  {
+   "c": 192,
+   "text": "Aur ye baat main nahi keh raha hoon, ye Harvard ki ek research ne"
+  },
+  {
+   "c": 193,
+   "text": "78,865"
+  },
+  {
+   "c": 194,
+   "text": "women, aur"
+  },
+  {
+   "c": 195,
+   "text": "44,354 men pe study ki,"
+  },
+  {
+   "c": 196,
+   "text": "34 saal tak. Result pata hai kya hai?"
+  },
+  {
+   "c": 197,
+   "text": "Sirf paanch cheezein follow kariye,"
+  },
+  {
+   "c": 198,
+   "text": "14 saal extra healthy life milegi aap logon ko."
+  },
+  {
+   "c": 199,
+   "text": "Aur wo paanch cheezein pata hai kya kya thi?"
+  },
+  {
+   "c": 200,
+   "text": "Overdrink mat karo, smoke mat karo, weight control rakho, stress manage karo,"
+  },
+  {
+   "c": 201,
+   "text": "healthy khao. Simple."
+  },
+  {
+   "c": 202,
+   "text": "Ye sirf paanch cheezein aap logon ko zyada zinda rakh sakti hain."
+  },
+  {
+   "c": 203,
+   "text": "But simple kaam karta kaun hai?"
+  },
+  {
+   "c": 204,
+   "text": "Ab suniye wo baat jo aap logon ko ekdam dara ke sehma degi."
+  },
+  {
+   "c": 205,
+   "text": "Aapki body mein jo organ sabse boodha hai, wo saare organs ko aur boodha kar raha hai,"
+  },
+  {
+   "c": 206,
+   "text": "aur ye ekdam proven baat hai."
+  },
+  {
+   "c": 207,
+   "text": "Ek experiment mein scientists ne ek choohe"
+  },
+  {
+   "c": 208,
+   "text": "ke andar purana fat tissue daal diya."
+  },
+  {
+   "c": 209,
+   "text": "Toh boodhe choohe ka fat ek jawaan choohe ke"
+  },
+  {
+   "c": 210,
+   "text": "fat mein transplant kar diya gaya, aur result pata hai kya aaya?"
+  },
+  {
+   "c": 211,
+   "text": "Poori body boodhi hone lagi uski."
+  },
+  {
+   "c": 217,
+   "text": "Kaise? Wo boodhi fat cells ek cheez release karti thi jiska naam hai"
+  },
+  {
+   "c": 218,
+   "text": "SASP, yaani ki S.A.S.P."
+  },
+  {
+   "c": 223,
+   "text": "S.A.S.P. yaani ki Senescence-Associated Secretory Phenotype."
+  },
+  {
+   "c": 224,
+   "text": "In boodhi cells ko scientists ne zombie cells kaha."
+  },
+  {
+   "c": 225,
+   "text": "Zombie cells."
+  },
+  {
+   "c": 226,
+   "text": "Ab aap logon ko lag raha hoga ki ye zombie cells kya hain?"
+  },
+  {
+   "c": 227,
+   "text": "Toh main bata deta hoon aap logon ko ki ye cells kaam nahi karti hain, lekin marti bhi nahi hain."
+  },
+  {
+   "c": 228,
+   "text": "Bas baithi rehti hain aur"
+  },
+  {
+   "c": 229,
+   "text": "inflammatory cytokines release karti rehti hain, jaise IL-6, TNF-alpha,"
+  },
+  {
+   "c": 230,
+   "text": "TGF-beta, aur ye poori body mein travel karti rehti hain,"
+  },
+  {
+   "c": 231,
+   "text": "aur baaki healthy cells ko bhi boodha kar rahi hoti hain."
+  },
+  {
+   "c": 232,
+   "text": "Jab aap jawaan hote ho, toh aapka immune system in zombie cells ko saaf kar deta hai."
+  },
+  {
+   "c": 233,
+   "text": "Lekin jaise jaise jaise jaise aapki age badhti hai, immune system kamzor hota jaata hai, aur zombie cells accumulate hoti hain."
+  },
+  {
+   "c": 235,
+   "text": "Aur ek specific organ jo sabse zyada impact karta hai, jiska naam hai hypothalamus. Ye aapke brain ke base pe hota hai."
+  },
+  {
+   "c": 236,
+   "text": "Agar hypothalamus boodha hota hai toh poori body boodhi hone lagti hai. Agar hypothalamus jawaan rehta hai toh poori body jawaan rehti hai."
+  },
+  {
+   "c": 237,
+   "text": "Aur"
+  },
+  {
+   "c": 238,
+   "text": "isi kaaran se aap jawaan zyada time tak dikhte ho, zyada time tak zinda rehte ho, aapka lifespan bada ho jaata hai."
+  },
+  {
+   "c": 239,
+   "text": "Ab main apni baat karta hoon."
+  },
+  {
+   "c": 240,
+   "text": "Meri"
+  },
+  {
+   "c": 241,
+   "text": "passport age 35 hai, meri biological age 23-24 ke aaspaas aayi hai."
+  },
+  {
+   "c": 242,
+   "text": "Aur main aap logon ko bata raha hoon ki"
+  },
+  {
+   "c": 243,
+   "text": "ye saari cheezein bahut hi simple hain."
+  },
+  {
+   "c": 244,
+   "text": "Maine sirf aur sirf chaar cheezein ki hain."
+  },
+  {
+   "c": 247,
+   "text": "Sabse pehli cheez: fasting. Meri body ekdam adversity mode mein rehti hai, aur"
+  },
+  {
+   "c": 248,
+   "text": "mujhe bahut zyada energy milti hai meri body mein."
+  },
+  {
+   "c": 249,
+   "text": "Ek autophagy activate hoti hai fasting ki wajah se, jo mere saare kharab protein cells ko kha jaati hai."
+  },
+  {
+   "c": 257,
+   "text": "Jab aap 3-4 meals khaate rehte ho, body abundance mode mein aa jaati hai, growth mode mein."
+  },
+  {
+   "c": 258,
+   "text": "Aur aap logon ki aging fast ho jaati hai."
+  },
+  {
+   "c": 259,
+   "text": "Jab aap fast karte ho, exercise karte ho, thoda stress"
+  },
+  {
+   "c": 260,
+   "text": "kam lete ho,"
+  },
+  {
+   "c": 261,
+   "text": "toh body adversity mode mein aa jaati hai, survival mode mein,"
+  },
+  {
+   "c": 262,
+   "text": "yaani ki anti-aging genes"
+  },
+  {
+   "c": 263,
+   "text": "activate ho jaate hain."
+  },
+  {
+   "c": 264,
+   "text": "Sirtuins naam ke enzymes jo hote hain, wo activate ho jaate hain, DNA repair hota hai, aur epigenome aapka stable ho jaata hai."
+  },
+  {
+   "c": 265,
+   "text": "Number two: personalised diet. Indian kitchen se sabziyan, daal, haldi, amla, kuch"
+  },
+  {
+   "c": 266,
+   "text": "coloured plants"
+  },
+  {
+   "c": 267,
+   "text": "jinke andar polyphenols hain,"
+  },
+  {
+   "c": 270,
+   "text": "jo SIRT1 enzyme ko activate karte hain, yaani ki SIRT1 enzyme ko activate karte hain. Number 3: exercise. Exercise is the most important thing."
+  },
+  {
+   "c": 271,
+   "text": "Weight training karna hi karna hai aap logon ko,"
+  },
+  {
+   "c": 272,
+   "text": "plus"
+  },
+  {
+   "c": 273,
+   "text": "aerobics kariye."
+  },
+  {
+   "c": 274,
+   "text": "Weight training karne se aap logon ki muscle build hoti hai. Jab muscle build hoti hai na,"
+  },
+  {
+   "c": 277,
+   "text": "aap logon ki body zyada se zyada glucose"
+  },
+  {
+   "c": 278,
+   "text": "absorb kar paati hai, muscles absorb kar paate hain, jo aap log zyada carb kha rahe ho toh."
+  },
+  {
+   "c": 280,
+   "text": "Jaise jaise aapki age badhti hai, yahi muscles aap logon ke liye bahut zyada"
+  },
+  {
+   "c": 281,
+   "text": "important ho jaate hain aage ke time pe."
+  },
+  {
+   "c": 282,
+   "text": "Number four, jo sabse important cheez hai:"
+  },
+  {
+   "c": 283,
+   "text": "meditation"
+  },
+  {
+   "c": 284,
+   "text": "aur stress management."
+  },
+  {
+   "c": 290,
+   "text": "Aur mujhe bahut saare logon ne poocha"
+  },
+  {
+   "c": 291,
+   "text": "ki aap karte kya ho? Kaise aapne"
+  },
+  {
+   "c": 292,
+   "text": "110 kgs se 85 kgs ka safar tay kiya, wo bhi 45 se 50 days ke andar?"
+  },
+  {
+   "c": 293,
+   "text": "Toh"
+  },
+  {
+   "c": 294,
+   "text": "maine un logon ko ye cheez batayi hai ki maine sirf aur sirf chaar cheezein ki hain."
+  },
+  {
+   "c": 296,
+   "text": "Yahi chaar cheezein jo main aap logon ko bata raha hoon:"
+  },
+  {
+   "c": 297,
+   "text": "pehli fasting,"
+  },
+  {
+   "c": 298,
+   "text": "doosri diet,"
+  },
+  {
+   "c": 299,
+   "e": 1460.64,
+   "text": "teesri exercise, aur chauthi meditation."
+  },
+  {
+   "c": 300,
+   "text": "Aur ye mere health protocol ka ekdam poora ka poora foundation ban gaya."
+  },
+  {
+   "c": 301,
+   "text": "Main aapko ye nahi bol raha hoon ki supplement le lo, main aapko ye bhi nahi bol raha hoon ki na lo."
+  },
+  {
+   "c": 302,
+   "text": "Main aapko bol raha hoon ki aapki body ke andar ek backup copy hai, jab aap jawaan the,"
+  },
+  {
+   "c": 303,
+   "text": "us waqt ki memory stored hai."
+  },
+  {
+   "c": 304,
+   "text": "Bas aapko switch dhoondhna hai usko"
+  },
+  {
+   "c": 305,
+   "text": "re-activate karne ke liye."
+  },
+  {
+   "c": 306,
+   "text": "Scientists abhi ER-100 naam ke drug ko test kar rahe hain."
+  },
+  {
+   "c": 307,
+   "text": "Life Biosciences hai, FDA approved Phase 1"
+  },
+  {
+   "c": 308,
+   "text": "trial mein abhi bhi."
+  },
+  {
+   "c": 309,
+   "text": "Ye humans pe dheere dheere dheere dheere"
+  },
+  {
+   "c": 310,
+   "text": "kiya ja raha hai,"
+  },
+  {
+   "c": 311,
+   "text": "aur ise"
+  },
+  {
+   "c": 312,
+   "text": "epigenetic reversal ke liye ek"
+  },
+  {
+   "c": 313,
+   "text": "path banaya ja raha hai."
+  },
+  {
+   "c": 314,
+   "text": "Lekin ye drug aane mein abhi time lagega. Kab tak aayega?"
+  },
+  {
+   "c": 316,
+   "text": "Kab tak aayega ye kisi ko nahi pata. Tab tak aapke haath mein hai lifestyle."
+  },
+  {
+   "c": 319,
+   "text": "Agar ye video aap logon ko achhi lagi hai,"
+  },
+  {
+   "c": 320,
+   "text": "toh aap apne mummy papa ko"
+  },
+  {
+   "c": 321,
+   "text": "dekhne ke liye kahiye."
+  },
+  {
+   "c": 322,
+   "text": "Aur un logon ko dekhna bhi chahiye, kyunki un logon ki umar badh rahi hai. Jaise umar badh rahi hai,"
+  },
+  {
+   "c": 323,
+   "text": "toh aap logon ko bhi chinta ho rahi hogi unki."
+  },
+  {
+   "c": 324,
+   "text": "Toh main toh theek hoon, but aap logon ko apne"
+  },
+  {
+   "c": 325,
+   "text": "mummy papa ka bhi dhyaan rakhna padega."
+  },
+  {
+   "c": 326,
+   "text": "Toh"
+  },
+  {
+   "c": 327,
+   "text": "main ye poora ka poora video awareness ke liye bana raha hoon."
+  },
+  {
+   "c": 328,
+   "text": "Aur"
+  },
+  {
+   "c": 329,
+   "text": "main next video mein fasting ki actual science bhi bataunga:"
+  },
+  {
+   "c": 330,
+   "text": "kaise"
+  },
+  {
+   "c": 331,
+   "text": "teen din ke baad aapka brain switch on hota hai,"
+  },
+  {
+   "c": 332,
+   "text": "kaise CMA activate hota hai, yaani ki"
+  },
+  {
+   "c": 336,
+   "text": "ek autophagy activate hoti hai jiska naam hai chaperone-"
+  },
+  {
+   "c": 337,
+   "text": "mediated autophagy, jo aapki body ke andar deep cleaning karti hai."
+  },
+  {
+   "c": 338,
+   "text": "Ye saari cheezein main next video mein bataunga, toh subscribe kariye,"
+  },
+  {
+   "c": 339,
+   "text": "bell icon ko bhi dabaiye."
+  },
+  {
+   "c": 340,
+   "e": 1613.57,
+   "text": "Comment mein likhiye HEALTH PROTOCOL, agar mera health protocol aap logon ko chahiye."
+  },
+  {
+   "c": 342,
+   "text": "Aapki biological age kitni hogi?"
+  },
+  {
+   "c": 343,
+   "text": "Wo bhi aap log comment box mein likhiye."
+  },
+  {
+   "c": 344,
+   "text": "Main saare comments pe"
+  },
+  {
+   "c": 345,
+   "text": "reply karne ki koshish karunga."
+  },
+  {
+   "c": 351,
+   "text": "Dekhiye, mera kaam tha science pahunchana, decision aapka hai. You are watching FitFinfluencer, milte hain"
+  },
+  {
+   "c": 352,
+   "text": "next video mein!"
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

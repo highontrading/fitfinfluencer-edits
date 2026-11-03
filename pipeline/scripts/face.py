@@ -2,7 +2,9 @@
 import sys, json, subprocess, numpy as np, cv2
 work, name = sys.argv[1], sys.argv[2]
 tl = json.load(open(f'{work}/{name}_tl.json'))
-W, H, S = 360, 640, 3.0
+_pr = subprocess.run(['ffprobe', '-v', 'error', '-select_streams', 'v:0', '-show_entries', 'stream=width,height', '-of', 'csv=p=0', f'{work}/{name}_cut.mp4'], capture_output=True, text=True).stdout.strip().split(',')
+FW, FH = int(_pr[0]), int(_pr[1])
+W, H = (360, 640) if FH > FW else (640, 360); S = FW / W
 det = cv2.FaceDetectorYN.create('/root/face_detection_yunet_2023mar.onnx', '', (W, H), 0.6, 0.3, 5)
 p = subprocess.Popen(['ffmpeg', '-v', 'error', '-i', f'{work}/{name}_cut.mp4', '-vf', f'scale={W}:{H}', '-f', 'rawvideo', '-pix_fmt', 'bgr24', '-'], stdout=subprocess.PIPE)
 raw = []

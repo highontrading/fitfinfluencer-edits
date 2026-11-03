@@ -22,6 +22,19 @@ The pipeline that produces the FitFinfluencer edits. Every edit from batch 5 onw
 8. **Preview:** `preview2.sh v<N> t1 t2 …` makes a contact sheet of stills. Check it before the full render.
 9. **Deliver:** `deliver.sh in.mp4 out.mp4` keeps each file under ~95 MB. List the stock used in `STOCK_CREDITS.md`.
 
+## Long-form (landscape 16:9)
+
+- Build specs with `Spec(..., size=[1920,1080])`. See `build_v25.py`:
+  - chapter cards use `cine` bars and a big title;
+  - card panels sit on the right (`CARD=[1000,90,860,900]`), and the speaker stays on the left.
+- At 1080p the PNG overlays do not fit on disk. Render with `pipe2stream.sh <N>` instead:
+  - the renderer keeps at most 900 frames ahead of the compositor;
+  - the compositor deletes each frame after it is used;
+  - the vignette is drawn in the compositor (`vigInCompose`).
+- **Delivery:** GitHub caps files at 100 MB, so the long-form goes in the repo as parts split at chapter starts. Each part is cut with stream copy at forced keyframes. The full file is sent directly.
+- `hinglish.py` converts Devanagari transcripts to Hinglish caption text.
+- `credits5.py` writes `STOCK_CREDITS.md`, covering both Mixkit and Wikimedia Commons assets.
+
 ## Setup in a new session
 
 - Copy this folder to a scratch dir and fix the `S=` path in the `*.sh` scripts.

@@ -3,15 +3,15 @@
 <style>
   :root { --gold:#FFC53D; --gold2:#FF9F1C; --red:#FF4D5E; --green:#37F59B; --ink:#0B0D12; --glass:rgba(12,14,20,.80); --line:rgba(255,255,255,.14); }
   * { box-sizing:border-box; margin:0; padding:0; }
-  html,body { width:1080px; height:1920px; background:transparent; overflow:hidden; }
+  html,body { width:var(--W,1080px); height:var(--H,1920px); background:transparent; overflow:hidden; }
   body { font-family:'Montserrat','Poppins',sans-serif; color:#fff; -webkit-font-smoothing:antialiased; }
   .layer { position:absolute; inset:0; }
-  .ev { position:absolute; left:0; top:0; width:1080px; opacity:0; will-change:transform,opacity; }
+  .ev { position:absolute; left:0; top:0; width:var(--W,1080px); opacity:0; will-change:transform,opacity; }
 
   /* captions */
   #cap { position:absolute; left:60px; right:60px; text-align:center; }
   #cap .page { position:absolute; left:0; right:0; display:flex; flex-wrap:wrap; justify-content:center; gap:0 34px; }
-  .cw { font-weight:900; font-size:84px; line-height:1.08; text-transform:uppercase; letter-spacing:-1px;
+  .cw { font-weight:900; font-size:calc(84px * var(--capS,1)); line-height:1.08; text-transform:uppercase; letter-spacing:-1px;
         -webkit-text-stroke:0; paint-order:stroke fill; display:inline-block;
         text-shadow:0 6px 0 rgba(0,0,0,.55), 0 0 28px rgba(0,0,0,.55), 0 2px 4px rgba(0,0,0,.9); }
   .cw.hl { color:var(--gold); }
@@ -46,6 +46,7 @@
 
   /* flow */
   .flow { position:relative; margin:0 auto; }
+  .flow .node { font-size:58px; padding:26px 40px; } .flow .node .sub { font-size:34px; }
   .node { position:absolute; display:flex; align-items:center; gap:18px; padding:22px 32px; border-radius:30px; font-family:Poppins; font-weight:700; font-size:46px; white-space:nowrap; line-height:1.1; }
   .node .ic { font-size:46px; }
   .node .num { width:60px; height:60px; border-radius:50%; background:var(--gold); color:#111; font-weight:800; font-size:34px; display:grid; place-items:center; flex:none; }
@@ -175,7 +176,7 @@ const GL={up:'<svg width="44" height="44" viewBox="0 0 44 44"><path d="M22 6 L38
 const glyph=s=>GL[s]||s;
 const fmt=s=>s.replace(/\*([^*]+)\*/g,'<span class="acc">$1</span>').replace(/~([^~]+)~/g,'<span class="red">$1</span>').replace(/\^([^\^]+)\^/g,'<span class="green">$1</span>');
 
-let SPEC=null; const comps=[];
+let SPEC=null; const comps=[]; let SW=1080, SH=1920;
 // generic enter/exit envelope for an event
 function env(ev,t,inD=.35,outD=.3){ if(t<ev.t0||t>ev.t1) return 0; const a=E.outCubic(P(t,ev.t0,inD)); const b=1-E.inCubic(P(t,ev.t1-outD,outD)); return Math.min(a,b); }
 function place(el,ev){ el.style.top=(ev.y||0)+'px'; }
@@ -186,7 +187,7 @@ C.title={
     let i=0; ev.words=[];
     ev.lines.forEach((ln,li)=>{ const l=h('span','ln'+(ev.plate?'':' shadow')); l.style.fontSize=((ev.sizes&&ev.sizes[li])||ev.size||110)+'px';
       let st=null; ln.split(' ').forEach(w=>{ let open=null; for(const m of ['*','~','^']){ if(w.startsWith(m)&&!st){ st=m; w=w.slice(1); } }
-        let close=false, tail=''; const mt=w.match(/^(.*?)([*~^])([?!.,"'’]*)$/); if(st&&mt&&mt[2]===st){ w=mt[1]; tail=mt[3]; close=true; }
+        let close=false, tail=''; const mt=w.match(/^(.*?)([*~^])([?!.,:;"'’]*)$/); if(st&&mt&&mt[2]===st){ w=mt[1]; tail=mt[3]; close=true; }
         const cls=st==='*'?'acc':st==='~'?'red':st==='^'?'green':''; const s=h('span','w',(cls?`<span class="${cls}">${w}</span>`:w)+tail); if(close) st=null;
         l.appendChild(s); ev.words.push(s); }); box.appendChild(l); });
     if(ev.kicker){ const k=h('div','kicker',ev.kicker); k.style.marginBottom='16px'; box.prepend(k); ev.k=k; }
@@ -259,7 +260,7 @@ C.chain={
       d.style.opacity=vis*(age>=N?0:(age>=N-1?.35:1)); d.style.transform=`perspective(900px) rotateX(${(1-p)*-85}deg)`; d.style.transformOrigin='50% 0%';
       d.classList.toggle('cur', i===cur); }); }};
 C.cta={
-  build(ev){ const el=h('div','ev cta'); el.style.height='1920px'; el.innerHTML=`<div class="shade"></div><div class="box" style="top:${ev.y||1060}px">${ev.kicker?`<div class="kicker" style="margin-bottom:22px">${ev.kicker}</div>`:''}<h1>${fmt(ev.title)}</h1>${ev.sub?`<p>${fmt(ev.sub)}</p>`:''}<div class="btn"><span class="shine"></span><span>${ev.button}</span><span>→</span></div><svg class="chev arrow" viewBox="0 0 90 60"><path d="M10 12 L45 46 L80 12" stroke="#FFC53D" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>`; return el; },
+  build(ev){ const el=h('div','ev cta'); el.style.height=SH+'px'; el.innerHTML=`<div class="shade"></div><div class="box" style="top:${ev.y||1060}px">${ev.kicker?`<div class="kicker" style="margin-bottom:22px">${ev.kicker}</div>`:''}<h1>${fmt(ev.title)}</h1>${ev.sub?`<p>${fmt(ev.sub)}</p>`:''}<div class="btn"><span class="shine"></span><span>${ev.button}</span><span>→</span></div><svg class="chev arrow" viewBox="0 0 90 60"><path d="M10 12 L45 46 L80 12" stroke="#FFC53D" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>`; return el; },
   update(ev,el,t){ const o=env(ev,t,.45,.01); el.style.opacity=o; if(!o) return; const lt=t-ev.t0;
     const h1=el.querySelector('h1'), b=el.querySelector('.btn'), p=el.querySelector('p'), a=el.querySelector('.arrow'), k=el.querySelector('.kicker');
     const q1=E.outBack(P(t,ev.t0+.1,.5)); h1.style.transform=`translateY(${(1-q1)*60}px)`; h1.style.opacity=P(t,ev.t0+.1,.2);
@@ -271,12 +272,12 @@ C.cta={
 C.kinetic={
   build(ev){ const el=h('div','ev kin f-'+(ev.font||'bebas')+(ev.outline?' outline':' sh1')); el.style.width='auto';
     ev.words=[]; (ev.lines||[ev.text]).forEach((ln,li)=>{ const l=h('span','ln'); l.style.fontSize=((ev.sizes&&ev.sizes[li])||ev.size||140)+'px'; l.style.textAlign=ev.align||'center';
-      if(ev.color) l.style.color=ev.color;
+      if(ev.color) l.style.color=ev.color; if(ev.case) l.style.textTransform=ev.case;
       // markup spans (*gold*, ~red~, ^green^) may cover several words: track the open style across tokens
       const parts=ev.anim==='type'?[...ln]:ln.split(' '); let st=null;
       parts.forEach(w=>{ let raw=w; const opens=[]; if(ev.anim!=='type'){ for(const m of ['*','~','^']){ if(!st&&raw.startsWith(m)){ st=m; raw=raw.slice(1); } } }
         else if('*~^'.includes(raw)){ st=st===raw?null:raw; return; }
-        let close=false, tail=''; if(st&&ev.anim!=='type'){ const mt=raw.match(/^(.*?)([*~^])([?!.,"'’]*)$/); if(mt&&mt[2]===st){ raw=mt[1]; tail=mt[3]; close=true; } }
+        let close=false, tail=''; if(st&&ev.anim!=='type'){ const mt=raw.match(/^(.*?)([*~^])([?!.,:;"'’]*)$/); if(mt&&mt[2]===st){ raw=mt[1]; tail=mt[3]; close=true; } }
         const cls=st==='*'?'acc':st==='~'?'red':st==='^'?'green':''; const txt=(raw===' '?'&nbsp;':raw);
         const s=h('span',ev.anim==='type'?'':'w',(cls?`<span class="${cls}">${txt}</span>`:txt)+tail); if(ev.anim==='type') s.style.display='inline-block';
         if(close) st=null; l.appendChild(s); ev.words.push(s); }); el.appendChild(l); });
@@ -284,7 +285,7 @@ C.kinetic={
     el.style.left=(ev.x??540)+'px'; el.style.top=(ev.y??300)+'px'; el.style.opacity=0; return el; },
   update(ev,el,t){ const o=env(ev,t,.05,.28); el.style.opacity=o?(ev.opacity??1):0; if(!o) return;
     if(!ev.fitted){ ev.fitted=1; const ls=el.style.letterSpacing; if(ev.anim==='track') el.style.letterSpacing=(ev.ls??12)+'px';
-      const mw=ev.fit||1000, w=el.offsetWidth; if(w>mw){ const k=mw/w; let fs0=0; el.querySelectorAll('.ln').forEach(l=>{ fs0=parseFloat(l.style.fontSize); l.style.fontSize=(fs0*k)+'px'; }); if(ev.layer==='behind') el.style.top=((ev.y??300)+(1-k)*fs0*.83)+'px'; } el.style.letterSpacing=ls; }
+      const mw=ev.fit||(SW-120), w=el.offsetWidth; if(w>mw){ const k=mw/w; let fs0=0; el.querySelectorAll('.ln').forEach(l=>{ fs0=parseFloat(l.style.fontSize); l.style.fontSize=(fs0*k)+'px'; }); if(ev.layer==='behind') el.style.top=((ev.y??300)+(1-k)*fs0*.83)+'px'; } el.style.letterSpacing=ls; }
     const ax=ev.align==='left'?0:ev.align==='right'?-100:-50; const out=1-E.inCubic(P(t,ev.t1-.28,.28)); const lt=t-ev.t0;
     const drift=(ev.drift??14)*lt; const rot=ev.rot||0; const a=ev.anim||'rise';
     let sc=1+(ev.grow??0.025)*lt;
@@ -299,19 +300,19 @@ C.kinetic={
       else { w.style.opacity=out; } });
     if(ev.k) ev.k.style.opacity=Math.min(P(t,ev.t0,.25),out); }};
 C.stamp={
-  build(ev){ const el=h('div','ev'); el.style.textAlign='center'; el.innerHTML=`<div class="stamp" style="color:${ev.color||'#FF4D5E'}">${ev.text}</div>`; place(el,ev); return el; },
+  build(ev){ const el=h('div','ev'); el.style.textAlign='center'; el.innerHTML=`<div class="stamp" style="color:${ev.color||'#FF4D5E'};font-size:${ev.size||150}px">${ev.text}</div>`; place(el,ev); return el; },
   update(ev,el,t){ const o=env(ev,t,.05,.25); el.style.opacity=o; if(!o) return; const p=E.outExpo(P(t,ev.t0,.25));
     const s=el.firstChild; s.style.transform=`translateX(${ev.dx||0}px) rotate(${ev.rot??-8}deg) scale(${lerp(2.4,1,p)})`; s.style.opacity=P(t,ev.t0,.08); }};
 C.callout={
-  build(ev){ const el=h('div','ev callout'); el.style.height='1920px'; const svg=document.createElementNS('http://www.w3.org/2000/svg','svg'); svg.setAttribute('width',1080); svg.setAttribute('height',1920);
+  build(ev){ const el=h('div','ev callout'); el.style.height=SH+'px'; const svg=document.createElementNS('http://www.w3.org/2000/svg','svg'); svg.setAttribute('width',SW); svg.setAttribute('height',SH);
     svg.innerHTML=`<circle cx="${ev.px}" cy="${ev.py}" r="14" fill="#FFC53D"/><circle class="ring" cx="${ev.px}" cy="${ev.py}" r="14" fill="none" stroke="#FFC53D" stroke-width="4"/><path d="M ${ev.px} ${ev.py} L ${ev.lx} ${ev.ly}" stroke="#FFC53D" stroke-width="5" fill="none" pathLength="1"/>`;
     el.appendChild(svg); const lab=h('div','lab',fmt(ev.text)); lab.style.left=ev.lx+'px'; lab.style.top=ev.ly+'px'; el.appendChild(lab); ev.lab=lab; return el; },
   update(ev,el,t){ const o=env(ev,t,.05,.25); el.style.opacity=o; if(!o) return; const p=E.inOut(P(t,ev.t0+.1,.35)); const pth=el.querySelector('path'); pth.style.strokeDasharray=1; pth.style.strokeDashoffset=1-p;
     const r=el.querySelector('.ring'); const ph=((t-ev.t0)%1.1)/1.1; r.setAttribute('r',14+ph*36); r.style.opacity=1-ph;
-    if(ev.side==null){ const w=ev.lab.offsetWidth; ev.side=(ev.lx<ev.px||ev.lx+w>1050)?'L':'R'; if(ev.side==='L'&&ev.lx-w<30) ev.lab.style.left=(w+30)+'px'; }
+    if(ev.side==null){ const w=ev.lab.offsetWidth; ev.side=(ev.lx<ev.px||ev.lx+w>SW-30)?'L':'R'; if(ev.side==='L'&&ev.lx-w<30) ev.lab.style.left=(w+30)+'px'; }
     const ax=ev.side==='L'?-100:0; const q=E.outBack(P(t,ev.t0+.4,.4)); ev.lab.style.transform=`translate(${ax}%,-50%) scale(${lerp(.6,1,q)})`; ev.lab.style.opacity=P(t,ev.t0+.4,.15); }};
 C.ecg={
-  build(ev){ const el=h('div','ev'); el.style.height='1920px'; const W=ev.w||920, H=ev.h||520; const b=h('div','ecg'); b.style.left=(ev.x??80)+'px'; b.style.top=(ev.y??200)+'px'; b.style.width=W+'px'; b.style.height=H+'px';
+  build(ev){ const el=h('div','ev'); el.style.height=SH+'px'; const W=ev.w||920, H=ev.h||520; const b=h('div','ecg'); b.style.left=(ev.x??80)+'px'; b.style.top=(ev.y??200)+'px'; b.style.width=W+'px'; b.style.height=H+'px';
     const c=document.createElement('canvas'); c.width=W; c.height=H; b.appendChild(c); ev.cv=c;
     b.insertAdjacentHTML('beforeend',`<div class="tag">${ev.label||'HEART RATE'}</div><div class="hud"><div class="bpm">0</div><div class="u">BPM</div></div><svg class="hrt" viewBox="0 0 54 48"><path d="M27 46 C10 33 2 24 2 14 C2 6 8 2 14 2 C20 2 24 6 27 10 C30 6 34 2 40 2 C46 2 52 6 52 14 C52 24 44 33 27 46Z" fill="#FF3B4E"/></svg>`);
     ev.bpmEl=b.querySelector('.bpm'); ev.hrt=b.querySelector('.hrt'); el.appendChild(b); return el; },
@@ -332,7 +333,7 @@ C.ecg={
     g.strokeStyle='#39FF88'; g.stroke(); g.shadowBlur=0;
     const bp=bpmAt(lt); ev.bpmEl.textContent=Math.round(bp); const ph=((lt*bp/60)%1); ev.hrt.style.transform=`scale(${1+.25*Math.exp(-ph*10)})`; }};
 C.photo={   // framed real photo/illustration panel (Ken Burns), e.g. anatomy image or the creator's diet photo
-  build(ev){ const el=h('div','ev'); el.style.height='1920px'; const W=ev.w||760, H=ev.h||560; const b=h('div','card'); b.style.position='absolute'; b.style.overflow='hidden';
+  build(ev){ const el=h('div','ev'); el.style.height=SH+'px'; const W=ev.w||760, H=ev.h||560; const b=h('div','card'); b.style.position='absolute'; b.style.overflow='hidden';
     b.style.left=(ev.x??160)+'px'; b.style.top=(ev.y??220)+'px'; b.style.width=W+'px'; b.style.height=H+'px'; b.style.padding='0'; b.style.borderRadius=(ev.r??28)+'px'; b.style.border='4px solid rgba(255,255,255,.9)';
     const im=document.createElement('img'); im.src=ev.src; im.style.width='100%'; im.style.height='100%'; im.style.objectFit=ev.fit||'cover'; im.style.objectPosition=ev.pos||'50% 50%'; b.appendChild(im); ev.im=im;
     if(ev.bg) b.style.background=ev.bg;
@@ -342,13 +343,48 @@ C.photo={   // framed real photo/illustration panel (Ken Burns), e.g. anatomy im
   update(ev,el,t){ const o=env(ev,t,.3,.3); el.style.opacity=o; if(!o) return; const b=el.firstChild; const p=E.outBack(P(t,ev.t0,.5));
     b.style.transform=`translateY(${(1-p)*90}px) rotate(${(ev.rot||0)*(1-.3*p)}deg) scale(${lerp(.85,1,p)})`;
     ev.im.style.transform=`scale(${1+(ev.kb??.08)*P(t,ev.t0,ev.t1-ev.t0)})`; }};
+C.dna={   // rotating double helix; from ev.breakT some base pairs turn red and snap (DNA damage)
+  build(ev){ const el=h('div','ev'); el.style.height=SH+'px'; const W=ev.w||1000, H=ev.h||420; const c=document.createElement('canvas'); c.width=W; c.height=H;
+    c.style.position='absolute'; c.style.left=(ev.x??40)+'px'; c.style.top=(ev.y??240)+'px'; el.appendChild(c); ev.cv=c;
+    if(ev.label){ const l=h('div','kicker',ev.label); l.style.cssText=`position:absolute;left:0;right:0;text-align:center;top:${(ev.y??240)+H+10}px;font-size:34px;letter-spacing:8px`; el.appendChild(l); }
+    return el; },
+  update(ev,el,t){ const o=env(ev,t,.35,.3); el.style.opacity=o; if(!o) return; const lt=t-ev.t0; const c=ev.cv, g=c.getContext('2d'), W=c.width, H=c.height; g.clearRect(0,0,W,H);
+    const N=ev.n||34, A=H*.36, mid=H/2, sp=W/(N-1), rot=lt*(ev.speed??1.6); const grow=E.outCubic(P(t,ev.t0,.8));
+    const br=ev.breakT!=null?P(t,ev.breakT,.6):0;
+    const pts=[[],[]];
+    for(let i=0;i<N;i++){ const x=i*sp, ph=i*.42+rot, y1=mid+A*Math.sin(ph)*grow, y2=mid-A*Math.sin(ph)*grow, z=Math.cos(ph);
+      pts[0].push([x,y1,z]); pts[1].push([x,y2,-z]);
+      const broken=br>0 && (i%5===2); const gap=broken?br*18:0;
+      g.lineWidth=7; g.lineCap='round'; g.shadowBlur=broken?18:10;
+      const ca=broken?'255,77,94':(i%2?'255,197,61':'80,220,255'), cb=broken?'255,77,94':(i%2?'80,220,255':'255,197,61');
+      const ym=(y1+y2)/2; g.globalAlpha=.55+.45*Math.abs(z);
+      g.shadowColor=`rgba(${ca},.9)`; g.strokeStyle=`rgb(${ca})`; g.beginPath(); g.moveTo(x,y1); g.lineTo(x,ym-(y2>y1?gap:-gap)); g.stroke();
+      g.shadowColor=`rgba(${cb},.9)`; g.strokeStyle=`rgb(${cb})`; g.beginPath(); g.moveTo(x,ym+(y2>y1?gap:-gap)); g.lineTo(x,y2); g.stroke(); }
+    g.globalAlpha=1; g.shadowBlur=14; g.shadowColor='rgba(255,255,255,.7)';
+    for(const L of pts){ for(let i=1;i<L.length;i++){ const [x0,y0,z0]=L[i-1],[x1,y1,z1]=L[i]; g.lineWidth=6+5*(z0+1)/2; g.strokeStyle=`rgba(240,245,255,${.35+.65*(z0+1)/2})`; g.beginPath(); g.moveTo(x0,y0); g.lineTo(x1,y1); g.stroke(); } }
+    g.shadowBlur=0; el.firstChild.style.transform=`translateY(${(1-E.outCubic(P(t,ev.t0,.5)))*50}px)`; }};
+C.cells={  // cells multiplying (growth signal): each cell elongates and splits on its own schedule
+  build(ev){ const el=h('div','ev'); el.style.height=SH+'px'; const W=ev.w||1000, H=ev.h||600; const c=document.createElement('canvas'); c.width=W; c.height=H;
+    c.style.position='absolute'; c.style.left=(ev.x??40)+'px'; c.style.top=(ev.y??220)+'px'; el.appendChild(c); ev.cv=c;
+    let seed=7; const R=()=>{ seed=(seed*16807)%2147483647; return seed/2147483647; };
+    ev.cs=[...Array(ev.max||40)].map((_,i)=>({x:W*(.12+.76*R()), y:H*(.15+.7*R()), r:34+18*R(), born:i<(ev.n0||3)?0:(1.2+i*(ev.rate||.22))*(.8+.4*R()), a:R()*6.28}));
+    return el; },
+  update(ev,el,t){ const o=env(ev,t,.35,.3); el.style.opacity=o; if(!o) return; const lt=t-ev.t0; const c=ev.cv, g=c.getContext('2d'); g.clearRect(0,0,c.width,c.height);
+    const col=ev.color||'90,230,160';
+    for(const k of ev.cs){ const age=lt-k.born; if(age<0) continue; const p=E.outBack(clamp(age/.6)); const r=k.r*p; const wob=Math.sin(lt*2+k.a)*3;
+      g.shadowBlur=24; g.shadowColor=`rgba(${col},.7)`; g.fillStyle=`rgba(${col},.18)`; g.strokeStyle=`rgba(${col},.95)`; g.lineWidth=4;
+      g.beginPath(); g.ellipse(k.x+wob,k.y,r*1.05,r*.95,k.a,0,6.283); g.fill(); g.stroke();
+      g.shadowBlur=0; g.fillStyle=`rgba(${col},.75)`; g.beginPath(); g.arc(k.x+wob+r*.15,k.y-r*.1,r*.32,0,6.283); g.fill(); }
+    el.firstChild.style.transform=`scale(${lerp(.96,1,E.outCubic(P(t,ev.t0,.5)))})`; }};
 C.cine={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };
 C.flash={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };
 C.leak={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };
 
 function init(spec){
-  SPEC=spec; const root=document.getElementById('evs');
-  spec.events.forEach(ev=>{ if(!C[ev.type]) return; const el=C[ev.type].build(ev); if(ev.layer==='behind') el.classList.add('bh'); root.appendChild(el); comps.push([ev,el]); });
+  SPEC=spec; if(spec.size){ SW=spec.size[0]; SH=spec.size[1]; } document.documentElement.style.setProperty('--W',SW+'px'); document.documentElement.style.setProperty('--H',SH+'px');
+  if(spec.capScale) document.documentElement.style.setProperty('--capS',spec.capScale);
+  if(spec.vigInCompose) document.getElementById('vig').style.display='none'; const root=document.getElementById('evs');
+  spec.events.forEach(ev=>{ if(!C[ev.type]) return; const el=C[ev.type].build(ev); if(ev.layer==='behind') el.classList.add('bh'); if(ev.panel){ el.style.left=ev.panel[0]+'px'; el.style.width=ev.panel[1]+'px'; } root.appendChild(el); comps.push([ev,el]); });
   document.body.dataset.layer='front';
   // captions
   const cap=document.getElementById('cap'); cap.style.top=(spec.capY||1360)+'px';
@@ -375,7 +411,7 @@ function render(t){
   const L=document.getElementById('leak'); L.style.opacity=lk; L.style.transform=`translate(${lerp(-700,700,lx)}px,${lerp(-500,300,lx)}px) scale(1.2)`;
   let cb=0; for(const ev of SPEC.events){ if(ev.type==='cine'&&t>=ev.t0-.4&&t<=ev.t1+.4){ cb=Math.max(cb,Math.min(E.inOut(P(t,ev.t0-.4,.4)),1-E.inOut(P(t,ev.t1,.4)))*(ev.h||150)); } }
   document.querySelectorAll('#cine .bar').forEach(b=>b.style.height=cb+'px');
-  document.getElementById('prog').style.width=(1080*clamp(t/SPEC.dur))+'px';
+  document.getElementById('prog').style.width=(SW*clamp(t/SPEC.dur))+'px';
   if(SPEC.brand){ const b=document.getElementById('brand'); const bt=SPEC.brand; if(!b.innerHTML) b.innerHTML=`<i></i>${bt.text}`;
     const bo=Math.min(P(t,bt.t0,.4), 1-P(t,bt.t1-.3,.3)); const hidden=SPEC.events.some(ev=>!['flash','leak','cta'].includes(ev.type) && (ev.y||0)<300 && t>=ev.t0-.1 && t<=ev.t1+.1);
     b.style.opacity=Math.max(0,bo)*(hidden?0:0.92); }

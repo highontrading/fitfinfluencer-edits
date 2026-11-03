@@ -10,8 +10,9 @@ python3 -I - "$name" <<'PY'
 import cv2, numpy as np, glob, sys
 n = sys.argv[1]; fs = sorted(glob.glob(f'work/pv_{n}/c_*.jpg')); tiles = []
 for f in fs:
-    im = cv2.resize(cv2.imread(f), (270, 480), interpolation=cv2.INTER_AREA)
-    fr = int(f.split('_')[-1][:-4]); cv2.putText(im, f'{fr*1001/30000:.1f}', (8, 470), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 255), 2); tiles.append(im)
-while len(tiles) % 6: tiles.append(np.zeros_like(tiles[0]))
-cv2.imwrite(f'work/sheet_{n}.jpg', np.vstack([np.hstack(tiles[i:i+6]) for i in range(0, len(tiles), 6)]), [cv2.IMWRITE_JPEG_QUALITY, 85])
+    im = cv2.imread(f); im = cv2.resize(im, (270, 480) if im.shape[0] > im.shape[1] else (480, 270), interpolation=cv2.INTER_AREA)
+    fr = int(f.split('_')[-1][:-4]); cv2.putText(im, f'{fr*1001/30000:.1f}', (8, im.shape[0] - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 255), 2); tiles.append(im)
+C = 6 if tiles[0].shape[0] > tiles[0].shape[1] else 4
+while len(tiles) % C: tiles.append(np.zeros_like(tiles[0]))
+cv2.imwrite(f'work/sheet_{n}.jpg', np.vstack([np.hstack(tiles[i:i+C]) for i in range(0, len(tiles), C)]), [cv2.IMWRITE_JPEG_QUALITY, 85])
 PY

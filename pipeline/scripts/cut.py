@@ -72,7 +72,7 @@ def build(edl, work):
     vf = f"select='{sel}',setpts=N/(30000/1001)/TB/{sp},fps=30000/1001,{grade},format=yuv420p"
     open(f"{work}/{name}_vf.txt", 'w').write(vf)
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', src, '-map', '0:v:0', '-filter_script:v', f"{work}/{name}_vf.txt",
-                    '-frames:v', str(nout), '-c:v', 'libx264', '-preset', 'fast', '-crf', '13', '-an',
+                    '-frames:v', str(nout), '-c:v', 'libx264', '-preset', 'fast', '-crf', str(edl.get('crf', 13)), '-an',
                     f"{work}/{name}_cut.mp4"], check=True)
     # audio
     full = f"{work}/{edl['src']}.48k.wav"

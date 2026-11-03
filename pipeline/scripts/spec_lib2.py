@@ -17,16 +17,20 @@ class Spec(_Spec):
         'serious': ('whoosh_soft', 'hit_soft', 'sub_drop'),
         'energetic': ('swipe', 'impact', 'riser'),
     }
-    def __init__(self, work, name, mood='serious'):
-        super().__init__(work, name); self.mood = mood
+    def __init__(self, work, name, mood='serious', size=(1080, 1920)):
+        super().__init__(work, name); self.mood = mood; self.size = list(size)
     def add(self, ev, sfx=True):
         ty = ev['type']; inn, emph, rev = self.MOOD_SFX[self.mood]
-        if ty in ('kinetic', 'stamp', 'callout', 'ecg', 'cine'):
+        if ty in ('kinetic', 'stamp', 'callout', 'ecg', 'cine', 'dna', 'cells', 'photo'):
             self.events.append(ev)
             if sfx:
                 if ty == 'kinetic': self.fx(ev.get('sfx', inn if ev.get('anim') != 'slam' else emph), ev['t0'] - 0.05, ev.get('db', -16))
                 elif ty == 'stamp': self.fx('impact' if self.mood == 'energetic' else 'hit_soft', ev['t0'], -12)
                 elif ty == 'callout': self.fx('click', ev['t0'] + 0.1, -14)
+                elif ty in ('dna', 'cells', 'photo'):
+                    self.fx('whoosh_soft', ev['t0'] - 0.1, -17)
+                    if ty == 'dna' and ev.get('breakT'): self.fx('glitch', ev['breakT'], -14)
+                    if ty == 'photo': self.fx('shutter', ev['t0'], -16)
                 elif ty == 'ecg':
                     self.fx('whoosh_soft', ev['t0'] - 0.1, -18)
                     bpm = ev.get('bpm', 72); t = ev['t0'] + 0.4
@@ -42,14 +46,16 @@ class Spec(_Spec):
         face = np.array(json.load(open(f'{self.work}/{self.name}_face.json'))['face'])
         f0, f1 = int(t0 * 30000 / 1001), max(int(t0 * 30000 / 1001) + 1, int(t1 * 30000 / 1001))
         fx, fy, fh = np.median(face[f0:f1], axis=0)
-        faceY = self.cam.get('faceY', 0.40); h = 1920 / z
-        y0 = min(max(fy - faceY * h, 0), 1920 - h)
+        SW, SH = self.size; faceY = self.cam.get('faceY', 0.40); h = SH / z
+        y0 = min(max(fy - faceY * h, 0), SH - h)
         out_fy = (fy - y0) * z; head_top = out_fy - 0.62 * fh * z
         cap = 0.70 * size                       # Bebas/Anton cap height
         ytop = head_top + overlap * cap - 0.83 * size   # glyph bottom sits `overlap` of cap-height below the head top
+        ytop = max(ytop, 0.04 * SH - 0.1 * size)        # never off the top of the frame
         self.cam['ranges'].append({'mode': 'zoom', 't0': t0 - 0.05, 't1': t1, 'z': z, 'tr': 0.25})
-        kw.setdefault('font', 'bebas'); kw.setdefault('anim', 'track'); kw.setdefault('opacity', 0.97); kw.setdefault('color', '#FFC53D'); kw.setdefault('fit', 1010)
-        return self.kin(t0, t1, [word], x=540, y=int(ytop), sizes=[size], layer='behind', **kw)
+        kw.setdefault('font', 'bebas'); kw.setdefault('anim', 'track'); kw.setdefault('opacity', 0.97); kw.setdefault('color', '#FFC53D'); kw.setdefault('fit', self.size[0] - 160); kw.setdefault('grow', 0.012)
+        kw.setdefault('x', self.size[0] // 2)
+        return self.kin(t0, t1, [word], y=int(ytop), sizes=[size], layer='behind', **kw)
     def lint(self):
         bad = []
         for p, s in _strings({'events': self.events}):
@@ -63,4 +69,5 @@ class Spec(_Spec):
     def save(self, *a, **k):
         self.lint()
         k.setdefault('extra', {})['overlay'] = 'v2'
+        k['extra']['size'] = self.size
         super().save(*a, **k)

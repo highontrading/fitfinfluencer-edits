@@ -10,8 +10,8 @@ face = np.array(json.load(open(f'{work}/{name}_face.json'))['face'])
 cam = spec['camera']
 FPS = 30000 / 1001
 N = spec['frames']
-OW, OH = 1080, 1920
-SW, SH = 1080, 1920
+OW, OH = spec.get('size', [1080, 1920])
+SW, SH = OW, OH
 
 def clamp(x, a, b): return max(a, min(b, x))
 def ease(t): t = clamp(t, 0, 1); return 4*t*t*t if t < .5 else 1 - (-2*t + 2)**3 / 2
@@ -151,13 +151,13 @@ def render_cam(src, fx, fy, z, t, br=None):
 brolls = spec.get('broll', [])
 bdec = {}
 def broll_cmd(br, extra_ss=0.0):
-    if br.get('fit') == 'card':   # wide crop matching the speaker-card window, centred in a 1080x1920 canvas
+    if br.get('fit') == 'card' and SH > SW:   # wide crop matching the speaker-card window, centred in a portrait canvas
         ch = 940
         geo = (f"scale={SW}:{ch}:force_original_aspect_ratio=increase:flags=lanczos,crop={SW}:{ch}:(iw-ow)*{br.get('x', 0.5)}:(ih-oh)*{br.get('cy', 0.5)},"
                f"pad={SW}:{SH}:0:{(SH - ch) // 2}")
     else:
         geo = f"scale={SW}:{SH}:force_original_aspect_ratio=increase:flags=lanczos,crop={SW}:{SH}:(iw-ow)*{br.get('x', 0.5)}:(ih-oh)*{br.get('cy', 0.5)}"
-    vf = f"{geo},fps=30000/1001,eq=contrast=1.05:saturation=1.05:gamma=0.98,unsharp=5:5:0.3,format=rgb24"
+    vf = f"{geo},fps=30000/1001,eq=contrast=1.05:saturation={br.get('sat', 1.05)}:gamma=0.98:brightness={br.get('bright', 0)},unsharp=5:5:0.3,format=rgb24"
     if br['file'].lower().endswith(('.jpg', '.jpeg', '.png', '.webp')):   # still photo: hold it, Ken Burns comes from the camera
         return ['ffmpeg', '-v', 'error', '-loop', '1', '-i', br['file'], '-vf', vf, '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-']
     return ['ffmpeg', '-v', 'error', '-ss', f"{br.get('off', 0.5) + extra_ss:.3f}", '-i', br['file'], '-vf', vf, '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-']
@@ -173,6 +173,13 @@ def broll_frame(bi, br, t):
     return d['last']
 
 SEG = None
+import time
+STREAM = bool(os.environ.get('STREAM'))
+VIG = None
+if spec.get('vigInCompose'):   # same look as the overlay's CSS vignette, applied here so overlay frames stay small
+    yy, xx = np.mgrid[0:OH, 0:OW].astype(np.float32)
+    rr = np.sqrt(((xx - 0.5 * OW) / (0.5 * OW)) ** 2 + ((yy - 0.45 * OH) / (0.55 * OH)) ** 2) / np.sqrt(2)
+    VIG = (1 - 0.38 * np.clip((rr - 0.55) / 0.45, 0, 1))[..., None]
 GR = cam.get('grain', 0)
 rng = np.random.default_rng(7)
 grain = [rng.normal(0, GR, (OH // 2, OW // 2)).astype(np.float32) for _ in range(6)] if GR else None
@@ -211,10 +218,14 @@ for f in range(N):
                 ob = render_cam(bf, 0, 0, 1.0, t, br)
                 out = ob if al >= 1 else (out.astype(np.float32) * (1 - al) + ob.astype(np.float32) * al).astype(np.uint8)
     # text behind the speaker: behind-layer under a person cut-out
+    op = os.path.join(ovdir, f'{f:05d}.png')
+    if STREAM:
+        while not os.path.exists(op) and not os.path.exists(os.path.join(ovdir, '_done')): time.sleep(0.05)
+        time.sleep(0.01)
     bp = os.path.join(ovdir, f'b_{f:05d}.png')
     if os.path.exists(bp):
         bov = cv2.imread(bp, cv2.IMREAD_UNCHANGED)
-        a = bov[..., 3:4].astype(np.float32) / 255
+        a = bov[..., 3:4].astype(np.float32) / 255 * (1.0 - range_mix(t, 'card')[0])   # behind-text fades out as the speaker card comes in
         blended = out.astype(np.float32) * (1 - a) + bov[..., 2::-1].astype(np.float32) * a
         in_broll = any(br['t0'] - 1e-6 <= t < br['t1'] for br in brolls)
         if not in_broll and range_mix(t, 'card')[0] < 0.001:
@@ -228,9 +239,17 @@ for f in range(N):
     if grain is not None:
         g = cv2.resize(grain[f % len(grain)], (OW, OH), interpolation=cv2.INTER_LINEAR)
         out = np.clip(out.astype(np.float32) + g[..., None], 0, 255).astype(np.uint8)
+    if VIG is not None:
+        out = (out.astype(np.float32) * VIG).astype(np.uint8)
     # overlay
     op = os.path.join(ovdir, f'{f:05d}.png')
+
     ov = cv2.imread(op, cv2.IMREAD_UNCHANGED)
+    if STREAM:
+        for q in (op, bp):
+            try: os.remove(q)
+            except OSError: pass
+        if f % 30 == 0: open(os.path.join(ovdir, '_pos'), 'w').write(str(f))
     if ov is not None:
         a = ov[..., 3:4].astype(np.uint16)
         rgb = ov[..., 2::-1].astype(np.uint16)

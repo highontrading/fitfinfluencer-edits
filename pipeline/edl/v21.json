@@ -1,0 +1,207 @@
+{
+ "name": "v21",
+ "src": "v21.mp4",
+ "chunks": "ch21.json",
+ "transcript": "t21.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 1,
+   "text": "Aap log starch, sugar galat use kar rahe ho."
+  },
+  {
+   "c": 2,
+   "text": "Aur aap logon ko pata bhi nahi hai."
+  },
+  {
+   "c": 3,
+   "e": 8.88,
+   "text": "Mere par-dada ko bhi diabetes tha, mere dada ko bhi diabetes tha,"
+  },
+  {
+   "c": 3,
+   "s": 8.88,
+   "e": 10.4,
+   "text": "meri dadi ko bhi diabetes tha,"
+  },
+  {
+   "c": 3,
+   "s": 10.4,
+   "text": "mere papa bhi pre-diabetic hain."
+  },
+  {
+   "c": 4,
+   "text": "Aur aaj ke time pe main 35 saal ka ho gaya hoon"
+  },
+  {
+   "c": 5,
+   "text": "aur mujhe diabetes ka koi naam-o-nishaan nahi hai."
+  },
+  {
+   "c": 6,
+   "text": "Aap sochte ho ye sirf aur sirf sugar hai."
+  },
+  {
+   "c": 7,
+   "text": "Aap sochte ho ki abhi khaaya, energy mili, khatam. Magar ekdam galat baat hai ye."
+  },
+  {
+   "c": 8,
+   "text": "Ye sugar aapki body mein jaa karke proteins pe chipak jaati hai, aur ye chipakti hai permanently"
+  },
+  {
+   "c": 9,
+   "text": "aur kabhi nahi utarti hai."
+  },
+  {
+   "c": 13,
+   "text": "Is process ka naam hai glycation, aur chemistry mein isko kehte hain Maillard reaction. 1912 mein"
+  },
+  {
+   "c": 14,
+   "text": "ye discover hua tha. Aur ye wahi reaction hai jo roti ko brown karta hai. Sugar plus protein plus heat is equal to brown roti."
+  },
+  {
+   "c": 15,
+   "text": "Wahi reaction aapki body mein bhi ho raha hai."
+  },
+  {
+   "c": 16,
+   "text": "Slowly ho raha hai, decades mein ho raha hai, but ho raha hai."
+  },
+  {
+   "c": 21,
+   "text": "Glucose aapke blood mein hai, wo lysine aur arginine amino acid par chipka hua hai,"
+  },
+  {
+   "c": 22,
+   "text": "ek Schiff base banata hai, Amadori product banata hai, phir AGEs"
+  },
+  {
+   "c": 23,
+   "text": "badhti chali jaati hain aap logon ki, aur advanced glycation end product yahin se banta hai."
+  },
+  {
+   "c": 24,
+   "text": "Aur ye permanently irreversible hai."
+  },
+  {
+   "c": 26,
+   "text": "Aur ye AGEs ek receptor activate karte hain, RAGE naam ka, jisko kehte hain receptor of advanced glycation end product, aur naam hai iska RAGE, sahi naam hai."
+  },
+  {
+   "c": 29,
+   "text": "RAGE activate hone se NF-kB pathway on ho jaata hai, aur yahi ek chronic inflammation jo hoti hai body mein, jiske through cancer hota hai,"
+  },
+  {
+   "c": 30,
+   "text": "usko activate kar deta hai."
+  },
+  {
+   "c": 32,
+   "text": "Collagen pe chipka hua hai"
+  },
+  {
+   "c": 33,
+   "text": "toh wrinkles hona shuru ho jaayenge. Blood vessels par chipka hua hai toh BP badh jaayega."
+  },
+  {
+   "c": 34,
+   "text": "Aur"
+  },
+  {
+   "c": 35,
+   "text": "aankhon pe chipka hua hai toh cataract jo hai wo badh jaayenge. Haemoglobin pe hai toh HbA1c test jo karaate ho aap log"
+  },
+  {
+   "c": 36,
+   "text": "isi ke liye toh karaate ho."
+  },
+  {
+   "c": 37,
+   "text": "Sirf ek aadat hai jo aapki body ko poora ka poora barbaad kar rahi hai, aur wo hai hidden sugar."
+  },
+  {
+   "c": 38,
+   "text": "Ketchup mein 4 gram hai, healthy juice mein aap logon ke 25-30 gram hai, bread mein 3-6 gram hai."
+  },
+  {
+   "c": 39,
+   "text": "Aur aap logon ko pata bhi nahi hai."
+  },
+  {
+   "c": 40,
+   "text": "Doctor ne mujhe 16 saal ki age mein kaha tha ki aap logon ki poori family mein"
+  },
+  {
+   "c": 41,
+   "text": "sabko diabetes hai, aapko bhi 25 se 30 saal mein diabetes ho jaayegi."
+  },
+  {
+   "c": 42,
+   "text": "Aaj main 35 ka hoon"
+  },
+  {
+   "c": 43,
+   "text": "aur"
+  },
+  {
+   "c": 44,
+   "text": "mera HbA1c perfect hai. Kaise hai?"
+  },
+  {
+   "c": 45,
+   "text": "Main batata hoon."
+  },
+  {
+   "c": 46,
+   "text": "Glycation reverse nahi hoti hai,"
+  },
+  {
+   "c": 47,
+   "text": "lekin roki ja sakti hai. Kaise?"
+  },
+  {
+   "c": 48,
+   "text": "Health protocol mein maine yahi saari cheezein batayi hain, step by step."
+  },
+  {
+   "c": 49,
+   "text": "Aur"
+  },
+  {
+   "c": 50,
+   "text": "main koi mazaak ki baat nahi kar raha hoon. Agar aap logon ne apni lifestyle aaj ke time se sudhaar li, toh aap logon ko bhi"
+  },
+  {
+   "c": 51,
+   "text": "kabhi bhi diabetes nahi hoga, poori zindagi bhar diabetes nahi hoga, bhale hi aap logon ke poore"
+  },
+  {
+   "c": 52,
+   "text": "tree mein"
+  },
+  {
+   "c": 53,
+   "text": "sabko diabetes ho rakha ho, magar aap logon ko diabetes nahi hoga."
+  },
+  {
+   "c": 54,
+   "text": "Aap apne aapko cure kar sakte ho agar aap log apni lifestyle sahi rakhein toh."
+  },
+  {
+   "c": 57,
+   "text": "Mera kaam tha science pahunchana,"
+  },
+  {
+   "c": 58,
+   "text": "decision aapka hai."
+  },
+  {
+   "c": 59,
+   "text": "You are watching FitFinfluencer, milte hain next video mein!"
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}
