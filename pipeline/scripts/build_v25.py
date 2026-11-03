@@ -72,7 +72,7 @@ K(S(56), S(57) + 1.5, ['THE SAME DNA', 'IN EVERY CELL'], sizes=[100, 100], anim=
 K(S(57) + 1.5, S(61) - 0.05, ['SO HOW DOES A HEART CELL', 'KNOW IT\'S A *HEART CELL*?'], sizes=[64, 80], font='serif', anim='type')
 # ---------------- chapter 2
 chapter(S(61), 2, 'THE EPIGENOME')
-Bh(S(62), S(64) - 0.05, 'EPIGENOME', size=280, color=G)
+# (behind EPIGENOME here collided with the chapter-2 title; removed)
 K(S(64), S(65) - 0.05, ['EPI = *ABOVE*', 'GENOME = *GENES*'], sizes=[110, 110], anim='rise', stagger=0.5)
 K(S(65), S(66) - 0.05, ['A CONTROL SYSTEM', 'ABOVE YOUR GENES'], sizes=[90, 90], anim='wipe')
 K(S(66), S(68) - 0.05, ["SINCLAIR'S", '*PIANO*'], sizes=[90, 150], anim='slam')

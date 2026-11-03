@@ -255,7 +255,7 @@ for f in range(N):
         rgb = ov[..., 2::-1].astype(np.uint16)
         out = ((out.astype(np.uint16) * (255 - a) + rgb * a) // 255).astype(np.uint8)
     if only:
-        cv2.imwrite(f'{outp}_{f:05d}.jpg', cv2.cvtColor(out, cv2.COLOR_RGB2BGR), [cv2.IMWRITE_JPEG_QUALITY, 88]); continue
+        (cv2.imwrite(f'{outp}_{f:05d}.png', cv2.cvtColor(out, cv2.COLOR_RGB2BGR)) if os.environ.get('PNGOUT') else cv2.imwrite(f'{outp}_{f:05d}.jpg', cv2.cvtColor(out, cv2.COLOR_RGB2BGR), [cv2.IMWRITE_JPEG_QUALITY, 88])); continue
     enc.stdin.write(np.ascontiguousarray(out).tobytes())
     if f % 300 == 0: print(name, f, '/', N, flush=True)
 if enc: enc.stdin.close(); enc.wait()
