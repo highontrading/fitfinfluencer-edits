@@ -1,0 +1,246 @@
+{
+ "name": "v27",
+ "src": "v27.mp4",
+ "chunks": "ch27.json",
+ "transcript": "t27.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "s": 0.55,
+   "text": "Ek comment aaya hai"
+  },
+  {
+   "c": 1,
+   "text": "ki"
+  },
+  {
+   "c": 2,
+   "text": "kaun sa namak BP ke liye sabse achha hai?"
+  },
+  {
+   "c": 3,
+   "text": "Sab bolte hain namak kam kar lo, kisi ne ye bataya hai ki alternative namak kaun sa hai bhai,"
+  },
+  {
+   "c": 4,
+   "text": "jo actually"
+  },
+  {
+   "c": 5,
+   "text": "kaam karta hai, science mein proven hai?"
+  },
+  {
+   "c": 6,
+   "text": "But"
+  },
+  {
+   "c": 7,
+   "text": "ye bahut zyada important hai ki ye namak sab ke liye nahi bana hua hai, kuch logon ke liye bahut zyada dangerous bhi hai."
+  },
+  {
+   "c": 8,
+   "text": "Ab"
+  },
+  {
+   "c": 9,
+   "text": "main baat kar raha hoon low sodium salt ki."
+  },
+  {
+   "c": 10,
+   "text": "Normal namak mein sodium chloride hota hai, NaCl. Yaani ki sodium"
+  },
+  {
+   "c": 11,
+   "text": "blood volume ko badhaata hai. Kaise badhaata hai? Sodium paani ko rok karke rakhta hai."
+  },
+  {
+   "c": 12,
+   "text": "Toh body mein"
+  },
+  {
+   "c": 14,
+   "text": "jo vessels hain na, us pe zyada pressure pad jaata hai, agar zyada paani hota hai ya zyada blood volume hota hai. Toh low sodium salt kya hai?"
+  },
+  {
+   "c": 15,
+   "text": "Usmein sodium ki jagah par potassium chloride hota hai,"
+  },
+  {
+   "c": 17,
+   "text": "aur"
+  },
+  {
+   "c": 18,
+   "text": "potassium chloride, yaani ki KCl."
+  },
+  {
+   "c": 20,
+   "text": "Typically 75% sodium hota hai aur 25% potassium hota hai."
+  },
+  {
+   "c": 22,
+   "text": "Potassium kaam karta hai ekdam opposite"
+  },
+  {
+   "c": 23,
+   "text": "sodium ka."
+  },
+  {
+   "c": 24,
+   "text": "Kidney ko signal deta hai ki bhai, sodium bahar nikaal do, sodium ko flush kar do."
+  },
+  {
+   "c": 25,
+   "text": "Blood volume kam ho jaata hai aur pressure"
+  },
+  {
+   "c": 26,
+   "text": "gir jaata hai."
+  },
+  {
+   "c": 28,
+   "text": "Ab ek bada sa trial hua tha, bahut,"
+  },
+  {
+   "c": 29,
+   "text": "jisko"
+  },
+  {
+   "c": 30,
+   "text": "bahut duniya mein famous bhi maana jaata hai."
+  },
+  {
+   "c": 31,
+   "text": "Isko bolte hain SSaSS, yaani ki Salt Substitute and Stroke Study."
+  },
+  {
+   "c": 32,
+   "text": "20,000 logon ke upar hua tha, aur jab"
+  },
+  {
+   "c": 33,
+   "text": "is trial mein logon ka namak change kar diya gaya,"
+  },
+  {
+   "c": 34,
+   "text": "namak ko"
+  },
+  {
+   "c": 35,
+   "text": "upar se daalna band kar diya gaya, toh roughly"
+  },
+  {
+   "c": 36,
+   "text": "logon ke"
+  },
+  {
+   "c": 37,
+   "text": "stroke ka risk"
+  },
+  {
+   "c": 38,
+   "text": "14% gir gaya aur death ka risk 12% gir gaya."
+  },
+  {
+   "c": 39,
+   "text": "Ab sabse important baat bata raha hoon main:"
+  },
+  {
+   "c": 40,
+   "e": 154.0,
+   "text": "kaun nahi khaana hai, kisko nahi khaana ye namak, ye samajh lijiye."
+  },
+  {
+   "c": 41,
+   "text": "Kidney disease waale ekdam na khaayein isko. Kidney potassium ko flush kar deti hai, aur"
+  },
+  {
+   "c": 42,
+   "text": "kidney weak hai agar aapki,"
+  },
+  {
+   "c": 43,
+   "text": "toh potassium accumulate ho jaayega."
+  },
+  {
+   "c": 44,
+   "text": "Uski wajah se aapko hyperkalemia ho jaayega, aur ye zyada lethal hai BP se."
+  },
+  {
+   "c": 45,
+   "text": "Tabiyat aur zyada kharab ho jaayegi, heart ka rhythm bigad sakta hai."
+  },
+  {
+   "c": 46,
+   "text": "Number two:"
+  },
+  {
+   "c": 47,
+   "text": "jo log ACE inhibitors"
+  },
+  {
+   "c": 48,
+   "e": 189.35,
+   "text": "use karte hain, yaani ki ARBs,"
+  },
+  {
+   "c": 49,
+   "text": "ya potassium-sparing"
+  },
+  {
+   "c": 50,
+   "text": "diuretics le rahe hain,"
+  },
+  {
+   "c": 51,
+   "text": "ye dawaiyan bhi potassium aapki badha deti hain. Upar se extra potassium aap logon ke liye danger ho jaayega."
+  },
+  {
+   "c": 52,
+   "text": "Number three:"
+  },
+  {
+   "c": 53,
+   "text": "boodhe patients, jinki kidney waise hi kharab ho chuki hai,"
+  },
+  {
+   "c": 54,
+   "text": "un logon ko bhi ye salaah deta hoon main ki aap log"
+  },
+  {
+   "c": 55,
+   "text": "high potassium wala salt na lijiye."
+  },
+  {
+   "c": 57,
+   "text": "Baaki logon ke liye low sodium salt namak simple aur proven swap hai."
+  },
+  {
+   "c": 58,
+   "text": "2025 mein WHO ne bhi recommend kiya tha ki bhai, low sodium salt khaaiye aap."
+  },
+  {
+   "c": 59,
+   "text": "But"
+  },
+  {
+   "c": 60,
+   "text": "pehle doctor se consult karna is very important,"
+  },
+  {
+   "c": 61,
+   "text": "aur especially agar koi bhi BP ki dawai kha raha hai na,"
+  },
+  {
+   "c": 62,
+   "text": "toh doctor se zaroor poochh le."
+  },
+  {
+   "c": 67,
+   "text": "Sawaal bilkul simple hai, namak badalna important hai, but science samajh karke badalne mein aap logon ka fayda hai. Mera kaam tha science pahunchana, decision aapka. You are watching FitFinfluencer, milte hain next video mein!"
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

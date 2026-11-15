@@ -1,0 +1,367 @@
+{
+ "name": "v28",
+ "src": "v28.mp4",
+ "chunks": "ch28.json",
+ "transcript": "t28.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "text": "170 by 110, ye number meri wife ke"
+  },
+  {
+   "c": 1,
+   "text": "BP ka tha."
+  },
+  {
+   "c": 2,
+   "text": "Itna zyada high"
+  },
+  {
+   "c": 3,
+   "text": "BP tha!"
+  },
+  {
+   "c": 4,
+   "text": "Normal kitna hota hai?"
+  },
+  {
+   "c": 5,
+   "text": "120 by 80, jo log kehte hain,"
+  },
+  {
+   "c": 6,
+   "text": "aur"
+  },
+  {
+   "c": 7,
+   "text": "but kuch medical science aisi bhi hai jo"
+  },
+  {
+   "c": 8,
+   "text": "normal ki range batati hai."
+  },
+  {
+   "c": 9,
+   "text": "Or 120 by 80"
+  },
+  {
+   "c": 10,
+   "text": "normal range mein hi aata hai."
+  },
+  {
+   "c": 11,
+   "text": "Kuch log"
+  },
+  {
+   "c": 12,
+   "text": "130 by"
+  },
+  {
+   "c": 13,
+   "text": "100 ko bhi normal"
+  },
+  {
+   "c": 14,
+   "text": "BP batate hain."
+  },
+  {
+   "c": 15,
+   "text": "Toh"
+  },
+  {
+   "c": 16,
+   "text": "but 170 by 110 was"
+  },
+  {
+   "c": 17,
+   "text": "quite dangerous for my wife."
+  },
+  {
+   "c": 18,
+   "text": "170 systolic BP,"
+  },
+  {
+   "c": 19,
+   "text": "110 diastolic BP."
+  },
+  {
+   "c": 20,
+   "text": "Aur sabse scary part pata hai kya tha?"
+  },
+  {
+   "c": 21,
+   "text": "Usko kuch feel nahi ho raha tha."
+  },
+  {
+   "c": 22,
+   "text": "Usko na koi headache ho raha tha, na koi"
+  },
+  {
+   "c": 23,
+   "text": "dizziness thi, nothing, kuch bhi nahi."
+  },
+  {
+   "c": 24,
+   "text": "Aur isi liye shaayad BP ko silent killer bola jaata hai."
+  },
+  {
+   "c": 25,
+   "text": "Aur ye sirf naam nahi hai,"
+  },
+  {
+   "c": 26,
+   "text": "ye data hai jo ki"
+  },
+  {
+   "c": 27,
+   "text": "BP ko silent killer bolta hai."
+  },
+  {
+   "c": 28,
+   "text": "High BP aapki arteries ki inner wall ko damage kar deti hai, yaani ki"
+  },
+  {
+   "c": 29,
+   "text": "endothelium jisko kehte hain. Endothelium ek single"
+  },
+  {
+   "c": 30,
+   "text": "silky layer hoti hai,"
+  },
+  {
+   "c": 31,
+   "text": "itni patli si hoti hai ki"
+  },
+  {
+   "c": 32,
+   "text": "matlab usko damage karna bahut aasaan ho jaata hai. Jab pressure bahut zyada ho jaata hai, toh ye layer toot jaati hai."
+  },
+  {
+   "c": 34,
+   "text": "Wahin pe"
+  },
+  {
+   "c": 35,
+   "text": "LDL cholesterol jama hona shuru ho jaata hai, plaque ban jaata hai aur arteries tight ho jaati hain."
+  },
+  {
+   "c": 36,
+   "text": "Heart ko zyada pump karna padta hai, aur heart ki wall"
+  },
+  {
+   "c": 37,
+   "text": "jo hoti hai, wo moti hoti hai."
+  },
+  {
+   "c": 40,
+   "text": "Jo left ventricular hypertrophy hoti hai heart ki,"
+  },
+  {
+   "c": 41,
+   "text": "wo wahan ki baat ho rahi hai, wahan ka jo wall hota hai wo tight hota hai."
+  },
+  {
+   "c": 42,
+   "text": "Aur"
+  },
+  {
+   "c": 43,
+   "text": "kidney ki chhoti si arteries jo hoti hain,"
+  },
+  {
+   "c": 44,
+   "text": "wo damage ho jaati hain."
+  },
+  {
+   "c": 45,
+   "text": "Brain ki jo arteries hoti hain, wo bhi damage ho jaati hain."
+  },
+  {
+   "c": 48,
+   "text": "Aur ye sab jo hota hai na, wo bina symptom ke hota hai,"
+  },
+  {
+   "c": 49,
+   "text": "aur"
+  },
+  {
+   "c": 50,
+   "text": "dheere dheere dheere saalon tak hota hai."
+  },
+  {
+   "c": 52,
+   "text": "Achha hua ki humne routine checkup kara liya,"
+  },
+  {
+   "c": 53,
+   "text": "tabhi toh pata chala ki isko BP hai."
+  },
+  {
+   "c": 54,
+   "text": "34 ki age mein jab meri wife ko BP nikla na,"
+  },
+  {
+   "c": 55,
+   "text": "toh main toh bahut shock reh gaya."
+  },
+  {
+   "c": 56,
+   "text": "Aur"
+  },
+  {
+   "c": 57,
+   "text": "doctor ne reading dekhi, toh turant bola ki bhai sahab, high BP, turant dawai khaana shuru kar do."
+  },
+  {
+   "c": 58,
+   "text": "Telmisartan ki 40 mg ki do dawaiyan,"
+  },
+  {
+   "c": 59,
+   "text": "ek subah, ek shaam ko khaana shuru karna pada usko."
+  },
+  {
+   "c": 60,
+   "text": "Aur doctor ne kaha ki ab ye dawaiyan zindagi bhar khaani padengi."
+  },
+  {
+   "c": 61,
+   "text": "But"
+  },
+  {
+   "c": 63,
+   "text": "aaj ke time par meri wife, dedh mahina ho gaya usko,"
+  },
+  {
+   "c": 64,
+   "text": "usne"
+  },
+  {
+   "c": 65,
+   "text": "koi dawai nahi khaayi."
+  },
+  {
+   "c": 66,
+   "text": "Aur"
+  },
+  {
+   "c": 67,
+   "text": "ye saari cheezein hum log doctor ki nigraani mein hi kiye hain, but"
+  },
+  {
+   "c": 68,
+   "text": "ye cheez achieve kar chuke hain hum log ki usko dawai ki koi zaroorat nahi hai."
+  },
+  {
+   "c": 69,
+   "text": "Maine poori ki poori science samjhi, poora ka poora protocol banaya ki kis tareeke se hum log is BP ko theek kiya ja sakta hai,"
+  },
+  {
+   "c": 70,
+   "text": "kyunki mujhe aisa lagta hai ki koi aisi beemari nahi hai jisko theek nahi kiya ja sakta, apne andar sudhaar karke."
+  },
+  {
+   "c": 71,
+   "text": "Log kehte hain ki pehle beemari yahan hoti hai,"
+  },
+  {
+   "c": 72,
+   "text": "phir beemari aapki body mein pahunchti hai."
+  },
+  {
+   "c": 73,
+   "text": "Toh main aap logon ko bata raha hoon ki"
+  },
+  {
+   "c": 74,
+   "text": "170 by 110"
+  },
+  {
+   "c": 75,
+   "text": "ekdam controlled ho chuka hai aaj ke time par,"
+  },
+  {
+   "c": 76,
+   "text": "aur doctor ki nigraani mein hua hai."
+  },
+  {
+   "c": 77,
+   "text": "Aur ismein sabse bada role"
+  },
+  {
+   "c": 78,
+   "text": "kisi ka hai, toh wo hai lifestyle ka."
+  },
+  {
+   "c": 79,
+   "text": "Main apni wife ki poori story"
+  },
+  {
+   "c": 80,
+   "text": "isi channel par achhe tareeke se bataunga aap logon ko,"
+  },
+  {
+   "c": 81,
+   "text": "aur"
+  },
+  {
+   "c": 82,
+   "text": "wife ka BP theek kaise hua, ye step by step process bataunga aap logon ko."
+  },
+  {
+   "c": 83,
+   "text": "Aur agar aapne abhi"
+  },
+  {
+   "c": 84,
+   "text": "tak apna BP check nahi karaya hai,"
+  },
+  {
+   "c": 85,
+   "text": "toh regular basis pe"
+  },
+  {
+   "c": 86,
+   "text": "BP check karna shuru kar dijiye aap log, kyunki BP ek silent killer hai."
+  },
+  {
+   "c": 87,
+   "text": "Jitne logon ka sardard regular basis par bana rehta hai, wo saare log check karana shuru kar do,"
+  },
+  {
+   "c": 88,
+   "text": "kyunki"
+  },
+  {
+   "c": 89,
+   "text": "agar aap log ye saari cheezein nahi karte ho,"
+  },
+  {
+   "c": 91,
+   "text": "toh ye chhupa hua"
+  },
+  {
+   "c": 93,
+   "text": "dangerous"
+  },
+  {
+   "c": 94,
+   "text": "beemari hai,"
+  },
+  {
+   "c": 95,
+   "text": "wo kabhi bhi aap logon ko lag sakti hai."
+  },
+  {
+   "c": 96,
+   "text": "Mera kaam tha science pahunchana, decision aapka hai. You are watching FitFinfluencer, milte hain"
+  },
+  {
+   "c": 97,
+   "text": "next video mein!"
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

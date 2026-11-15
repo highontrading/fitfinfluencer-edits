@@ -1,0 +1,189 @@
+{
+ "name": "v32",
+ "src": "v32.mp4",
+ "chunks": "ch32.json",
+ "transcript": "t32.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 2,
+   "text": "Jiske bhi ghar jaao, wo saare log yahi poochhte hain: chai pee lo beta, biscuit kha lo beta. Chai biscuit, chai biscuit, subah subah chai biscuit, shaam ko chai biscuit. Kitna chai biscuit khaayega aadmi yaar?"
+  },
+  {
+   "c": 3,
+   "text": "Ye chai biscuit aap logon ka subah ka breakfast nahi hai,"
+  },
+  {
+   "c": 5,
+   "text": "ye bilkul hi slow poison hai aap logon ke liye."
+  },
+  {
+   "c": 6,
+   "text": "Aur karodon logon ka daily routine hai ye chai biscuit ka:"
+  },
+  {
+   "c": 9,
+   "text": "ek chai aur do biscuit,"
+  },
+  {
+   "c": 10,
+   "text": "thoda sa namkeen,"
+  },
+  {
+   "c": 11,
+   "text": "bas, subah ka naashta ho gaya in logon ka. Ab isko science ke saath todta hoon, ekdam achhe tareeke se, video ko dekhna,"
+  },
+  {
+   "c": 12,
+   "text": "aur achha lage toh apne maa-baap ko zaroor bhejna,"
+  },
+  {
+   "c": 13,
+   "text": "kyunki unko toh chai biscuit healthy lagta hai na."
+  },
+  {
+   "c": 17,
+   "text": "Ab main chai ki baat kar deta hoon: doodh plus cheeni, do chammach cheeni aap ismein daalo."
+  },
+  {
+   "c": 19,
+   "text": "Do chammach cheeni,"
+  },
+  {
+   "c": 20,
+   "text": "10 gram aapki cheeni"
+  },
+  {
+   "c": 21,
+   "text": "ek hi baar mein aapki body mein chala gaya."
+  },
+  {
+   "c": 22,
+   "text": "Glucose spike instant ho jaayegi, insulin surge aata hai, aur wo insulin surge itna tezi se aata hai ki"
+  },
+  {
+   "c": 23,
+   "text": "cells jo hain aapki, insulin resistant ho jaati hain."
+  },
+  {
+   "c": 24,
+   "text": "Isi ko kehte hain insulin resistance."
+  },
+  {
+   "c": 29,
+   "text": "Aur type 2 diabetes ka ekdam seedha raasta hai insulin resistance."
+  },
+  {
+   "c": 31,
+   "text": "Ab is biscuit ko tod deta hoon:"
+  },
+  {
+   "c": 32,
+   "text": "maida, refined flour. Yaani ki refined flour ka glycemic index hota hai 85 plus, aur glucose bahut tezi se badhaata hai."
+  },
+  {
+   "c": 33,
+   "e": 165.15,
+   "text": "Plus ismein palm oil hota hai, yaani ki saturated fat, jo ki aap logon ka LDL cholesterol badhaata hai. Aajkal saare maa-baap ka LDL cholesterol badha hua hai, aur in logon ko lagta hai ki umar ke saath saath LDL cholesterol badhta hai. Ye ekdam galat baat."
+  },
+  {
+   "c": 34,
+   "text": "Ab har biscuit mein hidden sugar hota hai."
+  },
+  {
+   "c": 35,
+   "text": "6-8 gram 4 biscuit ke andar sugar hota hai,"
+  },
+  {
+   "c": 36,
+   "text": "toh do biscuit bhi agar kha rahe ho aap log na, toh chaar gram extra sugar kha le rahe ho aap log."
+  },
+  {
+   "c": 38,
+   "text": "Aur kuch brands mein toh trans fat bhi hota hai, aur ye arteries ke liye sabse khatarnaak hai. Ab aap log ye saari cheezein khaaoge,"
+  },
+  {
+   "c": 39,
+   "text": "toh BP badhegi na?"
+  },
+  {
+   "c": 40,
+   "text": "Ab aa jaate hain namkeen par: ek serving mein 300 se 500 gram aap log"
+  },
+  {
+   "c": 41,
+   "text": "sirf aur sirf sodium kha lete ho. Daily limit BP patient ke liye 1500 mg sodium hai."
+  },
+  {
+   "c": 43,
+   "text": "Aur ek tihaai sodium toh aap log subah subah hi kha le rahe ho."
+  },
+  {
+   "c": 45,
+   "text": "Toh jo ye aap logon ka subah ka chhota sa naashta tha na,"
+  },
+  {
+   "c": 46,
+   "text": "usse aap logon ko sugar spike hoti hai, insulin resistance push hota hai, LDL cholesterol badh jaata hai, sodium quota ek tihaai aap log waise hi bhar dete ho,"
+  },
+  {
+   "c": 47,
+   "text": "aur"
+  },
+  {
+   "c": 48,
+   "text": "ismein koi fiber nahi hota hai, protein nahi hota hai, koi micronutrients nahi hote hain."
+  },
+  {
+   "c": 49,
+   "text": "Aur aap logon ko lagta hai ki chai biscuit se behtar cheez kuch hai hi nahi."
+  },
+  {
+   "c": 50,
+   "text": "Aap saare log chai biscuit ke nashedi ho chuke ho."
+  },
+  {
+   "c": 51,
+   "text": "Ab iska replacement kya hai, ye achhe tareeke se sun lo, aur apne maa-baap ko bhi bhej dena, agar bachche log dekh rahe ho toh."
+  },
+  {
+   "c": 53,
+   "text": "Chai biscuit ka replacement hai: chai mein cheeni band kar dijiye,"
+  },
+  {
+   "c": 55,
+   "text": "doodh"
+  },
+  {
+   "c": 56,
+   "text": "use mat kariye."
+  },
+  {
+   "c": 57,
+   "text": "Chai ko sirf paani ke saath banaane ki koshish kariye, chai sirf paani ke saath banne ke liye bani hui hai. Biscuit ki jagah"
+  },
+  {
+   "c": 58,
+   "e": 300.4,
+   "text": "aap log omelette khaaiye, akhrot khaaiye, kela khaaiye, namkeen ki jagah bhuna hua chana khaaiye, makhana khaaiye."
+  },
+  {
+   "c": 59,
+   "text": "Same convenience hai, bas"
+  },
+  {
+   "c": 60,
+   "text": "aap logon ka damage control ho jaayega."
+  },
+  {
+   "c": 61,
+   "text": "Aapki plate aapki health decide karti hai, aur plate audit karna bahut zyada zaroori hai. Agar aap log ye saari cheezein nahi kar rahe ho, toh aap log beemar padoge, padoge, ye main likh karke de raha hoon."
+  },
+  {
+   "c": 62,
+   "text": "Mera kaam tha science pahunchana, decision aapka hai. You are watching FitFinfluencer, milte hain next video mein!"
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

@@ -1,0 +1,315 @@
+{
+ "name": "v29",
+ "src": "v29.mp4",
+ "chunks": "ch29.json",
+ "transcript": "t29.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "text": "Doston, ye ek exercise hai"
+  },
+  {
+   "c": 1,
+   "text": "jo aap logon ka BP gira sakti hai."
+  },
+  {
+   "c": 2,
+   "text": "Isko kehte hain wall sit."
+  },
+  {
+   "c": 3,
+   "text": "Aur"
+  },
+  {
+   "c": 4,
+   "text": "ismein koi gym nahi jaana hai,"
+  },
+  {
+   "c": 5,
+   "text": "ismein"
+  },
+  {
+   "c": 6,
+   "text": "aap logon ko bahut zyada daudna nahi hai."
+  },
+  {
+   "c": 7,
+   "text": "Bas"
+  },
+  {
+   "c": 8,
+   "text": "ek deewar chahiye aap logon ko, jis pe peeth deewar pe lagaani hai, aur 90 second ke liye ghutne"
+  },
+  {
+   "c": 9,
+   "text": "90 degree par mode rakhne hain."
+  },
+  {
+   "c": 10,
+   "text": "Theek? Jitna ho paaye utna karo."
+  },
+  {
+   "c": 11,
+   "text": "But"
+  },
+  {
+   "c": 12,
+   "text": "isse simple toh kuch ho nahi sakta."
+  },
+  {
+   "c": 13,
+   "text": "Ab"
+  },
+  {
+   "c": 14,
+   "text": "ye sawaal uthta hai ki ye BP giraayegi kaise?"
+  },
+  {
+   "c": 16,
+   "text": "Toh uske liye science suniye,"
+  },
+  {
+   "c": 17,
+   "text": "kyunki ye bahut zyada interesting hai."
+  },
+  {
+   "c": 18,
+   "text": "Jab aap wall sit pe hold karte ho, toh muscle aap logon ki squeeze hoti hai,"
+  },
+  {
+   "c": 20,
+   "text": "lekin"
+  },
+  {
+   "c": 21,
+   "text": "move nahi ho rahi hoti hai."
+  },
+  {
+   "c": 22,
+   "text": "Isko kehte hain isometric contraction."
+  },
+  {
+   "c": 23,
+   "text": "Aur jab muscle squeeze ho rahi hoti hai,"
+  },
+  {
+   "c": 24,
+   "text": "toh blood vessels compress ho rahe hote hain,"
+  },
+  {
+   "c": 25,
+   "text": "blood flow aapka temporarily restrict ho jaata hai, aur"
+  },
+  {
+   "c": 26,
+   "text": "jab aap chhodte hain isko, toh blood rush aata hai,"
+  },
+  {
+   "c": 27,
+   "text": "turant vessels ekdam dilate ho jaate hain."
+  },
+  {
+   "c": 28,
+   "text": "Aur ye process baar baar karne se"
+  },
+  {
+   "c": 29,
+   "text": "vessels jo hain aapke, wo flexible bante hain,"
+  },
+  {
+   "c": 30,
+   "text": "aur"
+  },
+  {
+   "c": 31,
+   "text": "endothelium function improve ho jaata hai."
+  },
+  {
+   "c": 32,
+   "text": "Aur"
+  },
+  {
+   "c": 33,
+   "text": "sabse important cheez ye hai ki ye saari cheezein karne se body mein aapke nitric oxide"
+  },
+  {
+   "c": 34,
+   "text": "banne lagti hai."
+  },
+  {
+   "c": 39,
+   "text": "Aur nitric oxide aapki body ka natural"
+  },
+  {
+   "c": 40,
+   "text": "vasodilator hai,"
+  },
+  {
+   "c": 41,
+   "text": "yaani ki Telmisartan jo cheez karta hai, wo saari cheezein aap logon ki"
+  },
+  {
+   "c": 42,
+   "text": "nitric oxide karne lagti hai."
+  },
+  {
+   "c": 46,
+   "text": "2025 ki ek meta analysis hui thi, 30 studies pe, 1700 participants the ismein. Isometric exercise se systolic BP 7 point gira tha, 7 mmHg"
+  },
+  {
+   "c": 47,
+   "text": "point gira,"
+  },
+  {
+   "c": 48,
+   "text": "aur diastolic 3"
+  },
+  {
+   "c": 49,
+   "text": "point gira."
+  },
+  {
+   "c": 50,
+   "text": "British Journal of Sports Medicine ka ek network"
+  },
+  {
+   "c": 51,
+   "text": "meta analysis hota hai,"
+  },
+  {
+   "c": 52,
+   "text": "aur"
+  },
+  {
+   "c": 53,
+   "text": "sabse effective exercise mode jo kaha gaya hai un logon ko"
+  },
+  {
+   "c": 54,
+   "text": "BP reduction ke liye,"
+  },
+  {
+   "c": 55,
+   "text": "wo isometric exercise, yaani ki running se bhi zyada"
+  },
+  {
+   "c": 56,
+   "text": "ye wall sitting is important."
+  },
+  {
+   "c": 57,
+   "text": "Swimming se bhi zyada wall sitting is important."
+  },
+  {
+   "c": 58,
+   "text": "Weight training se zyada wall sitting is important. Toh isometric exercises"
+  },
+  {
+   "c": 59,
+   "text": "hi aisi hain"
+  },
+  {
+   "c": 60,
+   "text": "jo BP ko achhe tareeke se"
+  },
+  {
+   "c": 61,
+   "text": "gira sakti hain."
+  },
+  {
+   "c": 63,
+   "text": "Kaise karna hai?"
+  },
+  {
+   "c": 64,
+   "text": "Wall sit karke maine bataya,"
+  },
+  {
+   "c": 65,
+   "text": "wall ko back pe lagaaiye"
+  },
+  {
+   "c": 66,
+   "text": "is tareeke se,"
+  },
+  {
+   "c": 68,
+   "text": "aur isko neeche 90 degrees pe apna ghutna mod dijiye."
+  },
+  {
+   "c": 69,
+   "text": "Simple si exercise hai, jitni der ho paaye utni der baithiye."
+  },
+  {
+   "c": 71,
+   "text": "Ek minute, do minute, aur is tareeke se aap log"
+  },
+  {
+   "c": 72,
+   "text": "jab regular karna shuru kar doge,"
+  },
+  {
+   "c": 73,
+   "text": "toh aap log apne"
+  },
+  {
+   "c": 74,
+   "text": "body mein changes dekhna shuru kar doge."
+  },
+  {
+   "c": 75,
+   "text": "Meri wife ne bhi yahi kiya hai."
+  },
+  {
+   "c": 76,
+   "text": "Deewar ke saath pehle teen din sirf aur sirf"
+  },
+  {
+   "c": 77,
+   "text": "30 second bhi nahi ho paate the usko wall sit."
+  },
+  {
+   "c": 79,
+   "text": "But dheere dheere dheere usne"
+  },
+  {
+   "c": 80,
+   "text": "saari cheezein cover karna shuru kar diya."
+  },
+  {
+   "c": 81,
+   "text": "Aaj do minute ka target laga karke aaraam se baith jaati hai."
+  },
+  {
+   "c": 82,
+   "text": "Aapke paas gym nahi hai, aapke paas equipment nahi hai, aapke paas"
+  },
+  {
+   "c": 83,
+   "text": "kya kya cheezein nahi hongi,"
+  },
+  {
+   "c": 84,
+   "text": "deewar toh aisi cheez hai jo kahin bhi mil jaayegi aapko."
+  },
+  {
+   "c": 85,
+   "text": "Wo toh, wahan toh aap bahaana nahi maar sakte ho."
+  },
+  {
+   "c": 86,
+   "text": "Main bata raha hoon, ye proven hai. Abhi aaj se hi try karna shuru kar dijiye isko."
+  },
+  {
+   "c": 87,
+   "text": "Mera kaam tha science pahunchana, decision aapka. You are watching FitFinfluencer, milte hain"
+  },
+  {
+   "c": 88,
+   "text": "next video mein!"
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

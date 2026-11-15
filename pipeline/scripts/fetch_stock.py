@@ -16,7 +16,7 @@ def work(i):
     m.update({'w': j['streams'][0]['width'], 'h': j['streams'][0]['height'], 'dur': float(j['format']['duration']), 'file': p,
               'page': f"https://mixkit.co/free-stock-video/{L['slug']}-{i}/"})
     return i, m
-meta = {}
+meta = json.load(open(f'{D}/meta.json')) if os.path.exists(f'{D}/meta.json') else {}   # merge, never drop earlier clips
 with cf.ThreadPoolExecutor(3) as ex:
     for i, m in ex.map(work, ids):
         meta[i] = m; print(i, m.get('err', ''), m.get('res'), m.get('w'), m.get('h'), round(m.get('dur', 0), 1), m.get('slug', '')[:50], flush=True)

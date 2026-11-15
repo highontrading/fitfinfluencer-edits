@@ -35,6 +35,24 @@ The pipeline that produces the FitFinfluencer edits. Every edit from batch 5 onw
 - `hinglish.py` converts Devanagari transcripts to Hinglish caption text.
 - `credits5.py` writes `STOCK_CREDITS.md`, covering both Mixkit and Wikimedia Commons assets.
 
+## Batch 6 additions (queues and checks)
+
+- **`gaps.py <N>`:** lists transcript words that fall outside every chunk. Use it to catch words the pause splitter dropped, e.g. "fake" in v26. Fix these with `s`/`e` overrides in the EDL.
+- **`cutq.sh N...`, `renderq.sh N...`:**
+  - These run cuts and renders one at a time.
+  - `pipe6.sh` builds the spec, mixes the audio, then streams the render and compose.
+  - To wait for an earlier queue, use `while kill -0 PID`. Never grep `ps` for a pattern that also appears in your own command line.
+- **`qa6.sh N`:** builds a 30-frame contact sheet of the final render and reports loudness.
+- **ffmpeg in a `while read` loop:** run it with `< /dev/null`, otherwise it consumes the loop's input.
+- **Stamp position (portrait):**
+  - Captions sit around y 1360–1450, so keep stamps above them (y about 1150–1190, size 120 or less for one line, about 80 for two lines).
+  - Never show a stamp in card mode, because it covers the speaker inset.
+- **Anchors:**
+  - `T(word)` returns the FIRST occurrence of the word. Anchor repeated words ('kaise', 'aapke', 'bill', 'baat') with `after`.
+  - Numbers normalise with dashes stripped: "6-8" becomes `T('68')`.
+- **Mixkit licensing:** most medical, salt and tea clips are personal-use-only. Use Wikimedia Commons PD, CC0 or CC BY images through the `photo` event instead.
+- **`fetch_stock.py`:** now merges into `meta.json` instead of overwriting it.
+
 ## Setup in a new session
 
 - Copy this folder to a scratch dir and fix the `S=` path in the `*.sh` scripts.
