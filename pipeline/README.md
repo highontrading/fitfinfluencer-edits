@@ -53,6 +53,14 @@ The pipeline that produces the FitFinfluencer edits. Every edit from batch 5 onw
 - **Mixkit licensing:** most medical, salt and tea clips are personal-use-only. Use Wikimedia Commons PD, CC0 or CC BY images through the `photo` event instead.
 - **`fetch_stock.py`:** now merges into `meta.json` instead of overwriting it.
 
+## Re-editing old recordings (batch 7)
+
+- **`oldedl.py N M`:** compares an old EDL (`edl/vM.json`) with the new chunking of the same raw (`chN.json`), showing the takes flags.
+  - The chunker is deterministic, so chunk ids line up.
+  - Reuse the old captions, but re-check the last takes: the old v13–v18 EDLs predate the "always keep the last take" rule in a few places.
+- **`renderd.sh`:** renders everything listed in `work/rq7.txt`, one at a time, and stops after `END`. It survives queue edits.
+  - Never rewrite `renderq7.log` in place while it is running: an open `>>` handle keeps writing to the old file.
+
 ## Setup in a new session
 
 - Copy this folder to a scratch dir and fix the `S=` path in the `*.sh` scripts.
