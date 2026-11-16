@@ -41,7 +41,8 @@ S.add({'type': 'compare', 't0': T('almond') - 0.08, 't1': c1, 'y': 170, 'title':
     {'t': T('almond'), 'label': 'Almond milk', 'text': 'TREND', 'value': 4, 'cls': 'red', 'color': 'linear-gradient(180deg,#FF6B79,#C21D35)'},
     {'t': T('makkhan'), 'label': 'Makkhan', 'text': 'WINS', 'value': 9, 'cls': 'green', 'color': 'linear-gradient(180deg,#5CFFB5,#0FA968)'}]})
 # ---------------- my protocol
-m0 = T('main', T('nutrition')) - 0.08; m1 = T('same', T('solution')) - 0.08
+m0 = T('moong') - 0.4; m1 = T('same', T('solution')) - 0.08
+K(T('main', T('nutrition')) - 0.05, m0, ['MY HEALTH PROTOCOL:', '*ZERO WESTERN INGREDIENTS*'], x=540, y=300, sizes=[84, 96], anim='rise', stagger=0.8)
 S.card(m0, m1)
 S.add({'type': 'chips', 't0': m0, 't1': m1, 'y': 200, 'items': [
     {'t': T('moong'), 'text': 'Moong daal, sattu'}, {'t': T('paneer', T('sattu')), 'text': 'Paneer, chicken'},
