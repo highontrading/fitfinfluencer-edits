@@ -8,7 +8,7 @@ const fs = require('fs'), path = require('path');
   const fps = spec.fps[0] / spec.fps[1];
   const total = spec.frames;
   const from = F0 ? +F0 : 0, to = F1 ? +F1 : total;
-  const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome', args: ['--disable-gpu', '--font-render-hinting=none'] });
+  const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium', args: ['--disable-gpu', '--font-render-hinting=none'] });
   const workers = +W;
   const t0 = Date.now();
   let done = 0;

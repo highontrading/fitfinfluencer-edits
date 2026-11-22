@@ -1,0 +1,158 @@
+{
+ "name": "v44",
+ "src": "v44.mp4",
+ "chunks": "ch44.json",
+ "transcript": "t44.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "s": 0.9,
+   "text": "Everyone goes to the festival, and the festival was amazing."
+  },
+  {
+   "c": 1,
+   "s": 5.66,
+   "text": "So why do you feel so empty on the Monday?"
+  },
+  {
+   "c": 2,
+   "s": 18.23,
+   "text": "Because it's not just the party."
+  },
+  {
+   "c": 3,
+   "s": 21.42,
+   "text": "Two things in your brain got"
+  },
+  {
+   "c": 4,
+   "s": 23.6,
+   "text": "knocked out."
+  },
+  {
+   "c": 7,
+   "text": "Both are free to fix."
+  },
+  {
+   "c": 12,
+   "text": "Number one: dopamine."
+  },
+  {
+   "c": 13,
+   "s": 56.49,
+   "e": 58.94,
+   "text": "Think of dopamine as a key."
+  },
+  {
+   "c": 17,
+   "e": 68.7,
+   "s": 66.1,
+   "text": "Your brain cells have a lock for it."
+  },
+  {
+   "c": 18,
+   "s": 72.18,
+   "text": "These locks are called receptors."
+  },
+  {
+   "c": 19,
+   "s": 74.42,
+   "text": "In 2012, scientists scanned people's brains,"
+  },
+  {
+   "c": 20,
+   "s": 78.39,
+   "text": "and after one night without sleep, they found fewer"
+  },
+  {
+   "c": 21,
+   "s": 83.41,
+   "text": "open locks in the brain's"
+  },
+  {
+   "c": 22,
+   "s": 85.9,
+   "e": 87.51,
+   "text": "reward area."
+  },
+  {
+   "c": 30,
+   "text": "Same dopamine."
+  },
+  {
+   "c": 31,
+   "s": 110.46,
+   "e": 113.14,
+   "text": "Fewer locks, so nothing feels good."
+  },
+  {
+   "c": 32,
+   "text": "Second:"
+  },
+  {
+   "c": 33,
+   "s": 114.57,
+   "text": "serotonin. A study in The Lancet looked"
+  },
+  {
+   "c": 34,
+   "e": 120.0,
+   "s": 118.5,
+   "text": "at 101 men."
+  },
+  {
+   "c": 36,
+   "s": 122.36,
+   "text": "Their brains made more serotonin on the days with more bright sunlight."
+  },
+  {
+   "c": 40,
+   "e": 141.36,
+   "text": "So here's the fix."
+  },
+  {
+   "c": 41,
+   "s": 141.16,
+   "e": 143.98,
+   "text": "Get one long, proper sleep."
+  },
+  {
+   "c": 42,
+   "s": 143.7,
+   "text": "Then go out in the morning sun before"
+  },
+  {
+   "c": 43,
+   "s": 147.06,
+   "e": 149.18,
+   "text": "you check your phone."
+  },
+  {
+   "c": 44,
+   "s": 149.24,
+   "text": "And that's it."
+  },
+  {
+   "c": 45,
+   "s": 155.04,
+   "text": "If you feel low after 2 weeks,"
+  },
+  {
+   "c": 46,
+   "text": "please talk to someone."
+  },
+  {
+   "c": 49,
+   "s": 164.35,
+   "text": "Comment RAVE PROTOCOL if you need more videos about it,"
+  },
+  {
+   "c": 50,
+   "s": 168.66,
+   "text": "and follow Moon Crew for more."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

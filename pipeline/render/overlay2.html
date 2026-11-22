@@ -1,5 +1,5 @@
 <!doctype html>
-<html><head><meta charset="utf-8"><link rel="stylesheet" href="fonts/fonts.css">
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="fonts/base.css"><link rel="stylesheet" href="fonts/fonts.css"><link rel="stylesheet" href="fonts/mc.css">
 <style>
   :root { --gold:#FFC53D; --gold2:#FF9F1C; --red:#FF4D5E; --green:#37F59B; --ink:#0B0D12; --glass:rgba(12,14,20,.80); --line:rgba(255,255,255,.14); }
   * { box-sizing:border-box; margin:0; padding:0; }
@@ -376,12 +376,15 @@ C.cells={  // cells multiplying (growth signal): each cell elongates and splits 
       g.beginPath(); g.ellipse(k.x+wob,k.y,r*1.05,r*.95,k.a,0,6.283); g.fill(); g.stroke();
       g.shadowBlur=0; g.fillStyle=`rgba(${col},.75)`; g.beginPath(); g.arc(k.x+wob+r*.15,k.y-r*.1,r*.32,0,6.283); g.fill(); }
     el.firstChild.style.transform=`scale(${lerp(.96,1,E.outCubic(P(t,ev.t0,.5)))})`; }};
+C.html={  // free-form themed block (e.g. a brand's own end-card logo): fades + rises in, fades out
+  build(ev){ const el=h('div','ev'); el.style.top=(ev.y||0)+'px'; el.innerHTML=ev.html; return el; },
+  update(ev,el,t){ const o=env(ev,t,.6,.4); el.style.opacity=o; if(!o) return; const q=E.inOut(P(t,ev.t0,.9)); el.style.transform=`translateY(${(1-q)*40}px) scale(${lerp(.95,1,q)})`; } };
 C.cine={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };
 C.flash={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };
 C.leak={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };
 
 function init(spec){
-  SPEC=spec; if(spec.size){ SW=spec.size[0]; SH=spec.size[1]; } document.documentElement.style.setProperty('--W',SW+'px'); document.documentElement.style.setProperty('--H',SH+'px');
+  SPEC=spec; if(spec.css){ const st=document.createElement('style'); st.textContent=spec.css; document.head.appendChild(st); } if(spec.size){ SW=spec.size[0]; SH=spec.size[1]; } document.documentElement.style.setProperty('--W',SW+'px'); document.documentElement.style.setProperty('--H',SH+'px');
   if(spec.capScale) document.documentElement.style.setProperty('--capS',spec.capScale);
   if(spec.vigInCompose) document.getElementById('vig').style.display='none'; const root=document.getElementById('evs');
   spec.events.forEach(ev=>{ if(!C[ev.type]) return; const el=C[ev.type].build(ev); if(ev.layer==='behind') el.classList.add('bh'); if(ev.panel){ el.style.left=ev.panel[0]+'px'; el.style.width=ev.panel[1]+'px'; } root.appendChild(el); comps.push([ev,el]); });

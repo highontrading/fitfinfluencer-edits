@@ -1,0 +1,425 @@
+{
+ "name": "v50",
+ "src": "v50.mp4",
+ "chunks": "ch50.json",
+ "transcript": "t50.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 1,
+   "s": 0.54,
+   "e": 4.71,
+   "text": "Mujhe log poochhte hain ki ye health protocol kaise banaya aapne?"
+  },
+  {
+   "c": 2,
+   "s": 4.36,
+   "e": 10.2,
+   "text": "Toh aaj main first time ye bataunga ki health protocol kaise banaya, ekdum behind the scenes iska."
+  },
+  {
+   "c": 3,
+   "s": 10.02,
+   "text": "Ye"
+  },
+  {
+   "c": 4,
+   "s": 11.38,
+   "e": 13.83,
+   "text": "kisi ek raat mein maine nahi banaya hai."
+  },
+  {
+   "c": 5,
+   "s": 13.59,
+   "e": 16.07,
+   "text": "Ye poore do saal ki research hai."
+  },
+  {
+   "c": 6,
+   "s": 15.73,
+   "e": 21.27,
+   "text": "Mere teen family members par maine full testing bhi ki, ekdum achhe tareeke se,"
+  },
+  {
+   "c": 7,
+   "s": 21.11,
+   "text": "aur hazaaron research papers padhe hain maine raat raat bhar, tab jaa karke ye health protocol banaye."
+  },
+  {
+   "c": 8,
+   "s": 35.5,
+   "text": "Aur sabse important cheez, main ekdum haar maanne waala tha body banane mein,"
+  },
+  {
+   "c": 9,
+   "s": 40.59,
+   "e": 46.04,
+   "text": "aur tabhi maine ye poori ki poori fasting ki"
+  },
+  {
+   "c": 10,
+   "s": 45.74,
+   "e": 47.54,
+   "text": "cheezein try ki, aur"
+  },
+  {
+   "c": 11,
+   "s": 47.15,
+   "e": 50.82,
+   "text": "aaj ke time pe mera body weight itna achha hai,"
+  },
+  {
+   "c": 12,
+   "s": 50.61,
+   "e": 53.25,
+   "text": "mere muscles itne achhe tareeke se grow kar rahe hain"
+  },
+  {
+   "c": 13,
+   "s": 52.97,
+   "e": 54.68,
+   "text": "ki aap logon ko main kya bataoon."
+  },
+  {
+   "c": 14,
+   "text": "110 kilo ka ho gaya tha main. Doctor ne kaha tha ki weight kam kar lo, nahi toh tumko bhi BP ho jaayega."
+  },
+  {
+   "c": 15,
+   "e": 75.87,
+   "text": "But doctor ne ye nahi bataya ki kaise kam kar lo. Usne kaha ki ghar ka khaana khao, bahar ka khaana chhod do, theek."
+  },
+  {
+   "c": 16,
+   "s": 75.58,
+   "text": "Ab main ghar ka khaana khaata tha, uske baad bhi mera weight kam nahi ho raha tha."
+  },
+  {
+   "c": 17,
+   "s": 79.67,
+   "e": 86.18,
+   "text": "YouTube pe gaya, influencers bole ki ye supplement le lo, ye diet kar lo, ye juice pee lo,"
+  },
+  {
+   "c": 18,
+   "s": 85.8,
+   "e": 89.39,
+   "text": "aur sab contradict kar rahe the ek doosre ko."
+  },
+  {
+   "c": 19,
+   "s": 88.97,
+   "e": 92.01,
+   "text": "Kisi ne sahi tareeke se seedha,"
+  },
+  {
+   "c": 20,
+   "s": 91.67,
+   "text": "seedhi baat hi nahi ki."
+  },
+  {
+   "c": 21,
+   "s": 93.43,
+   "text": "Tab socha ki chalo bhai, ab"
+  },
+  {
+   "c": 22,
+   "s": 95.36,
+   "text": "kuch WHO ke research papers padh leta hoon main,"
+  },
+  {
+   "c": 23,
+   "s": 98.18,
+   "text": "kuch PubMed ke research papers padh leta hoon, main kuch Google Scholar kar leta hoon, meta-analyses kar leta hoon un saari cheezon ki."
+  },
+  {
+   "c": 24,
+   "s": 107.24,
+   "e": 111.03,
+   "text": "Tab jaa karke mujhe chaar pillar mile,"
+  },
+  {
+   "c": 25,
+   "s": 110.68,
+   "e": 113.3,
+   "text": "aur wo chaar pillar main aap logon ko aaj bata raha hoon."
+  },
+  {
+   "c": 26,
+   "e": 124.13,
+   "text": "Number 1: fasting."
+  },
+  {
+   "c": 27,
+   "s": 124.08,
+   "e": 130.4,
+   "text": "AMPK, yaani ki autophagy, insulin sensitivity, jisko jisko bhi hai,"
+  },
+  {
+   "c": 28,
+   "s": 130.16,
+   "e": 133.22,
+   "text": "aur iske thousands of trials ho chuke hain."
+  },
+  {
+   "c": 29,
+   "s": 133.02,
+   "text": "Fasting is the best way to lose weight."
+  },
+  {
+   "c": 30,
+   "s": 136.82,
+   "e": 138.79,
+   "text": "Number two: diet."
+  },
+  {
+   "c": 31,
+   "s": 138.39,
+   "e": 139.39,
+   "text": "Ab"
+  },
+  {
+   "c": 32,
+   "s": 139.13,
+   "text": "diet mein khaana kya hai, kya nahi khaana hai."
+  },
+  {
+   "c": 33,
+   "s": 141.9,
+   "e": 143.72,
+   "text": "Polyphenols."
+  },
+  {
+   "c": 34,
+   "s": 143.32,
+   "text": "Aap logon ko bhi nahi pata hoga,"
+  },
+  {
+   "c": 35,
+   "s": 144.99,
+   "text": "plant ka wo colour jo"
+  },
+  {
+   "c": 36,
+   "s": 147.34,
+   "text": "plant apne survival ke liye banaata hai, wo polyphenol waale"
+  },
+  {
+   "c": 37,
+   "s": 151.37,
+   "e": 158.19,
+   "text": "plants khaana kitna zyada achha hota hai aapki body ke liye, jiski wajah se SIRT1 activate hota hai. Coloured"
+  },
+  {
+   "c": 38,
+   "s": 157.85,
+   "text": "plant khaoge aap log, toh"
+  },
+  {
+   "c": 39,
+   "e": 163.59,
+   "text": "aap logon ki body ki immunity badh jaayegi."
+  },
+  {
+   "c": 40,
+   "s": 163.19,
+   "e": 165.91,
+   "text": "Aur ye decades ka data hai,"
+  },
+  {
+   "c": 41,
+   "s": 165.71,
+   "text": "ye main nahi bol raha hoon sirf."
+  },
+  {
+   "c": 42,
+   "s": 167.7,
+   "e": 169.6,
+   "text": "Exercise main karta tha,"
+  },
+  {
+   "c": 43,
+   "s": 169.37,
+   "text": "pehle bhi, aaj bhi karta hoon,"
+  },
+  {
+   "c": 44,
+   "s": 171.25,
+   "e": 172.39,
+   "text": "aur"
+  },
+  {
+   "c": 45,
+   "s": 172.1,
+   "text": "but resistance aur"
+  },
+  {
+   "c": 46,
+   "text": "aerobic type ki jo exercises hain, wo zyada"
+  },
+  {
+   "c": 48,
+   "text": "achhi hain"
+  },
+  {
+   "c": 49,
+   "s": 180.73,
+   "e": 184.6,
+   "text": "in comparison to running aur in saari cheezon se."
+  },
+  {
+   "c": 50,
+   "s": 184.4,
+   "text": "Toh"
+  },
+  {
+   "c": 51,
+   "text": "Muscle building is very important. Agar aapke paas muscles nahi hain toh phir aap insulin sensitive itni jaldi ho jaoge"
+  },
+  {
+   "c": 52,
+   "s": 191.85,
+   "e": 193.46,
+   "text": "ki aap soch bhi nahi sakte."
+  },
+  {
+   "c": 53,
+   "s": 193.11,
+   "text": "Meditation is the most important thing, sleep is the most important thing. Toh jab meditation aap karte ho na, toh cortisol aapka sahi ho jaata hai, aapka inflammation jo body ka hai wo kam hone lagta hai."
+  },
+  {
+   "c": 54,
+   "e": 205.15,
+   "text": "Aur"
+  },
+  {
+   "c": 55,
+   "s": 204.89,
+   "text": "aap logon ko ye meditation waala jo poora part bata raha hoon, ye poora ka poora proven hai bahut saare logon ke upar, aur iski bahut saari research papers bhi hain."
+  },
+  {
+   "c": 56,
+   "s": 218.1,
+   "e": 218.99,
+   "text": "Aur"
+  },
+  {
+   "c": 57,
+   "s": 218.74,
+   "text": "in chaaron ko maine ek protocol mein organize kiya, personalize kiya,"
+  },
+  {
+   "c": 58,
+   "s": 223.91,
+   "e": 225.02,
+   "text": "kyunki"
+  },
+  {
+   "c": 59,
+   "s": 224.74,
+   "text": "same diet sab ke liye kaam nahi karti hai, ye bhi main bata de raha hoon. Jo diet mere upar kaam karti hai, wo meri wife ke upar kaam nahi karti hai, wo meri mummy ke upar kaam nahi karti hai, jo unke upar kaam karti hai wo mere upar kaam nahi karti hai. Sabka alag alag body type hai,"
+  },
+  {
+   "c": 60,
+   "s": 238.02,
+   "text": "alag alag diet hai,"
+  },
+  {
+   "c": 61,
+   "text": "sab ke liye alag alag exercises bhi hain."
+  },
+  {
+   "c": 62,
+   "s": 247.88,
+   "text": "Ab main bata raha hoon aap logon ko, khud pe itne achhe tareeke se maine test kiya: 110 kilo se 85 kilo tak aaya, wife ka BP 170 by 110 tha aur aaj ke time pe wo dawai chhod chuki hai, dedh mahina ho chuka hai usko."
+  },
+  {
+   "c": 63,
+   "e": 267.5,
+   "text": "Mummy ka psoriasis ekdum improved hai, 85%, main aaj ke samay daava kar sakta hoon ki mummy ka"
+  },
+  {
+   "c": 64,
+   "s": 267.16,
+   "text": "psoriasis improved hai, aur mummy meri gym jaa rahi hain, saari cheezein kar rahi hain,"
+  },
+  {
+   "c": 65,
+   "text": "aur aaj ke time par unko jo psoriasis ki wajah se arthritis ho raha tha na,"
+  },
+  {
+   "c": 66,
+   "text": "wo bhi theek ho raha hai."
+  },
+  {
+   "c": 69,
+   "text": "Har step pe maine data track kiya,"
+  },
+  {
+   "c": 70,
+   "text": "aur wo data kaam kiya."
+  },
+  {
+   "c": 71,
+   "s": 297.64,
+   "e": 309.26,
+   "text": "Toh ye protocol aise bana hua hai: research se bana hua hai, testing se bana hua hai, data se bana hua hai, aur khud ke upar research se bana hua hai. Toh fasting toh maine bahut saare logon ko kara di,"
+  },
+  {
+   "c": 72,
+   "s": 309.04,
+   "e": 312.53,
+   "text": "aur bahut saare log meri fasting ke baad se"
+  },
+  {
+   "c": 73,
+   "s": 312.31,
+   "e": 314.3,
+   "text": "bahut relief mein hain"
+  },
+  {
+   "c": 74,
+   "s": 314.04,
+   "e": 321.81,
+   "text": "apni body ko leke. Koi 10 kilo wajan ghata chuka hai, koi 15 kilo wajan ghata chuka hai, aur I am very happy ki main ye saara"
+  },
+  {
+   "c": 75,
+   "s": 321.5,
+   "text": "awareness logon ko pahuncha paa raha hoon,"
+  },
+  {
+   "c": 76,
+   "s": 324.05,
+   "text": "logon ki"
+  },
+  {
+   "c": 77,
+   "s": 325.24,
+   "e": 327.76,
+   "text": "zindagi mein kuch na kuch help kar paa raha hoon."
+  },
+  {
+   "c": 78,
+   "s": 328.26,
+   "e": 337.38,
+   "text": "Toh main koi doctor nahi hoon. Main ye saari cheezein apni research ke hisaab se kar raha hoon, aur ye maine research paper likha bhi nahi hua hai. Ye poora ka poora"
+  },
+  {
+   "c": 79,
+   "s": 337.01,
+   "text": "internet par available hai, in saare research ko dekh karke"
+  },
+  {
+   "c": 80,
+   "s": 341.28,
+   "text": "maine ye poora ka poora health protocol banaya. Agar aap logon ko bhi health protocol chahiye toh comment box mein likhiye"
+  },
+  {
+   "c": 81,
+   "text": "HP, aap logon ke paas link pahunch jaayega. Mera kaam tha science pahunchana, decision aapka hai. You are watching FitFinfluencer, milte hain next video mein."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

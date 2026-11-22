@@ -1,0 +1,203 @@
+{
+ "name": "v49",
+ "src": "v49.mp4",
+ "chunks": "ch49.json",
+ "transcript": "t49.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "text": "Doston, ek comment aaya tha mujhe kuch din pehle ki mera weight 59 kg hai, 5.6"
+  },
+  {
+   "c": 1,
+   "s": 8.99,
+   "e": 14.88,
+   "text": "feet main lamba hoon, patla hoon, phir bhi mujhe BP ki shikayat hai."
+  },
+  {
+   "c": 2,
+   "s": 14.64,
+   "text": "145 by 95 BP aa raha hai, kyun ho raha hai bhai aisa?"
+  },
+  {
+   "c": 3,
+   "e": 27.05,
+   "text": "Toh main bata doon aap logon ko ki bahut logon ko lagta hai ki BP sirf na"
+  },
+  {
+   "c": 4,
+   "e": 30.93,
+   "text": "mote logon ko hota hai, mote logon ki problem hai. Ye ekdum galat baat hai."
+  },
+  {
+   "c": 9,
+   "text": "Main aap logon ko bata raha hoon, 50 kg pe BP ho sakta hai, 60 kg pe BP ho sakta hai, aur reasons bilkul alag ho sakte hain saari cheezon ke."
+  },
+  {
+   "c": 10,
+   "e": 61.68,
+   "s": 57.93,
+   "text": "Ab paanch aise reasons main bata raha hoon, isko achhe tareeke se samajh lijiyega."
+  },
+  {
+   "c": 12,
+   "s": 68.63,
+   "text": "Number one: genetics. BP ke liye 100 plus genes identified hain."
+  },
+  {
+   "c": 14,
+   "s": 77.48,
+   "text": "Agar aap logon ke parents ko"
+  },
+  {
+   "c": 15,
+   "s": 79.7,
+   "text": "high BP hai,"
+  },
+  {
+   "c": 16,
+   "s": 81.28,
+   "e": 84.83,
+   "text": "toh aap logon ka risk do guna se teen guna badh jaata hai."
+  },
+  {
+   "c": 17,
+   "s": 84.6,
+   "text": "Body weight"
+  },
+  {
+   "c": 18,
+   "s": 86.52,
+   "text": "se independent hai ye. Gene se, ab toh genetic hai, toh phir toh body weight se related hai nahi."
+  },
+  {
+   "c": 19,
+   "text": "Number 2:"
+  },
+  {
+   "c": 20,
+   "s": 92.28,
+   "text": "sodium sensitivity sabki alag alag hoti hai."
+  },
+  {
+   "c": 21,
+   "s": 95.58,
+   "text": "Toh kuch log zyada sodium sensitive hote hain, aur"
+  },
+  {
+   "c": 22,
+   "s": 100.66,
+   "text": "wo same namak khaayenge aur sodium zyada unki body mein lagega, aur uski wajah se BP unka zyada badhega."
+  },
+  {
+   "c": 23,
+   "s": 106.54,
+   "e": 109.17,
+   "text": "Toh sodium sensitivity bhi ek reason,"
+  },
+  {
+   "c": 24,
+   "s": 108.96,
+   "text": "important reason hai."
+  },
+  {
+   "c": 26,
+   "e": 119.46,
+   "text": "Reason number three: stress plus cortisol level. Agar aap logon"
+  },
+  {
+   "c": 27,
+   "s": 119.28,
+   "text": "ko"
+  },
+  {
+   "c": 28,
+   "s": 119.9,
+   "text": "chronic stress hai, toh cortisol badhega, sympathetic nervous system jo aap logon ka hai wo overreact kar jaayega, aur iski wajah se jo arteries hain na dil ki, wo tight ho jaayengi aur BP badh jaayega, aur ye"
+  },
+  {
+   "c": 29,
+   "s": 131.71,
+   "text": "independent hai aap logon ke weight se."
+  },
+  {
+   "c": 31,
+   "s": 138.27,
+   "text": "Ab number four reason:"
+  },
+  {
+   "c": 32,
+   "e": 148.27,
+   "text": "sleep. Agar 6 se 8 ghante ki sleep nahi kar le rahe ho na aap log sahi tareeke se, toh sympathetic nervous system active rehta hai,"
+  },
+  {
+   "c": 43,
+   "s": 182.34,
+   "e": 184.56,
+   "text": "aur isko kehte hain norepinephrine."
+  },
+  {
+   "c": 44,
+   "s": 184.38,
+   "text": "Aur ek study mein ye cheez batayi gayi hai ki ek ghanta bhi kam neend agar aap log lete ho, toh 37% BP ka risk zyada ho jaata hai aap logon ka."
+  },
+  {
+   "c": 45,
+   "text": "Aur reason number five:"
+  },
+  {
+   "c": 46,
+   "s": 199.81,
+   "text": "hidden kidney issues. Jisko jisko hai,"
+  },
+  {
+   "c": 47,
+   "s": 202.92,
+   "text": "un saare logon ko bata raha hoon ki kidneys"
+  },
+  {
+   "c": 48,
+   "s": 205.72,
+   "text": "blood volume ko regulate karti hain, aur chhoti si kidney issue jo aap logon ko pata bhi nahi hoga, wo aapka BP badha sakti hai."
+  },
+  {
+   "c": 49,
+   "s": 217.36,
+   "text": "Toh ye jo aap log myth bana karke baithe hue ho ki BP sirf aap logon ka weight badha raha hai,"
+  },
+  {
+   "c": 50,
+   "s": 223.5,
+   "text": "toh ye ekdum galat cheez hai. Genetics plus sodium sensitivity plus stress plus sleep plus kidney problems, ye saari cheezein matter karti hain."
+  },
+  {
+   "c": 54,
+   "text": "59 kg ke ho ya 120 kg ke, BP check karwana sab ke liye bahut zyada important hai."
+  },
+  {
+   "c": 55,
+   "s": 252.94,
+   "e": 257.29,
+   "text": "Agar aap logon ko lagta hai ki sirf patle ho aur healthy ho, toh ye sabse bada myth hai."
+  },
+  {
+   "c": 56,
+   "s": 256.98,
+   "e": 262.16,
+   "text": "Aur jaa karke data check kar lijiye aap log, aap logon ko samajh mein aa jaayega ki"
+  },
+  {
+   "c": 57,
+   "s": 262.03,
+   "text": "main sahi bol raha hoon ki galat bol raha hoon. Mera kaam tha science pahunchana,"
+  },
+  {
+   "c": 58,
+   "s": 265.14,
+   "text": "decision aapka. You're watching FitFinfluencer, milte hain next video mein."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

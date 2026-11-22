@@ -1,0 +1,233 @@
+{
+ "name": "v46",
+ "src": "v46.mp4",
+ "chunks": "ch46.json",
+ "transcript": "t46.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "text": "Some people ask, does L-tyrosine work?"
+  },
+  {
+   "c": 1,
+   "s": 6.09,
+   "text": "I said,"
+  },
+  {
+   "c": 2,
+   "s": 7.32,
+   "text": "yes,"
+  },
+  {
+   "c": 3,
+   "s": 8.55,
+   "text": "but"
+  },
+  {
+   "c": 4,
+   "s": 9.4,
+   "text": "only in one situation."
+  },
+  {
+   "c": 9,
+   "s": 33.24,
+   "e": 36.04,
+   "text": "And most people taking it are not"
+  },
+  {
+   "c": 10,
+   "s": 35.85,
+   "text": "in that situation."
+  },
+  {
+   "c": 16,
+   "s": 53.65,
+   "e": 59.73,
+   "text": "Quick recap: your body uses tyrosine to make dopamine. Dopamine helps you"
+  },
+  {
+   "c": 17,
+   "text": "focus"
+  },
+  {
+   "c": 18,
+   "s": 60.72,
+   "text": "and stay alert."
+  },
+  {
+   "c": 26,
+   "e": 89.01,
+   "text": "A 2015 review looked"
+  },
+  {
+   "c": 27,
+   "s": 88.79,
+   "e": 91.16,
+   "text": "at all the studies,"
+  },
+  {
+   "c": 28,
+   "s": 90.84,
+   "text": "and tyrosine only helped when people"
+  },
+  {
+   "c": 29,
+   "s": 94.42,
+   "text": "were running low on dopamine."
+  },
+  {
+   "c": 30,
+   "s": 102.89,
+   "text": "And that happens with heavy stress,"
+  },
+  {
+   "c": 31,
+   "text": "extreme"
+  },
+  {
+   "c": 32,
+   "s": 108.55,
+   "text": "cold situations, or no sleep."
+  },
+  {
+   "c": 33,
+   "s": 115.1,
+   "e": 117.97,
+   "text": "On a normal day, it did nothing."
+  },
+  {
+   "c": 34,
+   "s": 118.12,
+   "e": 118.98,
+   "text": "You"
+  },
+  {
+   "c": 35,
+   "s": 118.77,
+   "e": 120.84,
+   "text": "can't even fill a"
+  },
+  {
+   "c": 36,
+   "s": 120.65,
+   "e": 122.02,
+   "text": "tank that's"
+  },
+  {
+   "c": 37,
+   "s": 121.72,
+   "text": "already full."
+  },
+  {
+   "c": 47,
+   "text": "And the studies that worked used"
+  },
+  {
+   "c": 48,
+   "s": 168.16,
+   "text": "big doses, around 100 milligrams for every kilo of your weight."
+  },
+  {
+   "c": 49,
+   "s": 176.97,
+   "text": "Not one small capsule."
+  },
+  {
+   "c": 50,
+   "s": 186.76,
+   "e": 189.15,
+   "text": "And the most important part:"
+  },
+  {
+   "c": 51,
+   "s": 188.77,
+   "e": 189.84,
+   "text": "if you"
+  },
+  {
+   "c": 52,
+   "s": 189.62,
+   "text": "take antidepressants"
+  },
+  {
+   "c": 53,
+   "s": 195.58,
+   "text": "or thyroid medicine,"
+  },
+  {
+   "c": 54,
+   "s": 197.62,
+   "text": "talk to your doctor first. After that,"
+  },
+  {
+   "c": 55,
+   "s": 200.56,
+   "e": 202.17,
+   "text": "you go to the"
+  },
+  {
+   "c": 56,
+   "s": 201.94,
+   "e": 202.9,
+   "text": "rave"
+  },
+  {
+   "c": 57,
+   "s": 202.54,
+   "text": "or take tyrosine."
+  },
+  {
+   "c": 58,
+   "s": 210.56,
+   "text": "And no,"
+  },
+  {
+   "c": 59,
+   "s": 211.98,
+   "e": 215.0,
+   "text": "it won't help you dance for longer."
+  },
+  {
+   "c": 60,
+   "text": "Studies found"
+  },
+  {
+   "c": 61,
+   "text": "almost no effect on stamina."
+  },
+  {
+   "c": 64,
+   "s": 223.67,
+   "e": 225.79,
+   "text": "And if you want to know"
+  },
+  {
+   "c": 65,
+   "s": 225.4,
+   "text": "more about RAVE protocols,"
+  },
+  {
+   "c": 66,
+   "s": 227.97,
+   "text": "then comment RAVE PROTOCOL."
+  },
+  {
+   "c": 67,
+   "s": 232.52,
+   "text": "I will tell you each and everything"
+  },
+  {
+   "c": 68,
+   "s": 234.63,
+   "text": "about rave."
+  },
+  {
+   "c": 69,
+   "s": 239.3,
+   "text": "Follow Moon Crew for more."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

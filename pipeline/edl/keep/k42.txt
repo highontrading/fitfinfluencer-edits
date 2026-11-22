@@ -1,0 +1,64 @@
+1 | Ye EMI sabse mehngi kaunsi hoti hai?
+2 | Kya lagta hai aap logon ko?
+3 | Ghar ki,
+4 | car ki,
+5 | ya beemari ki?
+6 | Mujhe aisa lagta hai ki beemari ki EMI hi sabse badi hoti hai aur sabse buri hoti hai, aur sabse bura part iska pata hai kya hai?
+7 | Ki ye kabhi khatam hoti nahi.
+8 | Car ki EMI khatam ho jaayegi 5 saal mein, ghar ki EMI khatam ho jaayegi 20 saal mein, beemari ki EMI zindagi bhar chalegi, lifetime aap logon ke saath.
+9 | Aur sab log isko over-complicate kar dete hain.
+10 | Asli secret ye hai ki health insurance bahut saare logon ke paas hai, lekin jab zaroorat padti hai na, toh kaam nahi aata hai.
+11 | Pata hai kyun?
+15 | India mein 65% kharcha out of pocket hota hai, matlab ki aapki jeb se jaata hai ye saari cheezein.
+16 | Aur sabse important cheez pata hai kya hai? Let's say BP ka example le lete hain.
+17 | Monthly dawai aap logon ki 500 se 2000 rupaye ki aa jaati hai, quarterly blood test aap logon ka 1500 rupaye se 3000 rupaye tak pahunch jaata hai,
+18 | doctor ke visit 500 se 1000 rupaye har baar lagne lagte hain.
+19 | Aur agar complication aaye heart, kidney, aur in saari cheezon par, liver wagairah par, toh do se das lakh rupaye ka instant bill
+20 | turant lag jaata hai, ekdum, aap logon ko pata bhi nahi chalta hai is cheez ka.
+24 s=115.7 e=119.5 | Ab aap logon ke health insurance ki pol khol deta hoon. Health insurance karta kya hai?
+27 | IRDAI ne 2024 mein ek rule badla.
+29 | Pre-existing disease ka waiting period pata hai kitna ho gaya?
+30 | 36 months.
+31 | Matlab ki aap logon ko aaj agar BP diagnose ho gaya, toh teen saal baad aapke insurance mein cover hoga.
+32 | Teen saal tak cover hi nahi hoga.
+33 | Ab ye trap aap log samajhte ho?
+34 | Jab healthy ho aap log, insurance lete nahi ho,
+35 | aap logon ko lagta hai ki kya zaroorat hai, aur jab beemar padte ho toh insurance cover nahi deta hai.
+36 | Toh aap log dono side se phas jaate ho.
+37 | Log kehte hain ki pre-existing hai,
+38 | toh cover nahi milega.
+39 e=178.0 | Aur tab tak aap logon ke laakhon kharch ho chuke hote hain.
+40 | Middle class ki sabse badi problem yahi hai, ek badi medical emergency aa jaati hai aur aap logon ki poori ki poori savings khatam,
+41 e=217.15 | EMI shuru ho jaati hai.
+42 | Financial crisis aa jaata hai aap logon ke poore parivaar mein, stress ekdum badh jaata hai, aur stress aur zyada health kharab kar jaata hai, toh ye vicious cycle chal jaati hai aap logon ke paas.
+43 | Do cheezein kariye ab, meri maaniye toh.
+45 e=243.82 | Sabse pehli cheez:
+47 | health insurance tab le lijiye jab aap log healthy ho. Pre-existing jo aap logon ki
+48 | diseases hai na, unse sabse pehle.
+49 | Waiting period
+50 | tab se count hoga agar,
+51 | toh aap log bach jaoge.
+52 | Toh BP agar aap logon ke health insurance hone ke baad hua hota,
+53 | toh saare kharche aap logon ke cover ho jaate.
+54 | But
+55 | health insurance lene ke
+57 | pehle agar BP ho chuka hai,
+58 | toh phir aap logon ko pre-existing
+59 | waale case mein aana padega aur 3 saal tak ka wait karna padega.
+61 | Ya toh aap log doosra kaam kar sakte ho ki health protocol follow karo,
+62 | taaki beemari aaye na.
+63 | Maine 110 kg se 85 kg apna weight le aaya.
+64 | Saare type ke cholesterol ho rakhe the mujhe, high LDL,
+65 | wo saari cheez normal ho gayi. BP meri wife ka badha hua tha, wo control ho gaya.
+66 e=315.8 | Meri mummy ke pairon mein psoriasis ho rakha tha, wo saari cheezein improve ho gayi, psoriasis tak hum log improve kar diye.
+67 | Aur doctor ka bill pata hai kitna aaya?
+68 | Bahut kam.
+69 | Itna ki aap log kabhi bhi afford kar sakte ho.
+70 | Toh ye jaan lijiye
+71 | ki beemari ka paisa sabse zyada
+72 | mehnga paisa hai, prevention ka paisa bahut kam hai, prevention ek investment hai aap logon ke liye.
+76 | Agar aap logon ko bhi
+77 | apni life mein prevention laana hai,
+78 | toh HEALTH PROTOCOL comment kar dijiye.
+79 | Mera kaam tha science pahunchana, decision aapka hai. You're watching FitFinfluencer, milte hain
+80 | next video mein.

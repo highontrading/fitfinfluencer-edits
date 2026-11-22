@@ -1,0 +1,9 @@
+#!/bin/bash
+S=/tmp/claude-0/-home-user-fitfinfluencer-edits/2a167408-7f47-59d7-83a9-be8322dc90b6/scratchpad; cd $S
+for n in 50 51; do
+  (cd scripts && python3 -I transcribe_hi.py ../work $n >> ../work/tx8.log 2>&1)
+  (cd scripts && python3 -I chunks.py ../work $n hi -42 > ../work/ch$n.txt 2>/dev/null)
+  python3 -I scripts/takes.py work/ch$n.json > work/takes$n.txt
+  echo "ch$n ready" >> work/tx8.log
+done
+echo ALLDONE >> work/tx8.log

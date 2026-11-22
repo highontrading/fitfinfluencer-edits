@@ -1,0 +1,29 @@
+0 s=0.9 | Everyone goes to the festival, and the festival was amazing.
+1 | So why do you feel so empty on the Monday?
+2 | Because it's not just the party.
+3 | Two things in your brain got
+4 | knocked out.
+7 | Both are free to fix.
+12 | Number one: dopamine.
+13 | Think of dopamine as a key.
+17 e=68.7 | Your brain cells have a lock for it.
+18 | These locks are called receptors.
+19 | In 2012, scientists scanned people's brains,
+20 | and after one night without sleep, they found fewer
+21 | open locks in the brain's
+22 | reward area.
+30 | Same dopamine.
+31 | Fewer locks, so nothing feels good.
+32 | Second:
+33 | serotonin. A study in The Lancet looked
+34 e=120.0 | at 101 men.
+36 | Their brains made more serotonin on the days with more bright sunlight.
+40 | So here's the fix.
+41 | Get one long, proper sleep.
+42 | Then go out in the morning sun before
+43 | you check your phone.
+44 | And that's it.
+45 | If you feel low after 2 weeks,
+46 | please talk to someone.
+49 | Comment RAVE PROTOCOL if you need more videos about it,
+50 | and follow Moon Crew for more.

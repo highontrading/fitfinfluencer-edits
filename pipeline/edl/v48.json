@@ -1,0 +1,363 @@
+{
+ "name": "v48",
+ "src": "v48.mp4",
+ "chunks": "ch48.json",
+ "transcript": "t48.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 1,
+   "e": 5.51,
+   "text": "Mummy ki skin par red patches ho gaye the,"
+  },
+  {
+   "c": 2,
+   "s": 5.12,
+   "text": "aur humne socha tha ki ye allergy hogi ya koi fungal infection hoga,"
+  },
+  {
+   "c": 3,
+   "s": 10.13,
+   "e": 11.99,
+   "text": "cream lagao, theek ho jaayega."
+  },
+  {
+   "c": 4,
+   "s": 11.58,
+   "e": 15.09,
+   "text": "Aur ye sabse badi galti thi hamari."
+  },
+  {
+   "c": 5,
+   "text": "Ye"
+  },
+  {
+   "c": 6,
+   "s": 15.95,
+   "e": 20.97,
+   "text": "koi bhi aisa fungal infection nahi tha, ye psoriasis tha, aur ye allergy nahi thi."
+  },
+  {
+   "c": 7,
+   "s": 20.66,
+   "e": 24.03,
+   "text": "Ye skin ki autoimmune disease thi."
+  },
+  {
+   "c": 8,
+   "s": 23.65,
+   "text": "Aur aap log jab bhi psoriasis ke baare mein padhne jaoge, toh internet pe aap logon ko autoimmune, autoimmune karke hi saari cheezein milengi."
+  },
+  {
+   "c": 11,
+   "s": 36.1,
+   "e": 41.89,
+   "text": "Yaani ki body ki immunity system aapki body pe phir se khud se attack kar rahi thi."
+  },
+  {
+   "c": 12,
+   "s": 41.74,
+   "e": 43.74,
+   "text": "Toh ye hai psoriasis."
+  },
+  {
+   "c": 17,
+   "s": 49.7,
+   "e": 51.59,
+   "text": "Aur humne kya kya kiya?"
+  },
+  {
+   "c": 18,
+   "s": 51.25,
+   "text": "Ki"
+  },
+  {
+   "c": 19,
+   "s": 52.12,
+   "text": "faltu ki cream laga karke socha ki mahino tak ki theek ho jaayega, but aisa nahi hua."
+  },
+  {
+   "c": 28,
+   "s": 85.67,
+   "text": "Ab main batata hoon ki psoriasis hota kaise hai. Normal skin cells,"
+  },
+  {
+   "c": 29,
+   "s": 89.09,
+   "e": 92.21,
+   "text": "28 din mein recycle ho jaati hain."
+  },
+  {
+   "c": 31,
+   "text": "Purani cells upar aati hain,"
+  },
+  {
+   "c": 32,
+   "s": 96.01,
+   "e": 103.12,
+   "text": "aur upar aa karke chamdi ke sabse upar waale level par aati hain, aur phir uske baad gir jaati hain, aur nayi cells phir se banti hain."
+  },
+  {
+   "c": 33,
+   "s": 102.7,
+   "e": 107.47,
+   "text": "Aur ye jo sabse nichli layer hoti hai is skin ki, usko kehte hain basal layer."
+  },
+  {
+   "c": 34,
+   "s": 107.16,
+   "e": 110.68,
+   "text": "Aur ye basal layer jo sabse top waale skin ke layer tak aati hai,"
+  },
+  {
+   "c": 35,
+   "s": 110.48,
+   "text": "aur ye cycle jo hota hai poora ka poora, ye 28 din ka hota hai, but psoriasis mein ye cycle ho jaata hai 3 se 4 din ka."
+  },
+  {
+   "c": 36,
+   "s": 119.34,
+   "text": "Ab aap socho ki ye jo red patches aap log dekh rahe the"
+  },
+  {
+   "c": 37,
+   "e": 125.0,
+   "text": "aur"
+  },
+  {
+   "c": 38,
+   "s": 124.8,
+   "text": "aap log apne body pe, toh wo red patches"
+  },
+  {
+   "c": 39,
+   "text": "is,"
+  },
+  {
+   "c": 41,
+   "s": 129.9,
+   "text": "isi cycle ka"
+  },
+  {
+   "c": 43,
+   "e": 134.65,
+   "text": "kharab hona tha aap logon ke liye."
+  },
+  {
+   "c": 44,
+   "s": 134.62,
+   "e": 142.25,
+   "text": "Aur kyun ye immune system kharab ho jaata hai? Kyunki T cells jo hote hain, wo galat signal bhejne lagte hain. Ab"
+  },
+  {
+   "c": 45,
+   "s": 142.0,
+   "e": 146.66,
+   "text": "ye kya karte hain, aapke inflammatory cytokines ko"
+  },
+  {
+   "c": 46,
+   "s": 146.31,
+   "text": "release kar dete hain,"
+  },
+  {
+   "c": 47,
+   "s": 147.77,
+   "text": "aur jaise TNF-alpha, IL-17, IL-23, ye cytokines isko pagal kar dete hain."
+  },
+  {
+   "c": 48,
+   "s": 157.22,
+   "text": "Aur itna pagal kar dete hain, itni baar batate hain skin ko ki jaldi banao, aur jaldi banao, aur jaldi banao, ki aapki skin itni tezi se banne lagti hai ki beech mein usko 28 din ka jo pakne ka time tha skin ka, wo time hi nahi milta, aur yahi skin"
+  },
+  {
+   "c": 49,
+   "s": 172.36,
+   "text": "baad mein bankar ye nikalna shuru hoti hai, bhoosi ki tarah aapki body se."
+  },
+  {
+   "c": 50,
+   "s": 188.15,
+   "text": "Aur cells itni tezi se banti hain ki jo phasi hui cells thi, wahi laal laal aap logon ki body pe dikhaai de rahi hoti hain. Itching bahut zyada ho rahi hoti hai, kyunki wo purani phasi hui cells nikal nahi paa rahi hoti hain bahar."
+  },
+  {
+   "c": 51,
+   "s": 204.29,
+   "e": 209.54,
+   "text": "Pata hai hamari galti kya thi? Humne baar baar cream lagaya, andar ki problem jaan hi nahi paa rahe the hum log."
+  },
+  {
+   "c": 52,
+   "s": 209.23,
+   "e": 215.94,
+   "text": "Aur ye saari cheezein karte karte 6 saal ho gaye the. Maine pata nahi kitne saare dermatologists ko dikha diya,"
+  },
+  {
+   "c": 53,
+   "s": 215.69,
+   "e": 216.97,
+   "text": "aur"
+  },
+  {
+   "c": 54,
+   "s": 216.55,
+   "text": "bahut problem hui, kisi ne sahi ilaaj nahi bataya, aur jab mummy ka stress badhta tha toh psoriasis aur bhi badh jaata tha, toh hum logon ko samajh mein nahi aata tha ki kyun aisa ho raha hai."
+  },
+  {
+   "c": 55,
+   "s": 233.21,
+   "text": "Agar aap logon ki bhi family mein ya aapko khud,"
+  },
+  {
+   "c": 56,
+   "s": 237.0,
+   "text": "kisi ko bhi ye red patches aa rahe hain, toh"
+  },
+  {
+   "c": 57,
+   "s": 239.69,
+   "e": 244.23,
+   "text": "ye main bata de raha hoon, ye allergy nahi hai, ekdum achhe tareeke se samajh lo aap log."
+  },
+  {
+   "c": 58,
+   "s": 243.93,
+   "text": "Kisi bhi dermatologist ko dikha karke aap log ye toh confirm kar lo at least ki ye psoriasis hai ki kya hai."
+  },
+  {
+   "c": 60,
+   "text": "Aur main apni mummy ki poori ki poori story"
+  },
+  {
+   "c": 61,
+   "s": 252.64,
+   "text": "is Instagram par bataunga,"
+  },
+  {
+   "c": 62,
+   "s": 255.08,
+   "text": "toh follow zaroor kar lena is cheez par."
+  },
+  {
+   "c": 63,
+   "text": "Jo galtiyan maine ki hain, maine recognize ki hain, wo galtiyan aap logon ko karne nahi doonga main."
+  },
+  {
+   "c": 64,
+   "text": "Main koshish karunga ki"
+  },
+  {
+   "c": 65,
+   "text": "aap logon ko ekdum achhe tareeke se educate karoon is cheez par, jitna maine padha hai, jitne research papers"
+  },
+  {
+   "c": 66,
+   "s": 271.39,
+   "text": "internet pe"
+  },
+  {
+   "c": 67,
+   "e": 279.04,
+   "text": "available hain, uske hisaab se jo maine padhai ki hai, wo saari cheezein aap logon ko bata paaoon."
+  },
+  {
+   "c": 68,
+   "s": 285.23,
+   "text": "Aur agar aap logon ke ghar mein ya kisi ko bhi aapko"
+  },
+  {
+   "c": 69,
+   "e": 292.9,
+   "text": "psoriasis ki dikkat hai,"
+  },
+  {
+   "c": 70,
+   "s": 292.61,
+   "e": 294.9,
+   "text": "toh link bio mein hai, ya toh"
+  },
+  {
+   "c": 71,
+   "s": 294.68,
+   "text": "comment kar dijiye."
+  },
+  {
+   "c": 72,
+   "s": 295.84,
+   "e": 299.89,
+   "text": "Webinar, aap log mera webinar lekar karenge, aap logon ko main"
+  },
+  {
+   "c": 73,
+   "s": 299.56,
+   "e": 301.2,
+   "text": "us webinar mein"
+  },
+  {
+   "c": 74,
+   "s": 300.9,
+   "text": "ek aise Ayurvedic"
+  },
+  {
+   "c": 76,
+   "s": 304.37,
+   "text": "doctor se milaunga jo mere,"
+  },
+  {
+   "c": 77,
+   "e": 310.14,
+   "text": "meri mummy ki"
+  },
+  {
+   "c": 78,
+   "s": 309.76,
+   "e": 313.67,
+   "text": "psoriasis theek karne mein jinka sabse zyada bada haath hai."
+  },
+  {
+   "c": 79,
+   "s": 313.72,
+   "text": "Toh"
+  },
+  {
+   "c": 80,
+   "s": 314.65,
+   "text": "aap logon se"
+  },
+  {
+   "c": 81,
+   "e": 318.61,
+   "text": "request hai ki aap logon ko agar"
+  },
+  {
+   "c": 82,
+   "s": 318.36,
+   "text": "ye ilaaj chahiye toh aap log comment box mein"
+  },
+  {
+   "c": 83,
+   "s": 321.48,
+   "e": 323.31,
+   "text": "PSORIASIS likhiye,"
+  },
+  {
+   "c": 84,
+   "s": 323.3,
+   "e": 328.42,
+   "text": "aur aap logon ke paas webinar ki link chali jaayegi. Webinar join kijiye, webinar mein main un doctor ko"
+  },
+  {
+   "c": 85,
+   "s": 328.2,
+   "text": "leke aane ki koshish karunga."
+  },
+  {
+   "c": 86,
+   "s": 329.87,
+   "e": 335.58,
+   "text": "Theek hai, mera kaam tha science pahunchana, decision aapka hai. You're watching FitFinfluencer, milte hain next video mein."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

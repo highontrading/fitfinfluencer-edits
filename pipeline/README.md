@@ -75,3 +75,24 @@ The pipeline that produces the FitFinfluencer edits. Every edit from batch 5 onw
 - **Mixkit:** only clips whose page says "Free License" (`lic_scan.py`). Never use Restricted ones.
 - **Wikimedia Commons:** `commons.py` keeps only Public domain, CC0 and CC BY files (no ShareAlike, NC or ND).
 - **Stock metadata:** `stock/*.json`. The clips themselves are not in the repo.
+
+## Batch 8 additions (new container, Moon Crew, queues)
+
+- **Fonts are bundled.** `render/fonts/base.css` (Poppins, Montserrat, Anton, JetBrains Mono) and `mc.css` (Cormorant Garamond, Michroma, Manrope) are local web fonts.
+  - A fresh container has none of these installed, and the cards silently fell back to a serif.
+  - `render2.js` preloads every bundled font before the first frame.
+- **Chromium path:** use the stable symlink `/opt/pw-browsers/chromium`. Versioned paths change between containers.
+- **`mkedl.py N`:** builds `edl/vN.json` from a compact keep list `work/kN.txt` (`cid [s=..] [e=..] | caption`).
+  - It auto-extends a chunk edge to cover a transcript word the pause splitter clipped.
+  - The extension is capped at 0.45s and clamped to the neighbouring chunks.
+  - Keep lists are saved in `edl/keep/`.
+- **Language:** whisper sometimes detects Hindi as Urdu (`ur`). In that case re-run with `transcribe_hi.py`, which forces `language='hi'`.
+- **Daemons:** `cutd.sh` (reads `work/cq8.txt`), `renderd8.sh` (`work/rq8.txt`) and `deliverd8.sh` (QA sheet plus `deliver.sh` for each "vN RENDERED", using `work/names8.txt`).
+  - To re-render or re-deliver, remove that video's line from `renderq8.log` / `deliver8.log` **in place** (open `r+`, rewrite, truncate). Never use `sed -i`.
+- **Moon Crew theme (`mc_theme.py`):** for the creator's Mooncrew Club videos (English, rave/festival topics).
+  - Colours: black, ivory, champagne. Type: Cormorant Garamond headlines, Michroma labels, Manrope body.
+  - B-roll is graded darker and softer (`bright=-0.17, sat=0.78`).
+  - The end card carries the exact final Mooncrew logo (`MC.end_card`). Brand pill: "MOONCREW CLUB".
+  - Pass `extra={'css': MC.CSS}` to `S.save`. The overlay injects `spec.css`, and the `html` event type renders free-form markup such as the logo.
+- **Labels at y=110 or y=1600:** Michroma (`font='label'`) is very wide, so keep these to about 32 characters. Bottom labels sit at y=1600, clear of two-line captions.
+- **Anchor pitfall (again):** `T('your')`, `T('this')`, `T('ill')` (I'll) and `T('aur', T(x))` point *after* `x`. For the word *before* `x`, anchor on an earlier unique word.

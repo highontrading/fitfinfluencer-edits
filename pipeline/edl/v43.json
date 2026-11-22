@@ -1,0 +1,179 @@
+{
+ "name": "v43",
+ "src": "v43.mp4",
+ "chunks": "ch43.json",
+ "transcript": "t43.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 1,
+   "text": "Everyone is taking this pill"
+  },
+  {
+   "c": 2,
+   "s": 7.41,
+   "e": 9.93,
+   "text": "to feel better after a rave."
+  },
+  {
+   "c": 3,
+   "s": 10.44,
+   "text": "But it doesn't even make serotonin."
+  },
+  {
+   "c": 5,
+   "s": 15.06,
+   "e": 17.53,
+   "text": "And the reason is pretty simple."
+  },
+  {
+   "c": 6,
+   "s": 17.23,
+   "text": "Give me one minute and I'll tell you why."
+  },
+  {
+   "c": 7,
+   "text": "Your brain makes its feel-good chemicals from the food you eat."
+  },
+  {
+   "c": 8,
+   "e": 41.77,
+   "text": "The chemicals carry messages from"
+  },
+  {
+   "c": 9,
+   "s": 41.57,
+   "text": "brain cells to the next."
+  },
+  {
+   "c": 12,
+   "text": "And they are called neurotransmitters."
+  },
+  {
+   "c": 13,
+   "s": 61.3,
+   "text": "This pill is L-tyrosine,"
+  },
+  {
+   "c": 14,
+   "s": 64.61,
+   "text": "and your body turns"
+  },
+  {
+   "c": 15,
+   "s": 66.9,
+   "text": "tyrosine into"
+  },
+  {
+   "c": 16,
+   "s": 68.5,
+   "text": "dopamine."
+  },
+  {
+   "c": 17,
+   "s": 69.51,
+   "text": "Dopamine gives you focus and drive."
+  },
+  {
+   "c": 18,
+   "s": 72.41,
+   "text": "But it doesn't make you feel calm and happy."
+  },
+  {
+   "c": 19,
+   "e": 84.1,
+   "text": "But serotonin is made of something else."
+  },
+  {
+   "c": 20,
+   "s": 83.78,
+   "e": 85.09,
+   "text": "It's called"
+  },
+  {
+   "c": 21,
+   "s": 84.88,
+   "text": "tryptophan."
+  },
+  {
+   "c": 23,
+   "text": "And here's the problem."
+  },
+  {
+   "c": 24,
+   "s": 95.55,
+   "text": "Tyrosine and tryptophan use the same door to get into your brain."
+  },
+  {
+   "c": 29,
+   "text": "They fight for space, so taking more tyrosine doesn't help you"
+  },
+  {
+   "c": 30,
+   "s": 125.43,
+   "text": "to make more serotonin."
+  },
+  {
+   "c": 33,
+   "s": 130.97,
+   "text": "It can actually make it harder for tryptophan to get in."
+  },
+  {
+   "c": 35,
+   "s": 142.12,
+   "text": "So what actually helps after a big"
+  },
+  {
+   "c": 37,
+   "s": 146.49,
+   "text": "weekend?"
+  },
+  {
+   "c": 38,
+   "s": 148.62,
+   "e": 149.85,
+   "text": "Number one,"
+  },
+  {
+   "c": 39,
+   "s": 149.51,
+   "text": "good sleep."
+  },
+  {
+   "c": 40,
+   "s": 150.71,
+   "text": "Real food."
+  },
+  {
+   "c": 41,
+   "s": 151.98,
+   "text": "And the most important thing: morning sunlight."
+  },
+  {
+   "c": 46,
+   "text": "I'll explain the"
+  },
+  {
+   "c": 47,
+   "text": "sunlight part in the next video."
+  },
+  {
+   "c": 55,
+   "s": 198.72,
+   "e": 201.88,
+   "text": "Comment RAVE PROTOCOL to get the next video,"
+  },
+  {
+   "c": 56,
+   "s": 201.49,
+   "text": "and follow Moon Crew for more."
+  },
+  {
+   "c": 57,
+   "s": 205.42,
+   "text": "See you in the next video."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

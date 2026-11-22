@@ -10,7 +10,7 @@ const fs = require('fs'), path = require('path');
   const frames = LIST ? LIST.split(',').map(Number) : [...Array(spec.frames).keys()];
   const behind = (spec.events || []).filter(e => e.layer === 'behind').map(e => [e.t0 - 0.05, e.t1 + 0.05]);
   const isBehind = t => behind.some(([a, b]) => t >= a && t <= b);
-  const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome', args: ['--disable-gpu', '--font-render-hinting=none', '--allow-file-access-from-files'] });
+  const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium', args: ['--disable-gpu', '--font-render-hinting=none', '--allow-file-access-from-files'] });
   const workers = +W, t0 = Date.now(); let done = 0;
   await Promise.all([...Array(workers)].map(async (_, k) => {
     const [VW, VH] = spec.size || [1080, 1920];
@@ -18,6 +18,12 @@ const fs = require('fs'), path = require('path');
     await page.goto('file://' + path.resolve(__dirname, 'overlay2.html'));
     await page.evaluate(s => window.init(s), spec);
     await page.waitForFunction(() => window.READY === true);
+    await page.evaluate(async () => {   // load every bundled web font before the first frame (no fallback-font frames)
+      const fams = ['Poppins', 'Montserrat', 'Anton', 'Bebas Neue', 'Oswald', 'Playfair Display', 'JetBrains Mono', 'Cormorant Garamond', 'Manrope', 'Michroma'];
+      const ws = [400, 500, 600, 700, 800, 900];
+      await Promise.all(fams.flatMap(f => ws.flatMap(w => [document.fonts.load(`${w} 40px "${f}"`), document.fonts.load(`italic ${w} 40px "${f}"`)]).map(p => p.catch(() => {}))));
+      await document.fonts.ready;
+    });
     const cdp = await page.context().newCDPSession(page);
     await cdp.send('Emulation.setDefaultBackgroundColorOverride', { color: { r: 0, g: 0, b: 0, a: 0 } });
     const shot = async p => { const { data } = await cdp.send('Page.captureScreenshot', { format: 'png', optimizeForSpeed: true }); fs.writeFileSync(p + '.tmp', Buffer.from(data, 'base64')); fs.renameSync(p + '.tmp', p); };

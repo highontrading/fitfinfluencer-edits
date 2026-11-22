@@ -1,0 +1,228 @@
+{
+ "name": "v45",
+ "src": "v45.mp4",
+ "chunks": "ch45.json",
+ "transcript": "t45.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "text": "Creatine is not just for your muscles."
+  },
+  {
+   "c": 1,
+   "s": 3.15,
+   "e": 5.3,
+   "text": "Your brain uses it"
+  },
+  {
+   "c": 2,
+   "s": 5.11,
+   "text": "too."
+  },
+  {
+   "c": 3,
+   "text": "Because scientists tested it on people"
+  },
+  {
+   "c": 4,
+   "s": 13.55,
+   "e": 14.94,
+   "text": "who stayed"
+  },
+  {
+   "c": 5,
+   "s": 14.65,
+   "e": 16.47,
+   "text": "up all night,"
+  },
+  {
+   "c": 8,
+   "text": "just like you"
+  },
+  {
+   "c": 9,
+   "s": 20.98,
+   "text": "at a festival."
+  },
+  {
+   "c": 10,
+   "s": 24.49,
+   "text": "And the most important part is, it worked."
+  },
+  {
+   "c": 12,
+   "s": 31.64,
+   "text": "But there is a catch."
+  },
+  {
+   "c": 14,
+   "s": 40.32,
+   "e": 44.67,
+   "text": "Every cell in your body runs on a kind of energy"
+  },
+  {
+   "c": 15,
+   "s": 44.68,
+   "e": 46.74,
+   "text": "called ATP."
+  },
+  {
+   "c": 19,
+   "text": "And when a cell runs low,"
+  },
+  {
+   "c": 20,
+   "text": "creatine helps refill it fast."
+  },
+  {
+   "c": 21,
+   "s": 59.37,
+   "text": "Your muscles do this."
+  },
+  {
+   "c": 22,
+   "s": 61.95,
+   "text": "So does your brain."
+  },
+  {
+   "c": 36,
+   "s": 115.0,
+   "e": 117.36,
+   "text": "In a 2024 study,"
+  },
+  {
+   "c": 37,
+   "s": 116.95,
+   "text": "15 people stayed"
+  },
+  {
+   "c": 38,
+   "s": 118.77,
+   "e": 120.49,
+   "text": "awake all night,"
+  },
+  {
+   "c": 39,
+   "s": 120.29,
+   "text": "and the ones"
+  },
+  {
+   "c": 40,
+   "s": 122.15,
+   "e": 124.08,
+   "text": "who took creatine"
+  },
+  {
+   "c": 41,
+   "s": 124.15,
+   "text": "thought faster"
+  },
+  {
+   "c": 42,
+   "s": 125.89,
+   "text": "and remembered better."
+  },
+  {
+   "c": 44,
+   "text": "It started working in about three hours and lasted up to nine."
+  },
+  {
+   "c": 45,
+   "text": "So here's the catch."
+  },
+  {
+   "c": 50,
+   "text": "They took huge doses, about 25 grams at once,"
+  },
+  {
+   "c": 51,
+   "text": "for a 70 kg person."
+  },
+  {
+   "c": 56,
+   "s": 188.82,
+   "text": "That was a lab test, but"
+  },
+  {
+   "c": 57,
+   "s": 191.38,
+   "text": "don't try this at home."
+  },
+  {
+   "c": 58,
+   "s": 197.8,
+   "text": "And the most important part: what actually works?"
+  },
+  {
+   "c": 59,
+   "s": 202.12,
+   "text": "It's very, very simple."
+  },
+  {
+   "c": 60,
+   "s": 204.34,
+   "e": 205.2,
+   "text": "Take"
+  },
+  {
+   "c": 61,
+   "s": 204.97,
+   "text": "3 to 5 grams every day, creatine."
+  },
+  {
+   "c": 62,
+   "s": 210.14,
+   "text": "And"
+  },
+  {
+   "c": 63,
+   "s": 211.04,
+   "text": "after a few weeks your muscles fill up with it, and"
+  },
+  {
+   "c": 64,
+   "s": 216.52,
+   "text": "your training gets better."
+  },
+  {
+   "c": 65,
+   "e": 225.33,
+   "text": "But"
+  },
+  {
+   "c": 66,
+   "s": 224.98,
+   "e": 227.4,
+   "text": "if you have kidney problems,"
+  },
+  {
+   "c": 67,
+   "s": 227.06,
+   "e": 228.63,
+   "text": "then ask"
+  },
+  {
+   "c": 68,
+   "s": 228.34,
+   "text": "your doctor first."
+  },
+  {
+   "c": 70,
+   "s": 231.14,
+   "text": "Comment RAVE PROTOCOL"
+  },
+  {
+   "c": 71,
+   "s": 232.75,
+   "text": "if you need this type of information."
+  },
+  {
+   "c": 72,
+   "s": 235.71,
+   "text": "Follow Moon Crew for more."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

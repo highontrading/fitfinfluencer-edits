@@ -1,0 +1,358 @@
+{
+ "name": "v42",
+ "src": "v42.mp4",
+ "chunks": "ch42.json",
+ "transcript": "t42.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 1,
+   "s": 1.5,
+   "e": 3.9,
+   "text": "Ye EMI sabse mehngi kaunsi hoti hai?"
+  },
+  {
+   "c": 2,
+   "s": 3.83,
+   "e": 5.58,
+   "text": "Kya lagta hai aap logon ko?"
+  },
+  {
+   "c": 3,
+   "s": 5.31,
+   "e": 6.64,
+   "text": "Ghar ki,"
+  },
+  {
+   "c": 4,
+   "s": 6.26,
+   "e": 7.5,
+   "text": "car ki,"
+  },
+  {
+   "c": 5,
+   "s": 7.27,
+   "text": "ya beemari ki?"
+  },
+  {
+   "c": 6,
+   "s": 9.58,
+   "e": 16.48,
+   "text": "Mujhe aisa lagta hai ki beemari ki EMI hi sabse badi hoti hai aur sabse buri hoti hai, aur sabse bura part iska pata hai kya hai?"
+  },
+  {
+   "c": 7,
+   "s": 16.07,
+   "e": 18.29,
+   "text": "Ki ye kabhi khatam hoti nahi."
+  },
+  {
+   "c": 8,
+   "s": 18.01,
+   "e": 26.3,
+   "text": "Car ki EMI khatam ho jaayegi 5 saal mein, ghar ki EMI khatam ho jaayegi 20 saal mein, beemari ki EMI zindagi bhar chalegi, lifetime aap logon ke saath."
+  },
+  {
+   "c": 9,
+   "s": 26.07,
+   "text": "Aur sab log isko over-complicate kar dete hain."
+  },
+  {
+   "c": 10,
+   "s": 42.84,
+   "e": 49.09,
+   "text": "Asli secret ye hai ki health insurance bahut saare logon ke paas hai, lekin jab zaroorat padti hai na, toh kaam nahi aata hai."
+  },
+  {
+   "c": 11,
+   "s": 48.8,
+   "text": "Pata hai kyun?"
+  },
+  {
+   "c": 15,
+   "e": 74.37,
+   "text": "India mein 65% kharcha out of pocket hota hai, matlab ki aapki jeb se jaata hai ye saari cheezein."
+  },
+  {
+   "c": 16,
+   "s": 74.14,
+   "e": 78.2,
+   "text": "Aur sabse important cheez pata hai kya hai? Let's say BP ka example le lete hain."
+  },
+  {
+   "c": 17,
+   "text": "Monthly dawai aap logon ki 500 se 2000 rupaye ki aa jaati hai, quarterly blood test aap logon ka 1500 rupaye se 3000 rupaye tak pahunch jaata hai,"
+  },
+  {
+   "c": 18,
+   "e": 91.09,
+   "text": "doctor ke visit 500 se 1000 rupaye har baar lagne lagte hain."
+  },
+  {
+   "c": 19,
+   "s": 90.82,
+   "e": 98.96,
+   "text": "Aur agar complication aaye heart, kidney, aur in saari cheezon par, liver wagairah par, toh do se das lakh rupaye ka instant bill"
+  },
+  {
+   "c": 20,
+   "s": 98.58,
+   "text": "turant lag jaata hai, ekdum, aap logon ko pata bhi nahi chalta hai is cheez ka."
+  },
+  {
+   "c": 24,
+   "s": 115.7,
+   "e": 119.5,
+   "text": "Ab aap logon ke health insurance ki pol khol deta hoon. Health insurance karta kya hai?"
+  },
+  {
+   "c": 27,
+   "e": 130.42,
+   "text": "IRDAI ne 2024 mein ek rule badla."
+  },
+  {
+   "c": 29,
+   "s": 130.7,
+   "e": 134.57,
+   "text": "Pre-existing disease ka waiting period pata hai kitna ho gaya?"
+  },
+  {
+   "c": 30,
+   "s": 134.28,
+   "e": 136.09,
+   "text": "36 months."
+  },
+  {
+   "c": 31,
+   "e": 143.43,
+   "text": "Matlab ki aap logon ko aaj agar BP diagnose ho gaya, toh teen saal baad aapke insurance mein cover hoga."
+  },
+  {
+   "c": 32,
+   "s": 143.37,
+   "text": "Teen saal tak cover hi nahi hoga."
+  },
+  {
+   "c": 33,
+   "s": 147.7,
+   "e": 150.09,
+   "text": "Ab ye trap aap log samajhte ho?"
+  },
+  {
+   "c": 34,
+   "s": 149.91,
+   "text": "Jab healthy ho aap log, insurance lete nahi ho,"
+  },
+  {
+   "c": 35,
+   "s": 155.0,
+   "e": 160.4,
+   "text": "aap logon ko lagta hai ki kya zaroorat hai, aur jab beemar padte ho toh insurance cover nahi deta hai."
+  },
+  {
+   "c": 36,
+   "s": 160.15,
+   "text": "Toh aap log dono side se phas jaate ho."
+  },
+  {
+   "c": 37,
+   "s": 167.52,
+   "text": "Log kehte hain ki pre-existing hai,"
+  },
+  {
+   "c": 38,
+   "s": 169.8,
+   "text": "toh cover nahi milega."
+  },
+  {
+   "c": 39,
+   "e": 178.0,
+   "s": 174.2,
+   "text": "Aur tab tak aap logon ke laakhon kharch ho chuke hote hain."
+  },
+  {
+   "c": 40,
+   "e": 216.13,
+   "text": "Middle class ki sabse badi problem yahi hai, ek badi medical emergency aa jaati hai aur aap logon ki poori ki poori savings khatam,"
+  },
+  {
+   "c": 41,
+   "e": 217.15,
+   "s": 215.83,
+   "text": "EMI shuru ho jaati hai."
+  },
+  {
+   "c": 42,
+   "text": "Financial crisis aa jaata hai aap logon ke poore parivaar mein, stress ekdum badh jaata hai, aur stress aur zyada health kharab kar jaata hai, toh ye vicious cycle chal jaati hai aap logon ke paas."
+  },
+  {
+   "c": 43,
+   "s": 228.7,
+   "e": 231.82,
+   "text": "Do cheezein kariye ab, meri maaniye toh."
+  },
+  {
+   "c": 45,
+   "e": 243.82,
+   "s": 242.52,
+   "text": "Sabse pehli cheez:"
+  },
+  {
+   "c": 47,
+   "e": 255.26,
+   "text": "health insurance tab le lijiye jab aap log healthy ho. Pre-existing jo aap logon ki"
+  },
+  {
+   "c": 48,
+   "s": 254.87,
+   "e": 257.74,
+   "text": "diseases hai na, unse sabse pehle."
+  },
+  {
+   "c": 49,
+   "s": 257.33,
+   "text": "Waiting period"
+  },
+  {
+   "c": 50,
+   "s": 258.92,
+   "e": 261.04,
+   "text": "tab se count hoga agar,"
+  },
+  {
+   "c": 51,
+   "s": 260.64,
+   "e": 262.5,
+   "text": "toh aap log bach jaoge."
+  },
+  {
+   "c": 52,
+   "s": 262.14,
+   "e": 266.36,
+   "text": "Toh BP agar aap logon ke health insurance hone ke baad hua hota,"
+  },
+  {
+   "c": 53,
+   "s": 266.04,
+   "e": 268.44,
+   "text": "toh saare kharche aap logon ke cover ho jaate."
+  },
+  {
+   "c": 54,
+   "s": 268.24,
+   "text": "But"
+  },
+  {
+   "c": 55,
+   "s": 268.75,
+   "text": "health insurance lene ke"
+  },
+  {
+   "c": 57,
+   "s": 272.02,
+   "text": "pehle agar BP ho chuka hai,"
+  },
+  {
+   "c": 58,
+   "s": 274.49,
+   "text": "toh phir aap logon ko pre-existing"
+  },
+  {
+   "c": 59,
+   "text": "waale case mein aana padega aur 3 saal tak ka wait karna padega."
+  },
+  {
+   "c": 61,
+   "s": 291.54,
+   "e": 295.21,
+   "text": "Ya toh aap log doosra kaam kar sakte ho ki health protocol follow karo,"
+  },
+  {
+   "c": 62,
+   "s": 294.89,
+   "e": 296.79,
+   "text": "taaki beemari aaye na."
+  },
+  {
+   "c": 63,
+   "s": 296.53,
+   "e": 301.2,
+   "text": "Maine 110 kg se 85 kg apna weight le aaya."
+  },
+  {
+   "c": 64,
+   "s": 300.83,
+   "e": 304.62,
+   "text": "Saare type ke cholesterol ho rakhe the mujhe, high LDL,"
+  },
+  {
+   "c": 65,
+   "s": 304.23,
+   "e": 309.84,
+   "text": "wo saari cheez normal ho gayi. BP meri wife ka badha hua tha, wo control ho gaya."
+  },
+  {
+   "c": 66,
+   "e": 315.8,
+   "s": 309.44,
+   "text": "Meri mummy ke pairon mein psoriasis ho rakha tha, wo saari cheezein improve ho gayi, psoriasis tak hum log improve kar diye."
+  },
+  {
+   "c": 67,
+   "text": "Aur doctor ka bill pata hai kitna aaya?"
+  },
+  {
+   "c": 68,
+   "text": "Bahut kam."
+  },
+  {
+   "c": 69,
+   "text": "Itna ki aap log kabhi bhi afford kar sakte ho."
+  },
+  {
+   "c": 70,
+   "s": 333.34,
+   "text": "Toh ye jaan lijiye"
+  },
+  {
+   "c": 71,
+   "s": 335.01,
+   "text": "ki beemari ka paisa sabse zyada"
+  },
+  {
+   "c": 72,
+   "s": 337.99,
+   "text": "mehnga paisa hai, prevention ka paisa bahut kam hai, prevention ek investment hai aap logon ke liye."
+  },
+  {
+   "c": 76,
+   "s": 354.84,
+   "text": "Agar aap logon ko bhi"
+  },
+  {
+   "c": 77,
+   "s": 356.82,
+   "e": 359.44,
+   "text": "apni life mein prevention laana hai,"
+  },
+  {
+   "c": 78,
+   "s": 359.04,
+   "e": 361.6,
+   "text": "toh HEALTH PROTOCOL comment kar dijiye."
+  },
+  {
+   "c": 79,
+   "s": 361.32,
+   "e": 365.99,
+   "text": "Mera kaam tha science pahunchana, decision aapka hai. You're watching FitFinfluencer, milte hain"
+  },
+  {
+   "c": 80,
+   "s": 365.76,
+   "text": "next video mein."
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}
