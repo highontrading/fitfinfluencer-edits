@@ -34,7 +34,7 @@ S.add({'type': 'chain', 't0': w0, 't1': w1, 'y': 150, 'title': 'Why the cycle br
     {'t': T('signal'), 'text': '*T cells* send wrong signals', 'st': 'no', 'stc': 'red'}, {'t': T('inflammatory'), 'text': 'Release *inflammatory cytokines*'},
     {'t': T('tnfalpha'), 'text': '*TNF-alpha, IL-17, IL-23*', 'st': 'up', 'stc': 'red'}, {'t': T('jaldi'), 'text': 'Skin told: *"Faster! Faster!"*', 'st': 'up', 'stc': 'red'},
     {'t': T('pakne'), 'text': 'No time to *mature*', 'st': 'no', 'stc': 'red'}, {'t': T('bhoosi'), 'text': 'Sheds like *husk*', 'st': 'down', 'stc': 'red'}]})
-K(T('cytokines') - 0.1, T('jaldi') - 0.05, ['CYTOKINES = INFLAMMATION SIGNALS'], x=540, y=110, sizes=[40], font='oswald', anim='rise', fit=1000)
+K(T('cytokines') - 0.1, T('jaldi') - 0.05, ['CYTOKINES = INFLAMMATION SIGNALS'], x=540, y=780, sizes=[40], font='oswald', anim='rise', fit=1000)
 K(T('aur', T('bhoosi')) - 0.03, T('pata', T('bahar')) - 0.05, ['TRAPPED CELLS:', 'RED PATCHES + ~ITCHING~'], x=540, y=300, sizes=[90, 90], anim='slam', stagger=1.0)
 # ---------------- our mistake
 K(T('pata', T('bahar')) - 0.03, T('aur', T('andar')) - 0.05, ['OUR MISTAKE:', 'TREATING ONLY ~THE SURFACE~'], x=540, y=300, sizes=[90, 80], anim='slam', stagger=1.0)

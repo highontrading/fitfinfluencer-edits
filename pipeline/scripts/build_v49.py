@@ -35,7 +35,7 @@ S.card(d0, d1)
 S.add({'type': 'chain', 't0': d0, 't1': d1, 'y': 150, 'title': 'Reason 4: Sleep', 'show': 4, 'items': [
     {'t': T('sleep'), 'text': 'Less than *6-8 hours* of sleep'}, {'t': T('active'), 'text': 'Nervous system *stays active*', 'st': 'up', 'stc': 'red'},
     {'t': T('norepinephrine'), 'text': 'Releases *norepinephrine*', 'st': 'up', 'stc': 'red'}, {'t': T('37%'), 'text': '1 hr less sleep: *+37% risk*', 'st': 'up', 'stc': 'red'}]})
-K(T('norepinephrine') - 0.1, d1, ['NOREPINEPHRINE = A STRESS HORMONE'], x=540, y=110, sizes=[44], font='oswald', anim='rise', fit=1000)
+K(T('norepinephrine') - 0.1, d1, ['NOREPINEPHRINE = A STRESS HORMONE'], x=540, y=780, sizes=[44], font='oswald', anim='rise', fit=1000)
 # ---------------- 5 kidneys
 e0 = T('aur', T('37%')) - 0.08; e1 = T('toh', T('chhoti')) - 0.08
 S.card(e0, e1)

@@ -28,7 +28,7 @@ S.card(f0, f1)
 S.add({'type': 'chain', 't0': f0, 't1': f1, 'y': 150, 'title': 'Pillar 1: Fasting', 'show': 4, 'items': [
     {'t': T('ampk'), 'text': '*AMPK* switched on'}, {'t': T('autophagy'), 'text': '*Autophagy*: cell clean-up'},
     {'t': T('insulin'), 'text': 'Better *insulin sensitivity*', 'st': 'up', 'stc': 'green'}, {'t': T('thousands'), 'text': '*Thousands* of trials'}]})
-K(T('ampk') - 0.1, T('autophagy') + 1.2, ["AMPK = YOUR CELLS' ENERGY SENSOR"], x=540, y=110, sizes=[44], font='oswald', anim='rise', fit=1000)
+K(T('ampk') - 0.1, T('autophagy') + 1.2, ["AMPK = YOUR CELLS' ENERGY SENSOR"], x=540, y=780, sizes=[44], font='oswald', anim='rise', fit=1000)
 # ---------------- pillar 2 diet
 B(10420, T('number', T('trials')) - 0.05, T('polyphenols') - 0.05, off=0.5)
 K(T('number', T('trials')) - 0.03, T('polyphenols') - 0.05, ['PILLAR 2:', '*DIET*'], x=540, y=300, sizes=[90, 150], anim='slam', stagger=0.6)
@@ -38,8 +38,8 @@ S.add({'type': 'chain', 't0': d0, 't1': d1, 'y': 150, 'title': 'Pillar 2: Diet',
     {'t': T('polyphenols'), 'text': '*Polyphenols*'}, {'t': T('colour'), 'text': 'Plant colours made for *survival*'},
     {'t': T('sirt1'), 'text': 'Activates *SIRT1*', 'st': 'up', 'stc': 'green'}, {'t': T('immunity'), 'text': 'Stronger *immunity*', 'st': 'up', 'stc': 'green'},
     {'t': T('decades'), 'text': '*Decades* of data'}]})
-K(T('polyphenols') - 0.1, T('sirt1') - 0.2, ['POLYPHENOLS = PROTECTIVE PLANT COMPOUNDS'], x=540, y=110, sizes=[40], font='oswald', anim='rise', fit=1000)
-K(T('sirt1') - 0.1, d1, ['SIRT1 = A SIRTUIN, LINKED TO CELL REPAIR'], x=540, y=110, sizes=[40], font='oswald', anim='rise', fit=1000)
+K(T('polyphenols') - 0.1, T('sirt1') - 0.2, ['POLYPHENOLS = PROTECTIVE PLANT COMPOUNDS'], x=540, y=780, sizes=[40], font='oswald', anim='rise', fit=1000)
+K(T('sirt1') - 0.1, d1, ['SIRT1 = A SIRTUIN, LINKED TO CELL REPAIR'], x=540, y=780, sizes=[40], font='oswald', anim='rise', fit=1000)
 # ---------------- pillar 3 exercise
 B(44416, T('exercise') - 0.05, T('but', T('exercise')) - 0.05, off=0.5)
 K(T('exercise') - 0.03, T('but', T('exercise')) - 0.05, ['PILLAR 3:', '*EXERCISE*'], x=540, y=300, sizes=[90, 150], anim='slam', stagger=0.6)
