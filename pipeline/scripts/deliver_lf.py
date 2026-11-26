@@ -23,16 +23,15 @@ for k, (a, b) in enumerate(G):   # fixed-layout patches laid over the main rende
     ins += ['-i', f'out/v51_patch{k}.mp4']; t = a * 1001 / 30000
     fc.append(f'[{k + 2}:v]setpts=PTS-STARTPTS+{t:.6f}/TB[p{k}];[{last}][p{k}]overlay=eof_action=pass:repeatlast=0[m{k}]'); last = f'm{k}'
 fc.append(f'[0:v][0:a][{last}][1:a]concat=n=2:v=1:a=1[v][a]')
-subprocess.run(['ffmpeg', '-v', 'error', '-y'] + ins + ['-filter_complex', ';'.join(fc),
+if not os.environ.get('SPLIT_ONLY'): subprocess.run(['ffmpeg', '-v', 'error', '-y'] + ins + ['-filter_complex', ';'.join(fc),
                 '-map', '[v]', '-map', '[a]', '-c:v', 'libx264', '-preset', 'slow', '-crf', '20', '-maxrate', '4.6M', '-bufsize', '9M', '-pix_fmt', 'yuv420p',
                 '-force_key_frames', kf, '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', full], check=True)
 pdir = f'{OUT}/parts'; os.makedirs(pdir, exist_ok=True)
-subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', full, '-c', 'copy', '-map', '0', '-f', 'segment', '-segment_times', kf, '-reset_timestamps', '1',
+subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', full, '-c', 'copy', '-map', '0', '-f', 'segment', '-segment_times', kf, '-segment_start_number', '1', '-reset_timestamps', '1',
                 f'{pdir}/{NAME}_part%02d.mp4'], check=True)
 info = []
 for i, (t, n) in enumerate(cuts):
-    p = f'{pdir}/{NAME}_part{i:02d}.mp4'; sz = os.path.getsize(p) / 1e6
-    info.append({'part': i + 1, 'file': os.path.basename(p).replace(f'part{i:02d}', f'part{i+1:02d}'), 'start': t, 'contents': n, 'mb': round(sz, 1)})
-    os.rename(p, f'{pdir}/{NAME}_part{i+1:02d}.mp4')
+    p = f'{pdir}/{NAME}_part{i + 1:02d}.mp4'; sz = os.path.getsize(p) / 1e6
+    info.append({'part': i + 1, 'file': os.path.basename(p), 'start': t, 'contents': n, 'mb': round(sz, 1)})
 json.dump({'trailer': td, 'main': md, 'total': td + md, 'parts': info}, open(f'{OUT}/parts.json', 'w'), indent=1)
 print(json.dumps(info, indent=1)); print('full', round(os.path.getsize(full) / 1e6), 'MB', round((td + md) / 60, 2), 'min')
