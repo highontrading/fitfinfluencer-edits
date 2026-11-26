@@ -250,7 +250,9 @@ for f in range(N):
             try: os.remove(q)
             except OSError: pass
         if f % 30 == 0: open(os.path.join(ovdir, '_pos'), 'w').write(str(f))
-    if ov is not None:
+    if ov is not None and ov.ndim == 3 and ov.shape[2] == 3:   # fully opaque frame saved without alpha
+        out = np.ascontiguousarray(ov[..., ::-1])
+    elif ov is not None:
         a = ov[..., 3:4].astype(np.uint16)
         rgb = ov[..., 2::-1].astype(np.uint16)
         out = ((out.astype(np.uint16) * (255 - a) + rgb * a) // 255).astype(np.uint8)

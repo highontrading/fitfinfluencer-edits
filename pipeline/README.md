@@ -96,3 +96,19 @@ The pipeline that produces the FitFinfluencer edits. Every edit from batch 5 onw
   - Pass `extra={'css': MC.CSS}` to `S.save`. The overlay injects `spec.css`, and the `html` event type renders free-form markup such as the logo.
 - **Labels at y=110 or y=1600:** Michroma (`font='label'`) is very wide, so keep these to about 32 characters. Bottom labels sit at y=1600, clear of two-line captions.
 - **Anchor pitfall (again):** `T('your')`, `T('this')`, `T('ill')` (I'll) and `T('aur', T(x))` point *after* `x`. For the word *before* `x`, anchor on an earlier unique word.
+
+## Long-form 51 additions (music, trailer, timed diagrams)
+
+- **`tighten.py N`:** run after `mkedl.py`. It trims silent chunk edges (keeps 0.08s before speech and 0.14s after) and splits long internal pauses. On v51 it removed about 3 minutes of dead air.
+- **`anim` overlay component:** a timed SVG/HTML diagram. Children with `data-t` (absolute time) animate in, using `data-a` = fade, draw (stroke), pop, grow, tilt, breathe, count or width. `data-off` fades an element out; `data-dim` dims it.
+  - `lf_svg.py` builds the diagrams: strike list, wall/door, DMN brain (medial view, real hub positions), neurons, path-to-highway, habit loop, 60-second ring, CEN/DMN seesaw, chronotype curves, stress cycle, belief filter.
+- **Music, long-form only (the creator asked for it in that brief):**
+  - `lf_music.py` generates an original score per section mood: piano, pads, strings, Karplus-Strong plucks, beats, drones.
+  - Each section is normalised to an equal level, with 2-second crossfades and silence drops before big points.
+  - `mix_lf.py` keeps the voice untouched, adds sound effects at 30%, and ducks the music about 19 dB under the voice (+6 dB in pauses). The trailer uses 13 dB.
+- **Trailer (v52):**
+  - It is a separate EDL on the same source, with 1.8-second lead-ins before each line. `silence_pre.py` zeroes the voice there, and full-screen question cards (`html` + `hideCaps`) cover them.
+  - It is rendered on its own and joined to the front by `deliver_lf.py`, which also splits the result at chapter starts into parts under 90 MB.
+- **`compose2.py`:** overlay frames that are fully opaque come back from Chromium without an alpha channel, and are now handled as opaque.
+- **`pipe_lf.sh N`:** build, music, mix, then the streamed render and compose.
+

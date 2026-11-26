@@ -11,7 +11,10 @@ for ln in open(f'{W}/k{n}.txt', encoding='utf-8'):
     head, text = ln.split('|', 1)
     p = head.split(); c = ch[int(p[0])]; it = {'c': int(p[0])}
     for q in p[1:]:
-        k, v = q.split('='); it[k] = float(v)
+        k, v = q.split('=')
+        if k == 'sw': it['s'] = round(c['words'][int(v)]['s'] - 0.05, 3)      # start at word N of the chunk
+        elif k == 'ew': it['e'] = round(c['words'][int(v)]['s'] - 0.04, 3)    # end just before word N
+        else: it[k] = float(v)
     if 's' not in it:
         pre = [w for w in tw if w['e'] > c['s'] - 0.6 and w['s'] < c['s'] - 0.08 and w['e'] <= c['s'] + 0.35]
         if pre: it['s'] = round(max(min(w['s'] for w in pre) - 0.06, c['s'] - 0.45, ch[c['id'] - 1]['e'] + 0.02 if c['id'] - 1 in ch else 0), 3)

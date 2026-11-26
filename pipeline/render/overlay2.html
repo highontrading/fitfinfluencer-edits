@@ -379,6 +379,22 @@ C.cells={  // cells multiplying (growth signal): each cell elongates and splits 
 C.html={  // free-form themed block (e.g. a brand's own end-card logo): fades + rises in, fades out
   build(ev){ const el=h('div','ev'); el.style.top=(ev.y||0)+'px'; el.innerHTML=ev.html; return el; },
   update(ev,el,t){ const o=env(ev,t,.6,.4); el.style.opacity=o; if(!o) return; const q=E.inOut(P(t,ev.t0,.9)); el.style.transform=`translateY(${(1-q)*40}px) scale(${lerp(.95,1,q)})`; } };
+C.anim={  // timed SVG/HTML diagram: children with data-t (abs time) animate in. data-a: fade|draw|pop|grow|tilt|breathe|count; data-d duration; data-off fade-out time; data-dim dim time
+  build(ev){ const el=h('div','ev'); el.style.left=(ev.x||0)+'px'; el.style.top=(ev.y||0)+'px'; el.style.width=(ev.w||SW)+'px'; el.innerHTML=ev.html;
+    el.querySelectorAll('[data-a="draw"]').forEach(n=>{ let L=1000; try{ L=n.getTotalLength(); }catch(e){} n.dataset.len=L; n.style.strokeDasharray=L; n.style.strokeDashoffset=L; });
+    return el; },
+  update(ev,el,t){ const o=env(ev,t,.45,.4); el.style.opacity=o; if(!o) return;
+    el.querySelectorAll('[data-t]').forEach(n=>{ const t0=+n.dataset.t, d=+(n.dataset.d||.5), a=n.dataset.a||'fade'; let p=clamp((t-t0)/d); const q=E.outCubic(p);
+      let op=1; if(n.dataset.off){ op=1-clamp((t-(+n.dataset.off))/.35); } if(n.dataset.dim && t>+n.dataset.dim){ op=Math.min(op, 1-.65*clamp((t-(+n.dataset.dim))/.4)); }
+      if(a==='draw'){ n.style.strokeDashoffset=(+n.dataset.len)*(1-q); n.style.opacity=(p>0?1:0)*op; }
+      else if(a==='pop'){ const b=E.outBack(p); n.style.transformBox='fill-box'; n.style.transformOrigin='center'; n.style.transform=`scale(${b})`; n.style.opacity=Math.min(1,p*3)*op; }
+      else if(a==='grow'){ n.style.transformBox='fill-box'; n.style.transformOrigin=n.dataset.o||'left center'; n.style.transform=`scaleX(${q})`; n.style.opacity=(p>0?1:0)*op; }
+      else if(a==='tilt'){ const f=+(n.dataset.from||0), to=+(n.dataset.to||0); n.style.transformBox='fill-box'; n.style.transformOrigin='center'; n.style.transform=`rotate(${f+(to-f)*E.inOut(p)}deg)`; n.style.opacity=op; }
+      else if(a==='breathe'){ const per=+(n.dataset.per||4); const k=t<t0?0:.5-.5*Math.cos((t-t0)/per*2*Math.PI); n.style.transformBox='fill-box'; n.style.transformOrigin='center'; n.style.transform=`scale(${.7+.3*k})`; n.style.opacity=(t>=t0?1:0)*op; }
+      else if(a==='count'){ const f=+(n.dataset.from||0), to=+(n.dataset.to||0); n.textContent=Math.round(f+(to-f)*q)+(n.dataset.u||''); n.style.opacity=(p>0?1:0)*op; }
+      else if(a==='width'){ const f=+(n.dataset.from||1), to=+(n.dataset.to||10); n.setAttribute('stroke-width', f+(to-f)*q); n.style.opacity=(t>=t0?1:0)*op; }
+      else { n.style.opacity=q*op; n.style.transform=`translateY(${(1-q)*18}px)`; }
+    }); } };
 C.cine={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };
 C.flash={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };
 C.leak={ build(ev){ return h('div','ev'); }, update(ev,el,t){ } };

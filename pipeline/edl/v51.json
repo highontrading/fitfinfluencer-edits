@@ -1,0 +1,3605 @@
+{
+ "name": "v51",
+ "src": "v51.mp4",
+ "chunks": "ch51.json",
+ "transcript": "t51.json",
+ "speed": 1.1,
+ "keep": [
+  {
+   "c": 0,
+   "s": 1.5,
+   "text": "Maine bahut saare super-successful logon ke baare mein padha hai.",
+   "e": 5.29
+  },
+  {
+   "c": 1,
+   "s": 5.76,
+   "text": "Chahe wo",
+   "e": 6.68
+  },
+  {
+   "c": 2,
+   "s": 6.81,
+   "e": 10.33,
+   "text": "log founders ho, chahe wo Olympic champions ho,"
+  },
+  {
+   "c": 3,
+   "e": 12.43,
+   "text": "athletes hon bahut achhe,",
+   "s": 10.69
+  },
+  {
+   "c": 4,
+   "s": 12.37,
+   "e": 13.89,
+   "text": "cricketers hon bahut achhe,"
+  },
+  {
+   "c": 5,
+   "text": "ya",
+   "s": 14.36,
+   "e": 15.02
+  },
+  {
+   "c": 6,
+   "s": 15.09,
+   "e": 17.33,
+   "text": "bahut zyada bade billionaires ho."
+  },
+  {
+   "c": 7,
+   "s": 17.91,
+   "text": "Wo log literally jo zero se shuru karke 100 tak pahunche hain, apna safar kiya hai,",
+   "e": 24.64
+  },
+  {
+   "c": 8,
+   "s": 24.96,
+   "e": 28.34,
+   "text": "un saare logon mein sirf ek cheez common thi. Pata hai kya hai?"
+  },
+  {
+   "c": 9,
+   "s": 29.74,
+   "e": 36.76,
+   "text": "Wo cheez na idea thi, na luck tha, na talent tha, aur connection toh bilkul hi nahi tha."
+  },
+  {
+   "c": 10,
+   "s": 36.5,
+   "e": 38.47,
+   "text": "Wo pata hai ek cheez kya thi?"
+  },
+  {
+   "c": 11,
+   "s": 38.62,
+   "text": "BELIEF.",
+   "e": 39.3
+  },
+  {
+   "c": 12,
+   "s": 42.22,
+   "text": "In logon ko sach mein lagta tha",
+   "e": 44.19
+  },
+  {
+   "c": 13,
+   "s": 44.39,
+   "text": "ki ye log jo soch rahe hain, ye log jo sapna dekh rahe hain, wo sach ho sakta hai.",
+   "e": 48.57
+  },
+  {
+   "c": 15,
+   "s": 50.47,
+   "text": "Iske bahut bade bade examples hain. Main MS Dhoni ki hi baat le leta hoon.",
+   "e": 54.59
+  },
+  {
+   "c": 16,
+   "s": 54.76,
+   "text": "Kis tareeke se unhone",
+   "e": 56.23
+  },
+  {
+   "c": 17,
+   "s": 56.39,
+   "text": "apni zindagi mein,",
+   "e": 57.7
+  },
+  {
+   "c": 18,
+   "text": "ki ek TT ki job karke, wahan par",
+   "s": 58.48,
+   "e": 61.68
+  },
+  {
+   "c": 19,
+   "e": 65.72,
+   "text": "zyadatar cricketers ki zindagi khatam ho jaati hai, us jagah se",
+   "s": 61.8
+  },
+  {
+   "c": 20,
+   "s": 66.09,
+   "e": 69.63,
+   "text": "ek aisa insaan jo cricket ka legend ban gaya."
+  },
+  {
+   "c": 21,
+   "s": 69.79,
+   "e": 72.83,
+   "text": "Aap kuch socho ki uski life kahan se kahan tak aayi."
+  },
+  {
+   "c": 22,
+   "s": 72.93,
+   "text": "Agar usne wo TT ki job",
+   "e": 74.52
+  },
+  {
+   "c": 23,
+   "s": 74.59,
+   "text": "mein wo satisfy ho gaya hota, jismein uske ghar waalon ne kaha tha",
+   "e": 78.05
+  },
+  {
+   "c": 24,
+   "s": 77.97,
+   "text": "ki",
+   "e": 78.52
+  },
+  {
+   "c": 25,
+   "s": 78.6,
+   "e": 83.06,
+   "text": "\"beta, job mat chhodna, kuch bhi ho jaaye.\" Log naraaz ho gaye the, aur ye saari cheezein."
+  },
+  {
+   "c": 26,
+   "s": 83.37,
+   "e": 86.84,
+   "text": "Toh wo aaj India ke liye itne saare"
+  },
+  {
+   "c": 27,
+   "s": 87.15,
+   "e": 90.64,
+   "text": "medals, itne saare cups nahi la paaya hota."
+  },
+  {
+   "c": 28,
+   "s": 91.17,
+   "text": "Toh aap kuch socho ki",
+   "e": 92.58
+  },
+  {
+   "c": 29,
+   "e": 95.94,
+   "text": "us belief",
+   "s": 94.18
+  },
+  {
+   "c": 30,
+   "s": 97.28,
+   "text": "ko aap kis tareeke se define kar sakte ho.",
+   "e": 99.16
+  },
+  {
+   "c": 31,
+   "s": 109.59,
+   "text": "Main bata raha hoon aap logon ko, jahan normal logon ko deewar dikhaai deti hai,",
+   "e": 114.93
+  },
+  {
+   "c": 32,
+   "e": 116.29,
+   "text": "wahin pe",
+   "s": 115.23
+  },
+  {
+   "c": 33,
+   "e": 122.2,
+   "text": "successful logon ko darwaaza dikhaai deta hai. Aap samajh rahe ho? Aur ye saari cheezein",
+   "s": 116.91
+  },
+  {
+   "c": 34,
+   "s": 122.6,
+   "e": 128.56,
+   "text": "wo log jaante hain ki kab kaun sa darwaaza kholna hai, aur kis tareeke se wo apne aapko"
+  },
+  {
+   "c": 35,
+   "s": 128.83,
+   "e": 130.36,
+   "text": "mould kar rahe hote hain."
+  },
+  {
+   "c": 36,
+   "s": 130.2,
+   "text": "Aur ye saari cheezein pata hai kya hai? Ye saari cheezein neuroscience hai.",
+   "e": 134.65
+  },
+  {
+   "c": 37,
+   "s": 141.01,
+   "e": 142.39,
+   "text": "Aapke dimaag mein"
+  },
+  {
+   "c": 38,
+   "s": 142.48,
+   "e": 146.14,
+   "text": "ek network hai jo aapke beliefs ko control karta hai."
+  },
+  {
+   "c": 40,
+   "s": 151.21,
+   "text": "Aur aaj main exactly usi network par baat karunga",
+   "e": 154.71
+  },
+  {
+   "c": 41,
+   "e": 156.63,
+   "text": "jo aap log",
+   "s": 155.06
+  },
+  {
+   "c": 42,
+   "s": 157.3,
+   "text": "ko",
+   "e": 157.89
+  },
+  {
+   "c": 43,
+   "s": 157.97,
+   "e": 161.48,
+   "text": "believe dilaata hai ki aap log ye kar sakte ho ya nahi kar sakte ho."
+  },
+  {
+   "c": 44,
+   "s": 166.76,
+   "e": 168.67,
+   "text": "Aur aaj main ye bhi bataunga"
+  },
+  {
+   "c": 45,
+   "e": 172.53,
+   "s": 168.68,
+   "text": "ki kis tareeke se aap us neuroscience ki wajah se"
+  },
+  {
+   "c": 46,
+   "s": 173.59,
+   "text": "apne dimaag ko reprogram kar sakte ho.",
+   "e": 175.91
+  },
+  {
+   "c": 51,
+   "s": 200.91,
+   "e": 202.96,
+   "text": "Aapke dimaag mein ek neural network hai,"
+  },
+  {
+   "c": 52,
+   "s": 203.05,
+   "text": "iska naam hai Default Mode Network,",
+   "e": 206.02
+  },
+  {
+   "c": 53,
+   "s": 205.94,
+   "text": "yaani ki short mein DMN.",
+   "e": 208.57
+  },
+  {
+   "c": 54,
+   "s": 211.03,
+   "e": 212.59,
+   "text": "Ab ye DMN kya hai?"
+  },
+  {
+   "c": 55,
+   "s": 212.66,
+   "e": 216.94,
+   "text": "Ye aapke dimaag ka ek kahaani banaane waala department hai."
+  },
+  {
+   "c": 56,
+   "s": 216.85,
+   "text": "Jab aap kuch nahi kar rahe hote ho na,",
+   "e": 219.58
+  },
+  {
+   "c": 57,
+   "s": 219.63,
+   "text": "daydreaming kar rahe hote ho,",
+   "e": 221.39
+  },
+  {
+   "c": 58,
+   "text": "bore ho rahe hote ho, chahe wo shower mein khade ho rahe ho,",
+   "s": 221.95,
+   "e": 225.53
+  },
+  {
+   "c": 59,
+   "s": 225.69,
+   "text": "chahe wo kahin aap bike chala rahe ho,",
+   "e": 228.77
+  },
+  {
+   "c": 60,
+   "s": 228.86,
+   "e": 230.97,
+   "text": "chahe kisi active network mein ho,"
+  },
+  {
+   "c": 61,
+   "s": 231.54,
+   "text": "toh aapka dimaag kya karta hai, pata hai?",
+   "e": 234.32
+  },
+  {
+   "c": 62,
+   "text": "Ye aapko story sunaata hai.",
+   "s": 241.32,
+   "e": 243.67
+  },
+  {
+   "c": 63,
+   "s": 244.99,
+   "e": 249.41,
+   "text": "Ye aapko story sunaata hai, aapke hi baare mein story sunaata hai."
+  },
+  {
+   "c": 66,
+   "s": 255.5,
+   "e": 258.1,
+   "text": "Main kaun hoon? Meri kya identity hai?"
+  },
+  {
+   "c": 67,
+   "s": 258.19,
+   "e": 267.09,
+   "text": "Main kya kar sakta hoon? Main life mein kya kar raha hoon? Kitna possible hai life mein kahan tak pahunchna? Mera future kaisa hoga? Ye saari cheezein"
+  },
+  {
+   "c": 68,
+   "s": 267.25,
+   "e": 268.81,
+   "text": "aap logon ko"
+  },
+  {
+   "c": 69,
+   "s": 268.66,
+   "text": "DMN",
+   "e": 270.7
+  },
+  {
+   "c": 70,
+   "s": 270.83,
+   "text": "batata hai.",
+   "e": 271.59
+  },
+  {
+   "c": 71,
+   "s": 277.53,
+   "text": "Aur ye wo narrator hai",
+   "e": 279.94
+  },
+  {
+   "c": 72,
+   "s": 280.08,
+   "text": "jo aapke dimaag mein 24 ghante, 7 din",
+   "e": 284.58
+  },
+  {
+   "c": 73,
+   "s": 284.85,
+   "text": "chalta hi rehta hai, 24x7 chalta rehta hai.",
+   "e": 287.68
+  },
+  {
+   "c": 74,
+   "s": 292.06,
+   "text": "Aur yahi wo cheez hai jo billionaires mein alag hoti hai, founders mein alag hoti hai, jo achhe successful log hain un logon mein alag hoti hai.",
+   "e": 299.02
+  },
+  {
+   "c": 76,
+   "s": 316.97,
+   "e": 320.84,
+   "text": "Unka DMN unhe batata hai ki \"tu kar sakta hai bhai saab,"
+  },
+  {
+   "c": 77,
+   "s": 321.42,
+   "e": 322.99,
+   "text": "tu kuch bhi kar sakta hai,"
+  },
+  {
+   "c": 78,
+   "s": 323.59,
+   "e": 324.91,
+   "text": "koi limit nahi hai,"
+  },
+  {
+   "c": 79,
+   "s": 325.23,
+   "e": 327.54,
+   "text": "aur ye darwaaza khulega,"
+  },
+  {
+   "c": 80,
+   "s": 328.08,
+   "text": "aur ye possible hai.\" Is tareeke ke thoughts aate hain",
+   "e": 331.79
+  },
+  {
+   "c": 81,
+   "s": 331.83,
+   "e": 332.92,
+   "text": "sahi logon mein."
+  },
+  {
+   "c": 82,
+   "s": 333.15,
+   "e": 334.11,
+   "text": "Matlab samajh rahe ho"
+  },
+  {
+   "c": 83,
+   "s": 334.33,
+   "text": "ki jinka DMN",
+   "e": 336.79
+  },
+  {
+   "c": 84,
+   "e": 343.35,
+   "s": 336.86,
+   "text": "active hota hai, wo is tareeke se sochta hai, wo solution based par kaam karta hai, na ki problem based par kaam karta hai."
+  },
+  {
+   "c": 92,
+   "s": 383.75,
+   "text": "Aur sabse important cheez pata hai kya hai? Aapke dimaag mein ek biological law hai.",
+   "e": 388.64
+  },
+  {
+   "c": 96,
+   "e": 405.43,
+   "text": "Aapka dimaag hamesha us data ko dhoondta hai jo aapke beliefs ko",
+   "s": 401.05
+  },
+  {
+   "c": 97,
+   "s": 406.24,
+   "text": "confirm karte hain.",
+   "e": 407.2
+  },
+  {
+   "c": 98,
+   "s": 416.22,
+   "text": "Toh agar aap logon ko lagta hai ki aapki zindagi mein kuch sahi nahi ho raha hai, aapki life ekdum kharaab hai,",
+   "e": 421.77
+  },
+  {
+   "c": 99,
+   "s": 421.86,
+   "text": "toh aapka dimaag wahi saari cheezein dhoondega,",
+   "e": 424.73
+  },
+  {
+   "c": 100,
+   "e": 427.6,
+   "s": 424.65,
+   "text": "waisi situation banaayega, waisi belief karaayega."
+  },
+  {
+   "c": 106,
+   "s": 450.77,
+   "e": 455.45,
+   "text": "Aur aap logon ko lagega ki \"dekha, phir bura ho gaya, main toh bola hi tha ki ye bura ho jaayega.\""
+  },
+  {
+   "c": 107,
+   "s": 455.57,
+   "text": "Toh aap logon ko",
+   "e": 456.89
+  },
+  {
+   "c": 108,
+   "s": 456.99,
+   "text": "usi belief ke upar aur belief karaaya ki aap ye kaam nahi kar sakte,",
+   "e": 460.69
+  },
+  {
+   "c": 109,
+   "s": 460.9,
+   "text": "\"aur aap isko rehne do,",
+   "e": 462.94
+  },
+  {
+   "c": 110,
+   "s": 463.03,
+   "text": "aage se kabhi try bhi mat karna,",
+   "e": 464.91
+  },
+  {
+   "c": 111,
+   "s": 464.98,
+   "text": "ye aapse hoga hi nahi, aap iske laayak bane hi nahi ho.\"",
+   "e": 467.34
+  },
+  {
+   "c": 118,
+   "s": 487.79,
+   "e": 491.07,
+   "text": "Agar aapko lagta hai ki mujhe opportunities milti hain,"
+  },
+  {
+   "c": 119,
+   "s": 491.28,
+   "text": "toh aapka dimaag dhoondega opportunities,",
+   "e": 493.36
+  },
+  {
+   "c": 120,
+   "s": 493.76,
+   "text": "aapka dimaag dhoondega achhe achhe ideas,",
+   "e": 496.75
+  },
+  {
+   "c": 124,
+   "text": "jo hamesha aur log nahi dekh paate hain, wo saari cheezein aapko dikhne lagengi.",
+   "s": 501.65,
+   "e": 505.73
+  },
+  {
+   "c": 125,
+   "text": "Isi tareeke se,",
+   "s": 506.16,
+   "e": 507.39
+  },
+  {
+   "c": 126,
+   "text": "jaise mujhe business dikhne lagta hai, har ek doosri cheez mujhe business ki tarah dikhti hai,",
+   "s": 507.5,
+   "e": 512.38
+  },
+  {
+   "c": 127,
+   "text": "toh",
+   "s": 512.99,
+   "e": 513.48
+  },
+  {
+   "c": 128,
+   "text": "mujhe opportunities ki tarah dikhti hai, ki yahan bhi opportunity, yahan bhi opportunity hai.",
+   "s": 513.75,
+   "e": 518.13
+  },
+  {
+   "c": 130,
+   "s": 521.91,
+   "text": "Toh aap logon ka bhi agar DMN",
+   "e": 523.53
+  },
+  {
+   "c": 131,
+   "s": 523.77,
+   "text": "activate hoga, toh aap logon ko bhi opportunities dikhengi, aap logon ko problems nahi dikhengi, aap logon ko lagega ki",
+   "e": 529.18
+  },
+  {
+   "c": 132,
+   "s": 529.48,
+   "text": "kis tareeke se is opportunity ko grab kar sakta hoon main khud.",
+   "e": 532.88
+  },
+  {
+   "c": 136,
+   "e": 560.31,
+   "text": "Aur yahi reason hai ki successful log pata hai kya kehte hain?",
+   "s": 557.61
+  },
+  {
+   "c": 137,
+   "s": 560.48,
+   "text": "Ki \"achaanak koi ek insaan mil jaata hai,\" achha,",
+   "e": 563.35
+  },
+  {
+   "c": 138,
+   "e": 572.72,
+   "text": "\"achaanak ek idea aa jaata hai, achaanak koi aur naya darwaaza khul jaata hai.\" Ye saari cheezein random nahi hain. Unka dimaag wo cheez karwa raha hai un logon se.",
+   "s": 563.5
+  },
+  {
+   "c": 139,
+   "s": 573.35,
+   "text": "Jo opportunities aap logon ko dikhaai nahi de rahi hain, ek successful aadmi ko opportunities dikhaai dengi. Kyun? Kyunki unka dimaag us tareeke se chal raha hai,",
+   "e": 581.28
+  },
+  {
+   "c": 140,
+   "e": 601.27,
+   "text": "kyunki unhi beliefs ne dimaag ko ekdum train kar rakha hai.",
+   "s": 596.91
+  },
+  {
+   "c": 145,
+   "s": 627.07,
+   "text": "Ab sabse bada sawaal ye hai ki agar DMN itna zyada powerful hai, toh kya hum ise change kar sakte hain?",
+   "e": 634.69
+  },
+  {
+   "c": 146,
+   "s": 635.2,
+   "e": 635.89,
+   "text": "Haan,"
+  },
+  {
+   "c": 147,
+   "s": 636.05,
+   "e": 637.88,
+   "text": "100% change kar sakte hain."
+  },
+  {
+   "c": 153,
+   "e": 656.14,
+   "text": "Research dikhaati hai ki agar aap apne beliefs ko,",
+   "s": 652.8
+  },
+  {
+   "c": 154,
+   "s": 656.49,
+   "text": "agar continuously alag alag tareeke se design kariye,",
+   "e": 659.71
+  },
+  {
+   "c": 155,
+   "s": 660.03,
+   "text": "unko repeat kariye,",
+   "e": 661.43
+  },
+  {
+   "c": 156,
+   "s": 662.07,
+   "text": "toh aapka DMN",
+   "e": 663.66
+  },
+  {
+   "c": 157,
+   "s": 663.9,
+   "text": "alag se rewrite karne lagta hai saari cheezon ko.",
+   "e": 666.74
+  },
+  {
+   "c": 158,
+   "e": 673.85,
+   "text": "Naye naye neural pathways banne lagte hain,",
+   "s": 670.74
+  },
+  {
+   "c": 159,
+   "s": 673.88,
+   "text": "aur aapka dimaag us nayi story ko accept karne lagta hai jo aap logon ko us time par dikhna shuru ho rahi hai.",
+   "e": 680.73
+  },
+  {
+   "c": 160,
+   "e": 685.34,
+   "text": "Matlab ki jo aap log daydreaming kar rahe ho,",
+   "s": 681.99
+  },
+  {
+   "c": 161,
+   "s": 685.77,
+   "text": "jo aap log regular basis pe manifest kar rahe ho, wo saari cheezein aap logon ko milna shuru ho jaati hain.",
+   "e": 692.81
+  },
+  {
+   "c": 162,
+   "s": 699.36,
+   "text": "Ab ye karna kaise hai? Iske chaar",
+   "e": 702.54
+  },
+  {
+   "c": 163,
+   "s": 702.79,
+   "text": "step framework hain, isko zaroor achhe tareeke se dekhna,",
+   "e": 705.93
+  },
+  {
+   "c": 164,
+   "s": 708.9,
+   "e": 711.97,
+   "text": "kyunki agar chaaron mein se ek bhi agar sahi tareeke se nahi kiye,"
+  },
+  {
+   "c": 165,
+   "s": 712.12,
+   "text": "toh aap log is cheez ko khud se activate nahi kar paaoge.",
+   "e": 715.66
+  },
+  {
+   "c": 167,
+   "s": 726.87,
+   "text": "Step number one: identify kariye apne belief ko. Paper pe likhiye, \"Main us tarah ka insaan hoon...\"",
+   "e": 734.01
+  },
+  {
+   "c": 168,
+   "s": 734.13,
+   "text": "aur phir blank",
+   "e": 735.97
+  },
+  {
+   "c": 169,
+   "s": 735.89,
+   "e": 737.19,
+   "text": "ko fill kariye."
+  },
+  {
+   "c": 170,
+   "s": 737.49,
+   "text": "Example:",
+   "e": 738.22
+  },
+  {
+   "c": 171,
+   "s": 738.27,
+   "text": "\"Main us tarah ka insaan hoon jo apni health ko priority deta hoon.\"",
+   "e": 741.63
+  },
+  {
+   "c": 172,
+   "s": 743.73,
+   "e": 746.0,
+   "text": "\"Main us tarah ka insaan hoon jo apni"
+  },
+  {
+   "c": 173,
+   "s": 745.89,
+   "text": "family ko priority deta hai,",
+   "e": 747.67
+  },
+  {
+   "c": 174,
+   "text": "kyunki mujhe ye pata hai ki meri performance ke liye meri health zaroori hai,",
+   "s": 753.92,
+   "e": 759.57
+  },
+  {
+   "c": 175,
+   "s": 759.49,
+   "e": 762.97,
+   "text": "mujhe khush rehne ke liye meri family zaroori hai.\""
+  },
+  {
+   "c": 176,
+   "s": 762.79,
+   "e": 764.43,
+   "text": "Toh ye saari cheezein"
+  },
+  {
+   "c": 177,
+   "s": 764.45,
+   "text": "mujhe pehle se pata hai, that's why main in saari cheezon ko priority deta hoon.",
+   "e": 768.15
+  },
+  {
+   "c": 178,
+   "s": 770.25,
+   "text": "Step number 2:",
+   "e": 771.45
+  },
+  {
+   "c": 179,
+   "s": 772.13,
+   "text": "aapko sabse pehle data nikaalna hoga. Wo facts jo aapko pata hain,",
+   "e": 778.1
+  },
+  {
+   "c": 180,
+   "s": 778.18,
+   "text": "aur jo is belief ko support karte hain.",
+   "e": 781.97
+  },
+  {
+   "c": 181,
+   "e": 784.05,
+   "text": "Jaise,",
+   "s": 783.34
+  },
+  {
+   "c": 182,
+   "s": 784.06,
+   "e": 786.98,
+   "text": "\"mujhe pata hai ki neend se focus badhta hai,"
+  },
+  {
+   "c": 183,
+   "s": 787.03,
+   "text": "mujhe pata hai ki exercise se energy aati hai, mujhe pata hai ki ye cheezein karne se life better hoti hai.\"",
+   "e": 793.73
+  },
+  {
+   "c": 184,
+   "s": 796.08,
+   "text": "Ye saara ka saara data likhna padega aapko.",
+   "e": 798.7
+  },
+  {
+   "c": 187,
+   "s": 802.94,
+   "e": 806.44,
+   "text": "Step number three: better future likhiye aap log apna."
+  },
+  {
+   "c": 188,
+   "s": 806.14,
+   "text": "Agar ye belief",
+   "e": 807.75
+  },
+  {
+   "c": 189,
+   "s": 807.81,
+   "e": 808.58,
+   "text": "true hai,"
+  },
+  {
+   "c": 190,
+   "s": 809.02,
+   "e": 810.03,
+   "text": "toh kya hoga?"
+  },
+  {
+   "c": 191,
+   "s": 810.3,
+   "e": 813.07,
+   "text": "Agar ye belief galat hai, toh kya hoga?"
+  },
+  {
+   "c": 192,
+   "s": 812.97,
+   "text": "\"Agar main ye karunga,",
+   "e": 814.86
+  },
+  {
+   "c": 193,
+   "s": 815.06,
+   "e": 817.01,
+   "text": "toh main smarter dikhunga,"
+  },
+  {
+   "c": 194,
+   "s": 817.13,
+   "e": 819.96,
+   "text": "healthier dikhunga, zyada focused dikhunga,"
+  },
+  {
+   "c": 195,
+   "s": 820.28,
+   "text": "main apna sabse best version bana paaunga apne aapko.\"",
+   "e": 824.1
+  },
+  {
+   "c": 198,
+   "e": 839.33,
+   "text": "Step number 4: nayi habits likhiye,",
+   "s": 836.44
+  },
+  {
+   "c": 199,
+   "s": 839.47,
+   "text": "wo specific behaviour jo is belief se",
+   "e": 843.65
+  },
+  {
+   "c": 200,
+   "s": 843.57,
+   "e": 845.04,
+   "text": "match kar rahi hai."
+  },
+  {
+   "c": 201,
+   "s": 845.37,
+   "e": 848.69,
+   "text": "\"Main har raat 11 baje sona chahta hoon,"
+  },
+  {
+   "c": 202,
+   "s": 848.38,
+   "text": "main har raat 11 baje se pehle phone rakh dunga,",
+   "e": 851.95
+  },
+  {
+   "c": 203,
+   "s": 852.99,
+   "e": 856.53,
+   "text": "kam se kam 7-8 ghante ki neend lunga.\""
+  },
+  {
+   "c": 204,
+   "s": 856.73,
+   "text": "Ye saari cheezein aapko likhni padengi, saari habits likhni padengi: \"main achha khaana khaunga, main hamesha exercise karunga.\" Ye saari cheezein likhni padengi.",
+   "e": 864.75
+  },
+  {
+   "c": 205,
+   "e": 869.19,
+   "text": "Ab sab milaake ek sentence banaaiye:",
+   "s": 865.9
+  },
+  {
+   "c": 206,
+   "s": 869.29,
+   "text": "\"Main us tarah ka insaan hoon jo har raat 7 ghante ki neend leta hai,",
+   "e": 874.0
+  },
+  {
+   "c": 207,
+   "e": 880.3,
+   "text": "kyunki mujhe pata hai ki meri performance ke liye ye important hai, ye edge hai,",
+   "s": 875.53
+  },
+  {
+   "c": 208,
+   "s": 880.85,
+   "e": 883.01,
+   "text": "aur log nahi le paa rahe hain ye saari cheezein,"
+  },
+  {
+   "c": 209,
+   "s": 883.24,
+   "text": "mere liye ye edge hai.\"",
+   "e": 884.66
+  },
+  {
+   "c": 210,
+   "e": 897.51,
+   "text": "Aapko ye abhi believe nahi karna hai.",
+   "s": 894.63
+  },
+  {
+   "c": 211,
+   "s": 897.71,
+   "text": "Ye ekdum fake lagega aap logon ko.",
+   "e": 900.16
+  },
+  {
+   "c": 212,
+   "e": 902.4,
+   "text": "But",
+   "s": 901.8
+  },
+  {
+   "c": 213,
+   "s": 902.82,
+   "e": 903.85,
+   "text": "fake it"
+  },
+  {
+   "c": 214,
+   "s": 903.8,
+   "text": "till you make it.",
+   "e": 904.73
+  },
+  {
+   "c": 215,
+   "s": 907.32,
+   "text": "Aur ye ekdum science-backed version hai.",
+   "e": 910.77
+  },
+  {
+   "c": 216,
+   "s": 910.82,
+   "text": "Har din ye likhiye, bahut zyada important hai.",
+   "e": 914.26
+  },
+  {
+   "c": 217,
+   "s": 914.18,
+   "e": 922.79,
+   "text": "Din mein utha karke ek baar padhiye, review kariye, brain ko train kariye. Jaise gym mein aap log muscle train kar rahe hain, us tareeke se apne brain ko train kariye."
+  },
+  {
+   "c": 218,
+   "s": 923.5,
+   "e": 924.31,
+   "text": "Kya hoga?"
+  },
+  {
+   "c": 219,
+   "s": 924.34,
+   "text": "Aapka DMN,",
+   "e": 925.76
+  },
+  {
+   "c": 220,
+   "s": 926.04,
+   "e": 928.56,
+   "text": "us storytelling machine ko"
+  },
+  {
+   "c": 221,
+   "s": 928.5,
+   "e": 930.65,
+   "text": "ekdum sach mein badalna shuru kar dega."
+  },
+  {
+   "c": 233,
+   "s": 975.4,
+   "text": "Main bata raha hoon aap logon ko, khud-ba-khud opportunities aane lagengi, khud-ba-khud opportunities dikhne lagengi, ideas aane lagenge, log milne lagenge, achaanak se log milenge.",
+   "e": 986.73
+  },
+  {
+   "c": 234,
+   "s": 992.73,
+   "text": "But actually",
+   "e": 994.1
+  },
+  {
+   "c": 235,
+   "s": 994.26,
+   "text": "this is not random.",
+   "e": 996.57
+  },
+  {
+   "c": 236,
+   "text": "Aapne apna search filter change kar diya hai,",
+   "s": 997.43,
+   "e": 1000.7
+  },
+  {
+   "c": 237,
+   "s": 1001.22,
+   "text": "that's why aapko ye saari cheezein dikh rahi hain.",
+   "e": 1003.86
+  },
+  {
+   "c": 238,
+   "s": 1005.55,
+   "text": "Aur ye har successful aadmi ko dikhti hain.",
+   "e": 1007.69
+  },
+  {
+   "c": 240,
+   "s": 1020.03,
+   "text": "Chaliye, ab aap logon ne belief design kar liye, habit likh liye,",
+   "e": 1024.13
+  },
+  {
+   "c": 241,
+   "s": 1024.05,
+   "e": 1026.65,
+   "text": "lekin implementation kaise hoga?"
+  },
+  {
+   "c": 242,
+   "s": 1026.54,
+   "text": "Kyunki research kehti hai ki goal",
+   "e": 1028.73
+  },
+  {
+   "c": 243,
+   "s": 1028.93,
+   "e": 1030.62,
+   "text": "rakhna kaafi nahi hai."
+  },
+  {
+   "c": 244,
+   "s": 1030.87,
+   "text": "Main khud jaldi sone ki koshish karta hoon.",
+   "e": 1033.67
+  },
+  {
+   "c": 252,
+   "s": 1061.01,
+   "e": 1065.29,
+   "text": "Aur research mein ek technique hai, implementation intention ki."
+  },
+  {
+   "c": 254,
+   "s": 1071.87,
+   "text": "100 se zyada studies ho chuki hain, 100 se zyada test ho chuke hain,",
+   "e": 1075.84
+  },
+  {
+   "c": 255,
+   "s": 1075.76,
+   "text": "aur ye",
+   "e": 1076.82
+  },
+  {
+   "c": 256,
+   "s": 1076.9,
+   "e": 1078.29,
+   "text": "ekdum simple hai."
+  },
+  {
+   "c": 257,
+   "s": 1078.5,
+   "text": "Format pata hai kya hoga?",
+   "e": 1079.91
+  },
+  {
+   "c": 258,
+   "s": 1110.81,
+   "text": "Aur iska poora ka poora format main bata deta hoon aapko: \"JAB ___ hoga,",
+   "e": 1115.24
+  },
+  {
+   "c": 259,
+   "s": 1115.55,
+   "e": 1117.36,
+   "text": "TAB main ___ karunga.\""
+  },
+  {
+   "c": 260,
+   "s": 1117.53,
+   "e": 1118.7,
+   "text": "Simple si cheez hai."
+  },
+  {
+   "c": 261,
+   "s": 1118.89,
+   "text": "\"Jab 11 baje raat ko alarm bajega,",
+   "e": 1122.12
+  },
+  {
+   "c": 262,
+   "s": 1122.54,
+   "text": "tab main phone",
+   "e": 1123.68
+  },
+  {
+   "c": 263,
+   "s": 1123.86,
+   "text": "charging pe laga karke bed pe let jaaunga.\"",
+   "e": 1126.39
+  },
+  {
+   "c": 270,
+   "s": 1157.29,
+   "text": "Aur ye",
+   "e": 1158.43
+  },
+  {
+   "c": 271,
+   "s": 1158.35,
+   "e": 1161.16,
+   "text": "karne se aapko dheere dheere dheere fark dikhega."
+  },
+  {
+   "c": 272,
+   "s": 1161.29,
+   "text": "Ye movie jaisi detail",
+   "e": 1163.62
+  },
+  {
+   "c": 273,
+   "s": 1163.8,
+   "e": 1165.27,
+   "text": "mein dikhegi aap logon ko."
+  },
+  {
+   "c": 274,
+   "s": 1165.47,
+   "e": 1166.88,
+   "text": "Jaise main dekh sakta hoon"
+  },
+  {
+   "c": 275,
+   "s": 1167.08,
+   "text": "ki aap ghar mein ho, 11 baj rahe hain,",
+   "e": 1170.79
+  },
+  {
+   "c": 276,
+   "s": 1171.17,
+   "e": 1173.71,
+   "text": "aur us time pe aapne phone charging pe lagaaya,"
+  },
+  {
+   "c": 277,
+   "s": 1173.89,
+   "e": 1174.68,
+   "text": "aur phir"
+  },
+  {
+   "c": 278,
+   "s": 1174.89,
+   "text": "bed pe let karke",
+   "e": 1176.28
+  },
+  {
+   "c": 279,
+   "s": 1176.41,
+   "e": 1179.64,
+   "text": "aapne ye socha ki aaj maine din bhar kya kiya,"
+  },
+  {
+   "c": 280,
+   "s": 1180.05,
+   "e": 1183.61,
+   "text": "kis tareeke se main apna kal ka din plan karunga. Aur ye saari cheezein"
+  },
+  {
+   "c": 281,
+   "s": 1183.98,
+   "e": 1186.34,
+   "text": "aapne socha, aur ye specific hai,"
+  },
+  {
+   "c": 282,
+   "s": 1186.83,
+   "e": 1188.13,
+   "text": "ye ekdum clear hai,"
+  },
+  {
+   "c": 283,
+   "s": 1188.28,
+   "text": "aur isi liye ye kaam karta hai, har baar kaam karega.",
+   "e": 1191.61
+  },
+  {
+   "c": 284,
+   "text": "Ek",
+   "s": 1198.91,
+   "e": 1199.51
+  },
+  {
+   "c": 285,
+   "s": 1199.7,
+   "e": 1202.05,
+   "text": "aur trick main bata deta hoon aap logon ko:"
+  },
+  {
+   "c": 286,
+   "s": 1202.24,
+   "text": "chhota chhota shuru kariye, small steps.",
+   "e": 1205.44
+  },
+  {
+   "c": 287,
+   "s": 1205.59,
+   "e": 1208.25,
+   "text": "Pehle sirf ye kariye ki 11 baje"
+  },
+  {
+   "c": 288,
+   "s": 1208.39,
+   "text": "aap log alarm lagaaiye,",
+   "e": 1210.17
+  },
+  {
+   "c": 289,
+   "s": 1210.44,
+   "e": 1211.08,
+   "text": "aur"
+  },
+  {
+   "c": 290,
+   "s": 1211.01,
+   "e": 1212.93,
+   "text": "us alarm pe phone ko"
+  },
+  {
+   "c": 291,
+   "s": 1212.87,
+   "text": "side rakh dijiye. Neend nahi aa rahi hai, koi baat nahi, aap",
+   "e": 1215.61
+  },
+  {
+   "c": 292,
+   "s": 1216.03,
+   "e": 1216.57,
+   "text": "koi"
+  },
+  {
+   "c": 293,
+   "s": 1216.69,
+   "e": 1218.99,
+   "text": "copy-pen lekar ke baith jaayiye, likhiye kuch,"
+  },
+  {
+   "c": 294,
+   "s": 1219.25,
+   "e": 1221.29,
+   "text": "aapka agle din ka plan likh lo aap,"
+  },
+  {
+   "c": 295,
+   "s": 1221.4,
+   "text": "aaj aapne kya kya kiya wo likh lo aap,",
+   "e": 1223.69
+  },
+  {
+   "c": 296,
+   "text": "phir uske baad",
+   "s": 1224.29,
+   "e": 1225.52
+  },
+  {
+   "c": 297,
+   "text": "brush kar lo aap,",
+   "s": 1226.19,
+   "e": 1227.36
+  },
+  {
+   "c": 298,
+   "text": "aur phir uske baad",
+   "s": 1228.2,
+   "e": 1230.06
+  },
+  {
+   "c": 299,
+   "text": "aankhein band karke,",
+   "s": 1230.43,
+   "e": 1231.79
+  },
+  {
+   "c": 300,
+   "text": "kuch chhoti chhoti exercises hain jisse aap logon ko jaldi neend aa sakti hai, wo saari cheezein kar lo aap. Ek ek step dheere dheere kar lo.",
+   "s": 1232.12,
+   "e": 1238.95
+  },
+  {
+   "c": 301,
+   "s": 1239.01,
+   "text": "Aur phir ye chhote chhote chhote chhote chhote steps aapko,",
+   "e": 1242.54
+  },
+  {
+   "c": 302,
+   "s": 1242.79,
+   "e": 1245.11,
+   "text": "aapke liye bahut easy ho jaayenge"
+  },
+  {
+   "c": 303,
+   "s": 1245.18,
+   "text": "over the time,",
+   "e": 1246.17
+  },
+  {
+   "c": 304,
+   "s": 1246.61,
+   "text": "aur phir aap",
+   "e": 1247.67
+  },
+  {
+   "c": 305,
+   "s": 1247.72,
+   "text": "in saari cheezon ko ek saath karna shuru kar doge.",
+   "e": 1250.27
+  },
+  {
+   "c": 306,
+   "s": 1259.1,
+   "e": 1261.19,
+   "text": "Ab baat karte hain buri habits ki,"
+  },
+  {
+   "c": 307,
+   "s": 1261.13,
+   "e": 1264.06,
+   "text": "kyunki nayi habits banaana mushkil toh hai,"
+  },
+  {
+   "c": 308,
+   "s": 1264.26,
+   "text": "but puraani ko todna aur bhi zyada mushkil hai.",
+   "e": 1267.46
+  },
+  {
+   "c": 309,
+   "text": "Jaise jo log smoking karte hain, smoking chhodna is very",
+   "s": 1268.4,
+   "e": 1271.7
+  },
+  {
+   "c": 310,
+   "s": 1272.12,
+   "text": "tough,",
+   "e": 1272.57
+  },
+  {
+   "c": 311,
+   "text": "kyunki logon ki body",
+   "s": 1273.38,
+   "e": 1275.45
+  },
+  {
+   "c": 312,
+   "s": 1275.57,
+   "text": "ki need ban jaati hai smoking.",
+   "e": 1277.23
+  },
+  {
+   "c": 313,
+   "s": 1278.13,
+   "e": 1281.8,
+   "text": "Aur isko todna itna zyada important kyun hai?"
+  },
+  {
+   "c": 314,
+   "s": 1282.11,
+   "e": 1285.35,
+   "text": "Ye samjhaane ke liye main neural networks samjhaana"
+  },
+  {
+   "c": 315,
+   "text": "chahunga aap logon ko.",
+   "s": 1285.92,
+   "e": 1287.46
+  },
+  {
+   "c": 316,
+   "s": 1287.38,
+   "text": "Imagine kariye ki aapke dimaag mein ek raasta hai.",
+   "e": 1291.24
+  },
+  {
+   "c": 317,
+   "text": "Har baar jab aap ek behaviour karte ho, toh wo raasta mazboot hota chala jaata hai.",
+   "s": 1291.62,
+   "e": 1297.68
+  },
+  {
+   "c": 319,
+   "s": 1306.52,
+   "e": 1313.48,
+   "text": "Jaise jungli raasta pehle patla hua karta tha. Aapne das baar aana jaana kiya, aur wo raasta thoda sa wide ho gaya."
+  },
+  {
+   "c": 320,
+   "s": 1313.51,
+   "e": 1315.95,
+   "text": "Sau baar kiya, thoda sa aur wide ho gaya,"
+  },
+  {
+   "c": 321,
+   "s": 1316.33,
+   "e": 1316.88,
+   "text": "aur"
+  },
+  {
+   "c": 322,
+   "s": 1316.91,
+   "e": 1320.39,
+   "text": "hazaar baar kiya toh road ban gaya, highway ban gaya."
+  },
+  {
+   "c": 323,
+   "s": 1320.23,
+   "e": 1324.29,
+   "text": "Aur yahi saari cheezein, yahi habit, yahi addiction,"
+  },
+  {
+   "c": 324,
+   "s": 1324.14,
+   "text": "aap logon ko change karna hai.",
+   "e": 1326.02
+  },
+  {
+   "c": 325,
+   "e": 1338.8,
+   "text": "Jaise ki main aap logon ko bata raha hoon, koi ek aadat aapke do neurons ko connect kar rahi hai.",
+   "s": 1333.19
+  },
+  {
+   "c": 327,
+   "s": 1339.83,
+   "e": 1341.5,
+   "text": "Jaise driving aap samajh lo,"
+  },
+  {
+   "c": 328,
+   "s": 1341.82,
+   "e": 1343.72,
+   "text": "ki aapne jab ek baar gaadi chalaayi,"
+  },
+  {
+   "c": 329,
+   "s": 1343.95,
+   "e": 1344.91,
+   "text": "toh aapko"
+  },
+  {
+   "c": 330,
+   "e": 1346.22,
+   "text": "driving aayi,",
+   "s": 1345.22
+  },
+  {
+   "c": 331,
+   "text": "jismein aapko darr lag raha tha. But isi ko kai baar chalaaya, toh ye jo neurons ek doosre se connect hue the, wo jo skill",
+   "s": 1346.78,
+   "e": 1353.97
+  },
+  {
+   "c": 332,
+   "s": 1354.29,
+   "e": 1356.96,
+   "text": "jo bani thi aap logon ki, ye neurons jo connect hue the,"
+  },
+  {
+   "c": 333,
+   "s": 1357.09,
+   "e": 1358.81,
+   "text": "ab ye baar baar baar baar"
+  },
+  {
+   "c": 334,
+   "text": "connect hona shuru honge. Jab ye dono neurons baar baar connect hona shuru honge,",
+   "s": 1359.19,
+   "e": 1364.26
+  },
+  {
+   "c": 335,
+   "s": 1364.36,
+   "text": "toh",
+   "e": 1364.85
+  },
+  {
+   "c": 336,
+   "s": 1364.77,
+   "text": "aapko driving itni achhe tareeke se aa jaayegi.",
+   "e": 1368.02
+  },
+  {
+   "c": 346,
+   "s": 1396.91,
+   "text": "Ab wo jo pehli road thi,",
+   "e": 1399.04
+  },
+  {
+   "c": 347,
+   "s": 1399.15,
+   "e": 1401.16,
+   "text": "wo ab road highway ban chuki hai,"
+  },
+  {
+   "c": 348,
+   "s": 1401.36,
+   "text": "means aapka skill itna zyada strong ho chuka hai ki ab wo subconscious mind mein hai aapke.",
+   "e": 1406.32
+  },
+  {
+   "c": 349,
+   "s": 1419.95,
+   "e": 1426.53,
+   "text": "Dekhiye, main bata raha hoon, log addiction sunke darte hain, lagta hai unko ki bahut buri cheez hai. Addiction ka matlab hota hai ki"
+  },
+  {
+   "c": 350,
+   "s": 1426.63,
+   "e": 1430.4,
+   "text": "ek behaviour jo aapko baar baar karna padta hai."
+  },
+  {
+   "c": 351,
+   "s": 1430.45,
+   "text": "Koi exercise ka",
+   "e": 1431.94
+  },
+  {
+   "c": 352,
+   "s": 1432.17,
+   "text": "addicted hai,",
+   "e": 1433.27
+  },
+  {
+   "c": 353,
+   "s": 1433.54,
+   "text": "koi",
+   "e": 1434.28
+  },
+  {
+   "c": 354,
+   "e": 1436.68,
+   "text": "kindness ka addicted hai,",
+   "s": 1434.8
+  },
+  {
+   "c": 355,
+   "s": 1436.92,
+   "e": 1442.49,
+   "text": "koi scrolling ka addicted hai, same mechanism hai, koi smoking ka addicted hai, same mechanism hai."
+  },
+  {
+   "c": 356,
+   "s": 1442.32,
+   "text": "Ab buri habit ka loop",
+   "e": 1444.55
+  },
+  {
+   "c": 357,
+   "s": 1445.04,
+   "e": 1446.43,
+   "text": "kaise kaam karta hai,"
+  },
+  {
+   "c": 358,
+   "s": 1446.57,
+   "text": "aur achhi habit ka loop kaise kaam karta hai, iske baare mein baat kar lete hain.",
+   "e": 1449.96
+  },
+  {
+   "c": 367,
+   "s": 1478.35,
+   "text": "Step one:",
+   "e": 1479.59
+  },
+  {
+   "c": 368,
+   "s": 1479.84,
+   "e": 1480.93,
+   "text": "feeling aati hai."
+  },
+  {
+   "c": 369,
+   "s": 1481.12,
+   "text": "Toh",
+   "e": 1481.68
+  },
+  {
+   "c": 370,
+   "s": 1481.73,
+   "e": 1485.22,
+   "text": "kaun kaun si feeling aati hai? Stress hota hai aadmi, bore hota hai,"
+  },
+  {
+   "c": 371,
+   "s": 1485.3,
+   "e": 1486.66,
+   "text": "overwhelming ho jaata hai,"
+  },
+  {
+   "c": 372,
+   "s": 1486.7,
+   "text": "thakaan",
+   "e": 1487.52
+  },
+  {
+   "c": 373,
+   "s": 1487.62,
+   "e": 1489.1,
+   "text": "waali feeling aati hai,"
+  },
+  {
+   "c": 374,
+   "s": 1489.16,
+   "e": 1491.01,
+   "text": "loneliness waali feeling aati hai."
+  },
+  {
+   "c": 375,
+   "s": 1491.6,
+   "text": "Step two: aapka dimaag kehta hai ki \"mujhe",
+   "e": 1494.17
+  },
+  {
+   "c": 376,
+   "s": 1494.37,
+   "e": 1495.37,
+   "text": "isse"
+  },
+  {
+   "c": 377,
+   "s": 1495.53,
+   "text": "bhaagna hai,",
+   "e": 1496.38
+  },
+  {
+   "c": 378,
+   "s": 1498.09,
+   "e": 1500.06,
+   "text": "ye achha feel nahi ho raha hai.\""
+  },
+  {
+   "c": 379,
+   "s": 1500.27,
+   "text": "Toh kya karte ho aap log? Wo cheez jo pehle bhi kaam aayi thi,",
+   "e": 1504.76
+  },
+  {
+   "c": 380,
+   "text": "usko",
+   "s": 1505.12,
+   "e": 1506.15
+  },
+  {
+   "c": 381,
+   "s": 1507.4,
+   "text": "phir se karna shuru karte ho. Toh jaise scroll kar dete ho aap log, mithaai kha lete ho aap log, cigarette peena shuru kar dete ho, binge watch kar dete ho kisi cheez ko,",
+   "e": 1515.07
+  },
+  {
+   "c": 382,
+   "text": "kisi",
+   "s": 1515.26,
+   "e": 1516.67
+  },
+  {
+   "c": 383,
+   "text": "series ko.",
+   "s": 1516.99,
+   "e": 1517.85
+  },
+  {
+   "c": 400,
+   "s": 1563.01,
+   "e": 1569.75,
+   "text": "Step number three: temporarily achha lagta hai, distraction mil gayi aap logon ko, ekdum candy ki tarah. Jaise"
+  },
+  {
+   "c": 401,
+   "s": 1570.26,
+   "text": "aapko sugar craving hui aur aapko candy mil gayi,",
+   "e": 1572.62
+  },
+  {
+   "c": 402,
+   "s": 1572.86,
+   "e": 1574.81,
+   "text": "toh uski tarah aap logon ko"
+  },
+  {
+   "c": 403,
+   "e": 1576.44,
+   "s": 1574.63,
+   "text": "temporarily achha lagne lagta hai."
+  },
+  {
+   "c": 406,
+   "s": 1592.33,
+   "text": "Step number four: behaviour khatam ho gaya, aap logon ka phone neeche rakha, aur ab kya feel ho raha hai?",
+   "e": 1598.17
+  },
+  {
+   "c": 407,
+   "e": 1610.36,
+   "text": "Same stress jo pehle tha, wahi same feel hona shuru ho gaya,",
+   "s": 1606.45
+  },
+  {
+   "c": 408,
+   "s": 1610.1,
+   "text": "plus ab toh sharam bhi aa rahi hai ki",
+   "e": 1612.72
+  },
+  {
+   "c": 409,
+   "text": "\"maine ye saari cheezein stress ko control karne ke liye kiya tha, aur iski wajah se aur zyada stress ho gaya.\"",
+   "s": 1613.1,
+   "e": 1618.11
+  },
+  {
+   "c": 410,
+   "s": 1619.98,
+   "e": 1625.97,
+   "text": "Toh ab stress plus sharam, dono hain. Pehle se aur zyada bura feel hone laga."
+  },
+  {
+   "c": 413,
+   "s": 1633.1,
+   "text": "Phir se wahi",
+   "e": 1634.65
+  },
+  {
+   "c": 414,
+   "s": 1634.78,
+   "text": "same behaviour ka loop continue kar deta hai aadmi.",
+   "e": 1637.43
+  },
+  {
+   "c": 417,
+   "s": 1663.06,
+   "e": 1671.01,
+   "text": "Aur har baar jab aap is loop se guzarte ho, wo neural highway jo aap logon ka tha, wo aur zyada mazboot ho jaata hai."
+  },
+  {
+   "c": 418,
+   "s": 1671.12,
+   "e": 1672.6,
+   "text": "Isi kaaran se aap log"
+  },
+  {
+   "c": 419,
+   "s": 1672.8,
+   "text": "na smoking chhod paate ho, na koi nasha chhod paate ho.",
+   "e": 1675.98
+  },
+  {
+   "c": 427,
+   "s": 1697.05,
+   "e": 1700.87,
+   "text": "Jab aap daily daily gym jaaoge, toh gym jaane ki aadat ban jaayegi."
+  },
+  {
+   "c": 428,
+   "s": 1700.99,
+   "e": 1704.19,
+   "text": "Gym jaane ki aadat ban jaayegi, toh gym jis din nahi jaaoge,"
+  },
+  {
+   "c": 429,
+   "s": 1704.33,
+   "e": 1706.27,
+   "text": "us din zyada problem hogi aapko."
+  },
+  {
+   "c": 430,
+   "s": 1707.05,
+   "text": "Toh",
+   "e": 1707.5
+  },
+  {
+   "c": 431,
+   "s": 1707.6,
+   "e": 1709.05,
+   "text": "iska bhi ek loop hai."
+  },
+  {
+   "c": 432,
+   "s": 1709.47,
+   "e": 1713.64,
+   "text": "Toh aapko achhi aadat ka loop rakhna hai ki buri aadat ka loop rakhna hai,"
+  },
+  {
+   "c": 433,
+   "s": 1713.67,
+   "text": "this is all upon you.",
+   "e": 1715.43
+  },
+  {
+   "c": 435,
+   "text": "Sabse important question jo ab dimaag mein aata hai logon ke: ab is loop ko todenge kaise?",
+   "s": 1726.73,
+   "e": 1732.43
+  },
+  {
+   "c": 436,
+   "s": 1732.67,
+   "e": 1737.57,
+   "text": "Step one: awareness is the most important thing. Pehle ye samjho ki loop"
+  },
+  {
+   "c": 437,
+   "s": 1737.58,
+   "e": 1740.06,
+   "text": "chal kyun raha hai, kiska loop chal raha hai."
+  },
+  {
+   "c": 438,
+   "s": 1741.46,
+   "text": "Toh zyadatar logon ko toh ye pata hi nahi hota hai ki",
+   "e": 1743.8
+  },
+  {
+   "c": 439,
+   "s": 1744.09,
+   "e": 1746.11,
+   "text": "kya wo log"
+  },
+  {
+   "c": 440,
+   "s": 1745.85,
+   "e": 1753.71,
+   "text": "is kisi loop mein phase bhi hue hain ki nahi phase hue hain. Jab aap phone uthaane waale hote ho scroll karne ke liye, toh ruko ek baar,"
+  },
+  {
+   "c": 441,
+   "s": 1754.42,
+   "e": 1757.49,
+   "text": "ek cognitive pause le lo us cheez ke liye."
+  },
+  {
+   "c": 443,
+   "text": "Poochho khud se ki \"main kyun scroll karna chahta hoon? Ab bhi kyun karna chahta hoon? Kya feel ho raha hai?\" aap logon ko.",
+   "s": 1770.87,
+   "e": 1777.73
+  },
+  {
+   "c": 445,
+   "e": 1788.67,
+   "text": "Aur yahi sabse bada",
+   "s": 1786.29
+  },
+  {
+   "c": 446,
+   "s": 1788.52,
+   "e": 1790.22,
+   "text": "important step hai:"
+  },
+  {
+   "c": 447,
+   "s": 1790.56,
+   "e": 1793.38,
+   "text": "aap apni feeling identify karo,"
+  },
+  {
+   "c": 448,
+   "s": 1793.66,
+   "e": 1796.26,
+   "text": "aap apne aapko dekho ki aap"
+  },
+  {
+   "c": 449,
+   "s": 1796.04,
+   "e": 1797.46,
+   "text": "kya karna chah rahe ho."
+  },
+  {
+   "c": 450,
+   "s": 1798.28,
+   "e": 1800.51,
+   "text": "Kya aapke future ke liye theek hai?"
+  },
+  {
+   "c": 451,
+   "s": 1800.55,
+   "text": "Kya aapki timing sahi",
+   "e": 1803.41
+  },
+  {
+   "c": 452,
+   "s": 1803.54,
+   "e": 1804.35,
+   "text": "kat rahi hai?"
+  },
+  {
+   "c": 453,
+   "s": 1804.75,
+   "text": "Ye saari cheezein identify karna is very important.",
+   "e": 1807.7
+  },
+  {
+   "c": 454,
+   "s": 1807.92,
+   "text": "Step number 2:",
+   "e": 1809.09
+  },
+  {
+   "c": 455,
+   "text": "replacement behaviour.",
+   "s": 1809.83,
+   "e": 1811.42
+  },
+  {
+   "c": 456,
+   "s": 1811.54,
+   "text": "Scroll karne ki jagah",
+   "e": 1813.3
+  },
+  {
+   "c": 457,
+   "s": 1813.8,
+   "text": "kuch aur kar lijiye.",
+   "e": 1815.13
+  },
+  {
+   "c": 458,
+   "e": 1822.83,
+   "text": "Chhota sa kariye, magar kuch aur kariye. Easy kariye, magar kuch aur kariye. Aankh band kariye 60 second ke liye, bas.",
+   "s": 1815.87
+  },
+  {
+   "c": 459,
+   "s": 1822.55,
+   "e": 1823.33,
+   "text": "Aur"
+  },
+  {
+   "c": 460,
+   "s": 1823.81,
+   "text": "kuch nahi",
+   "e": 1824.92
+  },
+  {
+   "c": 461,
+   "s": 1824.99,
+   "e": 1826.28,
+   "text": "karna hai us time par,"
+  },
+  {
+   "c": 462,
+   "s": 1826.33,
+   "e": 1829.0,
+   "text": "sirf aankh band kariye aur saans apni"
+  },
+  {
+   "c": 463,
+   "text": "dekhte rahiye.",
+   "s": 1829.38,
+   "e": 1830.25
+  },
+  {
+   "c": 464,
+   "s": 1831.24,
+   "e": 1834.15,
+   "text": "Saans ko ekdum achhe tareeke se dekhiye, isi ko kehte hain dhyaan"
+  },
+  {
+   "c": 465,
+   "s": 1834.24,
+   "e": 1835.08,
+   "text": "karna."
+  },
+  {
+   "c": 472,
+   "s": 1857.84,
+   "text": "Toh agar ye saari cheezein karna shuru kar doge aap, toh aap apne loop pehchaanna shuru kar doge.",
+   "e": 1862.17
+  },
+  {
+   "c": 473,
+   "text": "Step number three: permission do khud ko,",
+   "s": 1867.7,
+   "e": 1870.8
+  },
+  {
+   "c": 474,
+   "s": 1870.99,
+   "text": "ki agar 60 second ke baad bhi scroll karne ka mann hai,",
+   "e": 1874.98
+  },
+  {
+   "c": 475,
+   "s": 1875.4,
+   "text": "toh karo,",
+   "e": 1876.35
+  },
+  {
+   "c": 476,
+   "s": 1876.77,
+   "e": 1878.53,
+   "text": "tab koi sharam nahi aani chahiye."
+  },
+  {
+   "c": 477,
+   "s": 1878.54,
+   "e": 1882.43,
+   "text": "But pehle 60 second ka pause lena important hai."
+  },
+  {
+   "c": 478,
+   "s": 1882.83,
+   "e": 1886.0,
+   "text": "Aur pata isse kya hoga? Pehli baar 60 second ke baad"
+  },
+  {
+   "c": 479,
+   "s": 1886.54,
+   "e": 1888.3,
+   "text": "bhi aap log scroll karoge,"
+  },
+  {
+   "c": 480,
+   "s": 1888.57,
+   "e": 1890.62,
+   "text": "doosri baar shaayad aap nahi karoge,"
+  },
+  {
+   "c": 481,
+   "s": 1891.25,
+   "text": "aur teesri baar ye easy hoga ki aapko scrolling nahi karni hai.",
+   "e": 1895.55
+  },
+  {
+   "c": 482,
+   "s": 1904.73,
+   "e": 1909.83,
+   "text": "Aur ye 60 second ka pause aapke liye ek naya raasta bana raha hoga."
+  },
+  {
+   "c": 483,
+   "e": 1915.31,
+   "s": 1910.06,
+   "text": "Pehle patla raasta banaayega, phir dheere dheere dheere isi raaste ko wide karega, phir road, phir highway."
+  },
+  {
+   "c": 501,
+   "text": "Aapka bhi dimaag badal sakta hai, kuch bhi change ho sakta hai,",
+   "s": 1981.36,
+   "e": 1985.86
+  },
+  {
+   "c": 502,
+   "s": 1985.78,
+   "e": 1986.56,
+   "text": "bas"
+  },
+  {
+   "c": 503,
+   "s": 1986.67,
+   "text": "andar se chaahne ki jo baat kehta hai na aadmi, wo saari cheezein important hain.",
+   "e": 1990.64
+  },
+  {
+   "c": 504,
+   "s": 2006.26,
+   "text": "Ab creativity ki baat kar lete hain. Log kehte hain ki \"mujhe ideas",
+   "e": 2010.31
+  },
+  {
+   "c": 505,
+   "s": 2010.81,
+   "text": "nahi aate hain,",
+   "e": 2011.71
+  },
+  {
+   "c": 506,
+   "s": 2012.19,
+   "e": 2014.84,
+   "text": "main creative hoon hi nahi.\""
+  },
+  {
+   "c": 508,
+   "text": "Research kehti hai ki aapko ideas isliye nahi aate hain kyunki aap bore nahi hote hain.",
+   "s": 2021.97,
+   "e": 2025.72
+  },
+  {
+   "c": 509,
+   "e": 2028.67,
+   "text": "Yaad rakhiye, DMN,",
+   "s": 2026.26
+  },
+  {
+   "c": 510,
+   "s": 2028.76,
+   "text": "wo jo storytelling machine hai,",
+   "e": 2030.94
+  },
+  {
+   "c": 511,
+   "s": 2031.11,
+   "text": "wo tab activate hoti hai jab aap kuch nahi kar rahe hote ho,",
+   "e": 2034.41
+  },
+  {
+   "c": 512,
+   "s": 2035.16,
+   "e": 2036.0,
+   "text": "yaani ki"
+  },
+  {
+   "c": 513,
+   "s": 2036.11,
+   "text": "daydreaming, mind wandering,",
+   "e": 2038.58
+  },
+  {
+   "c": 514,
+   "text": "aur bore hone ke baad jo aapka DMN activate hota hai.",
+   "s": 2038.82,
+   "e": 2044.16
+  },
+  {
+   "c": 515,
+   "e": 2045.95,
+   "text": "Tab hi",
+   "s": 2045.2
+  },
+  {
+   "c": 516,
+   "s": 2046.15,
+   "text": "aap logon ko storytelling",
+   "e": 2048.44
+  },
+  {
+   "c": 517,
+   "text": "waala",
+   "s": 2048.71,
+   "e": 2049.75
+  },
+  {
+   "c": 519,
+   "e": 2052.99,
+   "text": "DMN activate hota hai, aur",
+   "s": 2050.87
+  },
+  {
+   "c": 520,
+   "s": 2053.21,
+   "text": "tab hi aap logon ko ye cheez samajh mein aati hai ki kya karna hai, kya nahi karna hai.",
+   "e": 2056.33
+  },
+  {
+   "c": 521,
+   "s": 2058.3,
+   "text": "Tab hi aap log daydreaming kar paate ho, tab hi aap log mind wandering kar paate ho.",
+   "e": 2062.34
+  },
+  {
+   "c": 523,
+   "s": 2072.18,
+   "e": 2078.09,
+   "text": "Aur iska opposite kya hai, pata hai? CEN, yaani ki CEN, Central Executive Network."
+  },
+  {
+   "c": 524,
+   "s": 2077.86,
+   "e": 2081.17,
+   "text": "Aur ye aapke dimaag ka CEO hai."
+  },
+  {
+   "c": 525,
+   "s": 2081.81,
+   "text": "Kya goal hai iska? Focus karo,",
+   "e": 2083.93
+  },
+  {
+   "c": 526,
+   "text": "kaam karo, deadline rakho,",
+   "s": 2084.44,
+   "e": 2086.86
+  },
+  {
+   "c": 527,
+   "s": 2086.91,
+   "e": 2090.19,
+   "text": "aur is deadline par apne kaam ko poora karo."
+  },
+  {
+   "c": 528,
+   "s": 2090.56,
+   "text": "Jab ye CEN activate ho jaata hai, toh DMN quiet hai. Jab aap busy ho, focused ho, deadline pe ho, ideas nahi aayenge aapko.",
+   "e": 2100.12
+  },
+  {
+   "c": 529,
+   "e": 2118.01,
+   "text": "Lekin jab aap bored ho rahe ho, jab aap ekdum bored ho, lonely ho, akele ho, kuch nahi kar rahe ho, phone-vone scroll nahi kar rahe ho, toh CEN aapka quiet ho jaata hai aur DMN activate ho jaata hai,",
+   "s": 2106.66
+  },
+  {
+   "c": 530,
+   "s": 2119.39,
+   "e": 2120.23,
+   "text": "aur toh"
+  },
+  {
+   "c": 531,
+   "s": 2120.27,
+   "text": "tab aap ideas",
+   "e": 2122.53
+  },
+  {
+   "c": 532,
+   "s": 2122.6,
+   "text": "surface pe laate ho.",
+   "e": 2123.79
+  },
+  {
+   "c": 533,
+   "e": 2129.71,
+   "text": "Isi liye shower mein ideas aate hain,",
+   "s": 2126.45
+  },
+  {
+   "c": 534,
+   "text": "isi liye aap logon ko akele baithne par idea aata hai, isi liye aapko drive karte hue idea aata hai. Toh science kya kehti hai, pata hai kya?",
+   "s": 2130.06,
+   "e": 2138.8
+  },
+  {
+   "c": 535,
+   "s": 2140.58,
+   "text": "Jab aap kisi problem pe kaam karte ho, toh saara data load ho jaata hai dimaag mein.",
+   "e": 2146.43
+  },
+  {
+   "c": 536,
+   "e": 2156.2,
+   "text": "Neural networks aapke active ho jaate hain,",
+   "s": 2153.7
+  },
+  {
+   "c": 537,
+   "s": 2156.28,
+   "text": "but",
+   "e": 2156.99
+  },
+  {
+   "c": 538,
+   "s": 2157.17,
+   "e": 2159.9,
+   "text": "aapko solution nahi mil raha hota hai."
+  },
+  {
+   "c": 539,
+   "s": 2160.19,
+   "text": "Phir aap walk pe jaate ho.",
+   "e": 2162.46
+  },
+  {
+   "c": 541,
+   "s": 2166.7,
+   "e": 2171.11,
+   "text": "Toh log kehte hain, pata hai kya? Jab aap stress mein ho, toh aap walk pe chale jaao,"
+  },
+  {
+   "c": 542,
+   "s": 2171.28,
+   "e": 2172.58,
+   "text": "aap running pe chale jaao,"
+  },
+  {
+   "c": 543,
+   "s": 2172.89,
+   "text": "ya shower le lo,",
+   "e": 2173.96
+  },
+  {
+   "c": 544,
+   "s": 2174.45,
+   "e": 2175.65,
+   "text": "ya cooking kar lo,"
+  },
+  {
+   "c": 545,
+   "s": 2175.74,
+   "e": 2178.54,
+   "text": "kuch aisa karo jo autopilot pe ho jaaye."
+  },
+  {
+   "c": 549,
+   "s": 2220.88,
+   "e": 2222.02,
+   "text": "Pata hai kya hota hai?"
+  },
+  {
+   "c": 550,
+   "s": 2222.43,
+   "e": 2223.91,
+   "text": "Naye variables"
+  },
+  {
+   "c": 551,
+   "s": 2224.05,
+   "e": 2225.23,
+   "text": "introduce hote hain:"
+  },
+  {
+   "c": 552,
+   "s": 2225.59,
+   "e": 2227.03,
+   "text": "paani ki feeling,"
+  },
+  {
+   "c": 553,
+   "s": 2226.88,
+   "e": 2228.85,
+   "text": "naya environment,"
+  },
+  {
+   "c": 554,
+   "e": 2234.38,
+   "text": "alag alag type ke sounds. Aur dimaag mein wo loaded data ka jo neural network tha na,",
+   "s": 2229.38
+  },
+  {
+   "c": 555,
+   "s": 2234.11,
+   "text": "wo",
+   "e": 2235.03
+  },
+  {
+   "c": 556,
+   "s": 2235.08,
+   "e": 2236.7,
+   "text": "rearrange hone lagta hai,"
+  },
+  {
+   "c": 557,
+   "s": 2236.91,
+   "text": "aur boom!",
+   "e": 2238.12
+  },
+  {
+   "c": 558,
+   "s": 2238.5,
+   "text": "Ek naya idea phir se aa jaata hai aap logon ko.",
+   "e": 2240.75
+  },
+  {
+   "c": 559,
+   "e": 2250.31,
+   "s": 2246.0,
+   "text": "Aur ye random nahi hai, ye predictable science hai."
+  },
+  {
+   "c": 562,
+   "s": 2261.63,
+   "text": "Aur iska matlab hai ki aap agar ideas chahte ho,",
+   "e": 2264.42
+  },
+  {
+   "c": 563,
+   "s": 2264.51,
+   "e": 2266.1,
+   "text": "toh aapko bored hona"
+  },
+  {
+   "c": 564,
+   "s": 2266.17,
+   "e": 2268.58,
+   "text": "padega, bored hone ke liye time dena padega."
+  },
+  {
+   "c": 566,
+   "e": 2273.02,
+   "text": "Toh kuch successful log ise",
+   "s": 2270.97
+  },
+  {
+   "c": 567,
+   "s": 2273.15,
+   "e": 2274.67,
+   "text": "\"thinking time\" kehte hain."
+  },
+  {
+   "c": 568,
+   "s": 2274.96,
+   "e": 2278.34,
+   "text": "Schedule karte hain is cheez ko, har din 15 se 20 minute,"
+  },
+  {
+   "c": 569,
+   "s": 2278.64,
+   "text": "kuch nahi karte hain, na phone, na scroll,",
+   "e": 2281.7
+  },
+  {
+   "c": 570,
+   "s": 2281.92,
+   "e": 2283.37,
+   "text": "bore hote rehte hain sirf,"
+  },
+  {
+   "c": 571,
+   "e": 2284.52,
+   "text": "aur",
+   "s": 2283.89
+  },
+  {
+   "c": 572,
+   "s": 2284.7,
+   "e": 2285.61,
+   "text": "ideas"
+  },
+  {
+   "c": 573,
+   "s": 2285.64,
+   "text": "khud aana shuru hote hain unke paas.",
+   "e": 2287.35
+  },
+  {
+   "c": 574,
+   "e": 2307.33,
+   "text": "Aur ab ek myth todta hoon aap logon ka, jo mujhe bahut irritate karta hai.",
+   "s": 2301.9
+  },
+  {
+   "c": 575,
+   "s": 2307.6,
+   "e": 2309.05,
+   "text": "\"Paanch baje utho,"
+  },
+  {
+   "c": 576,
+   "s": 2309.29,
+   "text": "cold",
+   "e": 2309.98
+  },
+  {
+   "c": 577,
+   "s": 2310.07,
+   "text": "plunge karo,",
+   "e": 2311.08
+  },
+  {
+   "c": 578,
+   "s": 2311.24,
+   "e": 2315.04,
+   "text": "lemon water piyo, push-ups karo, journaling karo, aur"
+  },
+  {
+   "c": 579,
+   "s": 2314.85,
+   "e": 2318.46,
+   "text": "tab jaakar aap successful ban jaaoge.\" Aisa kuch nahi hota hai bhai saab."
+  },
+  {
+   "c": 580,
+   "s": 2318.9,
+   "text": "Main aath baje ya nau baje uthta hoon aaraam se,",
+   "e": 2321.28
+  },
+  {
+   "c": 581,
+   "s": 2321.57,
+   "e": 2323.61,
+   "text": "raat ke ek-do baje tak kaam karta hoon."
+  },
+  {
+   "c": 582,
+   "s": 2323.76,
+   "e": 2326.51,
+   "text": "Abhi bhi aapko time dikha de raha hoon main aapko:"
+  },
+  {
+   "c": 583,
+   "s": 2326.92,
+   "text": "11 baj ke",
+   "e": 2328.57
+  },
+  {
+   "c": 585,
+   "s": 2329.27,
+   "e": 2331.94,
+   "text": "43, dekh rahe ho aap,"
+  },
+  {
+   "c": 586,
+   "s": 2332.17,
+   "e": 2332.65,
+   "text": "time,"
+  },
+  {
+   "c": 587,
+   "s": 2333.22,
+   "text": "11:43, 23:43,",
+   "e": 2335.22
+  },
+  {
+   "c": 588,
+   "s": 2335.25,
+   "e": 2336.78,
+   "text": "abhi ka time ho raha hai,"
+  },
+  {
+   "c": 589,
+   "s": 2337.41,
+   "e": 2339.26,
+   "text": "main jab video shoot kar raha hoon."
+  },
+  {
+   "c": 590,
+   "s": 2339.28,
+   "text": "Toh",
+   "e": 2339.78
+  },
+  {
+   "c": 591,
+   "s": 2340.58,
+   "e": 2343.37,
+   "text": "main aapko bata raha hoon, koi bhi timing"
+  },
+  {
+   "c": 592,
+   "s": 2343.43,
+   "text": "important nahi hai.",
+   "e": 2344.7
+  },
+  {
+   "c": 593,
+   "s": 2351.17,
+   "text": "Ye sab sirf sunne mein achha lagta hai ki \"paanch baje subah uth jaao",
+   "e": 2355.21
+  },
+  {
+   "c": 594,
+   "s": 2355.13,
+   "e": 2356.11,
+   "text": "aur"
+  },
+  {
+   "c": 595,
+   "e": 2358.54,
+   "text": "das baje raat mein so jaao.\"",
+   "s": 2356.47
+  },
+  {
+   "c": 596,
+   "s": 2363.21,
+   "e": 2365.62,
+   "text": "But science kehti hai ye sabke liye sahi hai hi nahi."
+  },
+  {
+   "c": 602,
+   "e": 2393.09,
+   "text": "2017 mein Medicine ka ek Nobel Prize mila,",
+   "s": 2390.08
+  },
+  {
+   "c": 603,
+   "s": 2392.81,
+   "text": "teen scientists ko mila. Unhone discover kiya ki insaanon mein ek circadian rhythm hoti nahi hai.",
+   "e": 2397.89
+  },
+  {
+   "c": 607,
+   "s": 2418.85,
+   "e": 2421.41,
+   "text": "Sabse pehla chronotype hai: AM shifted."
+  },
+  {
+   "c": 608,
+   "s": 2421.95,
+   "text": "Ye log subah 5 se 6 baje",
+   "e": 2424.6
+  },
+  {
+   "c": 609,
+   "s": 2424.82,
+   "e": 2426.4,
+   "text": "naturally uth jaate hain."
+  },
+  {
+   "c": 610,
+   "s": 2426.66,
+   "e": 2432.93,
+   "text": "Energy subah peak pe hoti hai, shaam tak ghat jaati hai. Population ka roughly 25% log"
+  },
+  {
+   "c": 612,
+   "s": 2434.28,
+   "text": "chronotype one waale hain.",
+   "e": 2435.77
+  },
+  {
+   "c": 613,
+   "s": 2437.11,
+   "e": 2438.46,
+   "text": "Chronotype 2:"
+  },
+  {
+   "c": 615,
+   "s": 2443.78,
+   "e": 2448.69,
+   "text": "chronotype 2, ye biphasic hai, yaani ki matlab ki do peaks aate hain inke."
+  },
+  {
+   "c": 616,
+   "s": 2448.84,
+   "e": 2458.13,
+   "text": "Subah ek ghanta energy mein rehte hain, peak mein, aur dopahar mein ye energy crash ho jaati hai, shaam ko phir doosra peak aata hai. Aur majority of log"
+  },
+  {
+   "c": 617,
+   "text": "isi type ke hain.",
+   "s": 2458.47,
+   "e": 2459.73
+  },
+  {
+   "c": 618,
+   "text": "Chronotype 3:",
+   "s": 2464.77,
+   "e": 2466.34
+  },
+  {
+   "c": 619,
+   "s": 2467.04,
+   "text": "PM shifted. Ye log subah naturally bahut slow slow slow slow se honge, energy shaam ko ekdum peak karti hai, aur raat ko sharp ho jaate hain ye log. Aur population ka sirf 10 se 15% log aise hain jo",
+   "e": 2480.83
+  },
+  {
+   "c": 620,
+   "s": 2480.82,
+   "e": 2482.3,
+   "text": "chronotype 3 mein hain."
+  },
+  {
+   "c": 621,
+   "s": 2482.48,
+   "text": "Ab sochiye, agar aap PM shifted hain",
+   "e": 2485.61
+  },
+  {
+   "c": 622,
+   "s": 2485.9,
+   "text": "aur force kar rahe hain apne aapko 5 baje uthne ke liye,",
+   "e": 2489.99
+  },
+  {
+   "c": 623,
+   "s": 2490.11,
+   "e": 2499.42,
+   "text": "toh aap apne peak performance hours waste kar rahe ho. Us time pe toh aap so rahe ho jab aapke sabse peak performance hours hain,"
+  },
+  {
+   "c": 624,
+   "s": 2499.64,
+   "e": 2500.29,
+   "text": "aur"
+  },
+  {
+   "c": 625,
+   "text": "sabse kamzor time mein aap kaam karne jaa rahe ho, jis time pe aapko neend aati, jis time pe aap sabse lazy hote ho.",
+   "s": 2500.81,
+   "e": 2507.45
+  },
+  {
+   "c": 629,
+   "s": 2524.67,
+   "text": "Toh pehle apna chronotype jaaniye,",
+   "e": 2526.97
+  },
+  {
+   "c": 630,
+   "s": 2527.33,
+   "e": 2528.82,
+   "text": "phir apna"
+  },
+  {
+   "c": 631,
+   "s": 2528.93,
+   "e": 2530.26,
+   "text": "din design kariye."
+  },
+  {
+   "c": 633,
+   "s": 2532.73,
+   "text": "Agar aap AM shifted ho, toh subah focused hokar",
+   "e": 2536.95
+  },
+  {
+   "c": 634,
+   "s": 2537.02,
+   "text": "kaam kariye, shaam ko",
+   "e": 2538.87
+  },
+  {
+   "c": 635,
+   "s": 2538.79,
+   "e": 2545.81,
+   "text": "ekdum aap administrative kaam kariye, jismein aapka zyada mehnat waala kaam na ho. Agar aap biphasic ho,"
+  },
+  {
+   "c": 636,
+   "s": 2546.58,
+   "text": "toh",
+   "e": 2547.07
+  },
+  {
+   "c": 637,
+   "e": 2555.46,
+   "s": 2546.99,
+   "text": "subah focus hokar ke kaam kariye, dopahar ko ek break lijiye, koi exercise wagairah kariye, phir shaam ko doosra focus session kar rakhiye."
+  },
+  {
+   "c": 641,
+   "s": 2562.72,
+   "e": 2566.2,
+   "text": "Tab jaakar aap log biphasic waale jo chronotype mein,"
+  },
+  {
+   "c": 642,
+   "s": 2566.3,
+   "text": "aap log fit baithoge.",
+   "e": 2567.42
+  },
+  {
+   "c": 643,
+   "s": 2569.05,
+   "text": "Agar aap PM shifted ho, toh subah creative kaam,",
+   "e": 2573.29
+  },
+  {
+   "c": 644,
+   "s": 2573.56,
+   "e": 2575.24,
+   "text": "brainstorming kariye,"
+  },
+  {
+   "c": 645,
+   "s": 2575.49,
+   "text": "padhiye kuch achha,",
+   "e": 2576.82
+  },
+  {
+   "c": 646,
+   "text": "podcasts dekhiye achhe achhe,",
+   "s": 2577.68,
+   "e": 2579.58
+  },
+  {
+   "c": 647,
+   "e": 2584.41,
+   "text": "kyunki",
+   "s": 2583.48
+  },
+  {
+   "c": 648,
+   "s": 2584.64,
+   "text": "agar aap log thoda tired ho,",
+   "e": 2586.98
+  },
+  {
+   "c": 649,
+   "s": 2587.12,
+   "text": "toh DMN activate hoga, us time par ideas achhe aayenge.",
+   "e": 2591.44
+  },
+  {
+   "c": 650,
+   "s": 2591.6,
+   "e": 2595.46,
+   "text": "Raat ko focused deep work kar paaoge aap log."
+  },
+  {
+   "c": 651,
+   "s": 2596.16,
+   "e": 2599.31,
+   "text": "Toh chronotype 3 mein main aata hoon."
+  },
+  {
+   "c": 652,
+   "s": 2599.39,
+   "e": 2603.95,
+   "text": "Toh mujhe aisa lagta hai ki mera peak performance raat ke time pe aata hai,"
+  },
+  {
+   "c": 653,
+   "s": 2603.78,
+   "e": 2606.5,
+   "text": "toh main chronotype 3 par kaam karta hoon,"
+  },
+  {
+   "c": 654,
+   "s": 2606.35,
+   "e": 2610.79,
+   "text": "na ki chronotype one pe. Paanch baje uth karke mujhse kaam nahi hota hai."
+  },
+  {
+   "c": 655,
+   "s": 2610.95,
+   "e": 2612.84,
+   "text": "Mujhe pata hai ekdum achhe tareeke se,"
+  },
+  {
+   "c": 656,
+   "s": 2612.65,
+   "text": "7 ghante ki neend meri body ke liye important hai. Toh main",
+   "e": 2616.32
+  },
+  {
+   "c": 657,
+   "s": 2616.66,
+   "text": "do baje so karke aath baje uth jaa raha hoon, toh bhi koi problem nahi hai.",
+   "e": 2621.07
+  },
+  {
+   "c": 658,
+   "s": 2631.29,
+   "text": "Main aap logon ko bata de raha hoon, 5 AM club ekdum porn hai. Sunne mein ekdum sexy lagega aap logon ko, but aapke liye kaam",
+   "e": 2639.71
+  },
+  {
+   "c": 659,
+   "s": 2639.85,
+   "e": 2642.5,
+   "text": "karega ki nahi karega, ye zaroori nahi hai."
+  },
+  {
+   "c": 660,
+   "s": 2642.43,
+   "text": "Sabse zaroori hai ki 7 ghante ki achhi neend important hai, 8 ghante ki bhi chalegi. Jab tak aap logon ki body recover achhe tareeke se nahi kar jaati hai na, tab tak ki neend important hai.",
+   "e": 2654.16
+  },
+  {
+   "c": 661,
+   "s": 2655.89,
+   "text": "Aur usko fix karna",
+   "e": 2657.92
+  },
+  {
+   "c": 662,
+   "s": 2657.99,
+   "text": "sabse zaroori hai. Baaki saari ki saari cheezein secondary hain.",
+   "e": 2661.89
+  },
+  {
+   "c": 663,
+   "text": "Last: burnout. Kyunki aaj har 25 saal ka banda",
+   "s": 2699.37,
+   "e": 2704.18
+  },
+  {
+   "c": 664,
+   "s": 2705.13,
+   "e": 2708.29,
+   "text": "bol raha hai ki \"main burnout ho gaya hoon.\""
+  },
+  {
+   "c": 665,
+   "s": 2708.3,
+   "text": "Pehle samjho ki burnout hota kya hai. Stress aur burnout same nahi hain. Stress normal hai, aap insaan ho, stress hoga, cortisol upar jaayega, aur ye zaroori",
+   "e": 2718.63
+  },
+  {
+   "c": 666,
+   "s": 2718.99,
+   "text": "hai aap logon ki body ke liye ki aap logon ka cortisol",
+   "e": 2722.87
+  },
+  {
+   "c": 668,
+   "s": 2723.42,
+   "text": "kabhi kabhi upar jaaye.",
+   "e": 2724.97
+  },
+  {
+   "c": 669,
+   "s": 2725.48,
+   "text": "Focus ke liye important hai,",
+   "e": 2727.15
+  },
+  {
+   "c": 670,
+   "e": 2729.98,
+   "text": "alertness ke liye important hai.",
+   "s": 2728.11
+  },
+  {
+   "c": 671,
+   "s": 2730.17,
+   "text": "Problem tab hoti hai jab stress ka cycle close nahi hota hai.",
+   "e": 2733.75
+  },
+  {
+   "c": 672,
+   "s": 2734.09,
+   "text": "Stress upar gaya,",
+   "e": 2735.89
+  },
+  {
+   "c": 673,
+   "s": 2736.08,
+   "text": "kaam kiya apna,",
+   "e": 2737.76
+  },
+  {
+   "c": 674,
+   "s": 2737.84,
+   "text": "phir neeche aana chahiye, but wo aaya hi nahi neeche, stress mein hi reh gaya aadmi, aur ye",
+   "e": 2744.28
+  },
+  {
+   "c": 676,
+   "text": "aapki jo stress ki cycle hai na, usko tod deta hai.",
+   "s": 2746.1,
+   "e": 2749.17
+  },
+  {
+   "c": 679,
+   "e": 2763.0,
+   "text": "Jab stress upar hi rehta hai, toh subah se raat tak, hafte dar hafte,",
+   "s": 2758.57
+  },
+  {
+   "c": 680,
+   "s": 2763.5,
+   "text": "tab jaakar burnout aata hai.",
+   "e": 2766.22
+  },
+  {
+   "c": 681,
+   "s": 2769.29,
+   "text": "Wo jo daily ke stress ko aap log burnout se relate kar rahe ho, wo ekdum galat baat hai.",
+   "e": 2774.07
+  },
+  {
+   "c": 682,
+   "s": 2780.81,
+   "e": 2784.57,
+   "text": "Ab iska solution kya hai? Iska solution hai 3M"
+  },
+  {
+   "c": 683,
+   "e": 2785.71,
+   "text": "framework.",
+   "s": 2784.89
+  },
+  {
+   "c": 684,
+   "text": "M1, yaani ki micro breaks.",
+   "s": 2786.28,
+   "e": 2788.51
+  },
+  {
+   "c": 685,
+   "s": 2788.78,
+   "e": 2792.73,
+   "text": "Har din aap log 10 se 15 minute ka break lijiye."
+  },
+  {
+   "c": 686,
+   "s": 2792.96,
+   "e": 2795.42,
+   "text": "Kuch aisa kariye jo challenging ho:"
+  },
+  {
+   "c": 687,
+   "s": 2795.19,
+   "text": "nayi recipe try kariye,",
+   "e": 2797.25
+  },
+  {
+   "c": 688,
+   "s": 2797.33,
+   "text": "koi instrument bajaaiye,",
+   "e": 2799.16
+  },
+  {
+   "c": 689,
+   "s": 2799.5,
+   "e": 2806.28,
+   "text": "kuch naye route par walk kariye. Daily daily ek hi route par walk karoge toh phir kharaab lagega. Ye saari cheezein"
+  },
+  {
+   "c": 690,
+   "s": 2806.51,
+   "e": 2807.89,
+   "text": "aap logon ko karni padengi,"
+  },
+  {
+   "c": 691,
+   "s": 2807.98,
+   "text": "phone nahi use karna padega,",
+   "e": 2809.98
+  },
+  {
+   "c": 692,
+   "s": 2810.01,
+   "text": "kuch koi game khel lijiye. Completely",
+   "e": 2813.03
+  },
+  {
+   "c": 693,
+   "e": 2816.92,
+   "text": "psychological detachment rakhiye apni,",
+   "s": 2813.2
+  },
+  {
+   "c": 698,
+   "s": 2823.03,
+   "e": 2826.15,
+   "text": "matlab dimaag se kaam aur stress poora ka poora hata dijiye."
+  },
+  {
+   "c": 703,
+   "s": 2833.66,
+   "text": "Tab jaakar aap logon ko thoda achhe tareeke se",
+   "e": 2835.92
+  },
+  {
+   "c": 704,
+   "s": 2836.26,
+   "text": "stress cycle ko manage karna aayega.",
+   "e": 2838.83
+  },
+  {
+   "c": 706,
+   "e": 2847.33,
+   "text": "Ab jo 3M waale framework mein",
+   "s": 2844.05
+  },
+  {
+   "c": 707,
+   "s": 2847.67,
+   "e": 2849.41,
+   "text": "M2 hai, wo kya hai?"
+  },
+  {
+   "c": 708,
+   "e": 2851.93,
+   "text": "Wo hai meso breaks.",
+   "s": 2849.85
+  },
+  {
+   "c": 709,
+   "s": 2852.19,
+   "text": "Har hafte 2-4 ghante",
+   "e": 2854.52
+  },
+  {
+   "c": 710,
+   "s": 2854.98,
+   "text": "koi hobby kariye, jaise painting hua,",
+   "e": 2857.43
+  },
+  {
+   "c": 711,
+   "text": "aapko",
+   "s": 2857.75,
+   "e": 2858.58
+  },
+  {
+   "c": 712,
+   "e": 2861.9,
+   "text": "cricket khelne jaana, toh cricket khel liya aapne,",
+   "s": 2859.34
+  },
+  {
+   "c": 713,
+   "text": "aapko kuch naya seekhna, toh wahan chale jaaiye, kuch challenging karna, wahan chale jaaiye, koi marathon daudna, wahan chale jaaiye.",
+   "s": 2862.75,
+   "e": 2869.02
+  },
+  {
+   "c": 717,
+   "s": 2883.86,
+   "e": 2889.77,
+   "text": "Wo kaam kariye jahan par aap apni pareshaaniyon ko bhool paayein. Jaise kuch log aise maine dekhe hain"
+  },
+  {
+   "c": 718,
+   "s": 2889.7,
+   "e": 2891.18,
+   "text": "apni zindagi mein"
+  },
+  {
+   "c": 719,
+   "s": 2891.54,
+   "text": "jo poore hafte ekdum lag ke kaam karte hain, aur hafte ke aakhri do din, yaani ki weekends pe, wo log cricket khelte hain,",
+   "e": 2898.15
+  },
+  {
+   "c": 720,
+   "s": 2898.52,
+   "text": "aur uske through",
+   "e": 2899.92
+  },
+  {
+   "c": 721,
+   "s": 2900.01,
+   "e": 2902.31,
+   "text": "wo log apne hafte bhar ki"
+  },
+  {
+   "c": 722,
+   "s": 2902.45,
+   "e": 2907.96,
+   "text": "jo thakaan rehti hai, hafte bhar ka jo stress rehta hai, usko bhula paate hain, aur uski wajah se unka brain"
+  },
+  {
+   "c": 723,
+   "s": 2908.01,
+   "e": 2910.08,
+   "text": "phir se achhe tareeke se active ho paata hai."
+  },
+  {
+   "c": 724,
+   "s": 2910.62,
+   "e": 2912.68,
+   "text": "Isko kehte hain meso breaks."
+  },
+  {
+   "c": 725,
+   "s": 2912.49,
+   "e": 2915.61,
+   "text": "Aur M3, jo maine aap logon ko bataaya"
+  },
+  {
+   "c": 726,
+   "s": 2915.78,
+   "e": 2917.38,
+   "text": "3M framework mein,"
+  },
+  {
+   "c": 727,
+   "s": 2917.56,
+   "text": "usmein hai macro breaks, har mahine,",
+   "e": 2920.48
+  },
+  {
+   "c": 728,
+   "s": 2920.58,
+   "text": "aadha din se poora din,",
+   "e": 2923.05
+  },
+  {
+   "c": 729,
+   "e": 2926.87,
+   "text": "completely disconnected ho jaaiye har ek cheez se.",
+   "s": 2924.14
+  },
+  {
+   "c": 733,
+   "s": 2935.34,
+   "text": "Koi kaam nahi, koi email nahi, kisi se baat nahi karna,",
+   "e": 2939.07
+  },
+  {
+   "c": 734,
+   "text": "jo dil mein aaye wo kariye,",
+   "s": 2939.46,
+   "e": 2941.13
+  },
+  {
+   "c": 735,
+   "s": 2941.44,
+   "text": "bas kaam mat kariye.",
+   "e": 2942.65
+  },
+  {
+   "c": 736,
+   "s": 2950.55,
+   "text": "Condition sab mein same hai: complete psychological detachment,",
+   "e": 2955.52
+  },
+  {
+   "c": 737,
+   "e": 2964.48,
+   "s": 2955.67,
+   "text": "jo hai wo zyada important hai. Matlab mentally kaam se poora ka poora door ho jaana. Sirf body rest nahi karegi, aapka dimaag bhi rest karega."
+  },
+  {
+   "c": 740,
+   "s": 2976.68,
+   "e": 2978.8,
+   "text": "Agar aap scrolling ko break maante ho,"
+  },
+  {
+   "c": 741,
+   "s": 2978.82,
+   "e": 2981.78,
+   "text": "toh wo toh break ekdum nahi. Research kehti hai, pata hai kya?"
+  },
+  {
+   "c": 742,
+   "s": 2981.72,
+   "text": "Ki scrolling",
+   "e": 2982.69
+  },
+  {
+   "c": 743,
+   "s": 2982.76,
+   "e": 2984.22,
+   "text": "break nahi. Aapke"
+  },
+  {
+   "c": 744,
+   "s": 2984.07,
+   "e": 2988.1,
+   "text": "jo dimaag ko hai na, wo aur zyada thaka deta hai. Matlab ki,"
+  },
+  {
+   "c": 745,
+   "s": 2988.42,
+   "e": 2992.33,
+   "text": "scrolling karte hue aapko aisa lagta hai ki jaise aap kaam kar rahe ho,"
+  },
+  {
+   "c": 746,
+   "s": 2992.98,
+   "text": "toh aapke dimaag ko toh break mila hi nahi.",
+   "e": 2994.91
+  },
+  {
+   "c": 747,
+   "s": 2998.79,
+   "text": "Toh phir kyun scrolling karni hai? Scrolling means ekdum bekaar cheez hai.",
+   "e": 3002.91
+  },
+  {
+   "c": 749,
+   "s": 3020.43,
+   "text": "Toh sabse badi cheez main aap logon ko bata raha hoon, ki scrolling karna important hai, ye nahi.",
+   "e": 3024.54
+  },
+  {
+   "c": 750,
+   "e": 3027.75,
+   "text": "Scrolling karne ki bajaay aap log movies dekhiye,",
+   "s": 3025.13
+  },
+  {
+   "c": 751,
+   "text": "kuch aisi movies dekhiye jo",
+   "s": 3028.29,
+   "e": 3031.76
+  },
+  {
+   "c": 752,
+   "s": 3032.66,
+   "e": 3033.59,
+   "text": "aap logon"
+  },
+  {
+   "c": 753,
+   "s": 3033.83,
+   "e": 3036.1,
+   "text": "ke dimaag ko ghumaayein thoda sa,"
+  },
+  {
+   "c": 754,
+   "s": 3036.36,
+   "text": "travel karaayein,",
+   "e": 3037.55
+  },
+  {
+   "c": 755,
+   "s": 3037.47,
+   "e": 3041.57,
+   "text": "kuch achhi movies dekhiye jis pe aap hans paao, laughter aaye."
+  },
+  {
+   "c": 756,
+   "s": 3041.94,
+   "e": 3043.91,
+   "text": "Toh ye saari cheezein karo aap."
+  },
+  {
+   "c": 757,
+   "s": 3044.21,
+   "text": "Toh aaj hum logon ne is poori ki poori video se kya kya cheezein seekhi?",
+   "e": 3048.67
+  },
+  {
+   "c": 758,
+   "s": 3048.74,
+   "e": 3051.05,
+   "text": "Number one: billionaires ka dimaag"
+  },
+  {
+   "c": 759,
+   "s": 3051.2,
+   "e": 3051.9,
+   "text": "alag"
+  },
+  {
+   "c": 760,
+   "s": 3051.96,
+   "e": 3053.57,
+   "text": "tareeke, alag"
+  },
+  {
+   "c": 761,
+   "s": 3053.59,
+   "text": "beliefs pe kaam karta hai,",
+   "e": 3055.56
+  },
+  {
+   "c": 762,
+   "s": 3055.74,
+   "e": 3060.33,
+   "text": "aur isi wajah se wo log billionaires hain, isi wajah se wo log successful hain."
+  },
+  {
+   "c": 763,
+   "s": 3060.17,
+   "text": "Aur ye luck ya talent nahi hai, ye belief hai.",
+   "e": 3064.25
+  },
+  {
+   "c": 765,
+   "text": "Number two: aap apne belief khud se design kar sakte ho, aur uske chaar step ke framework maine aap logon ko bata diye.",
+   "s": 3068.93,
+   "e": 3076.96
+  },
+  {
+   "c": 767,
+   "s": 3080.96,
+   "text": "Number 3:",
+   "e": 3081.89
+  },
+  {
+   "c": 768,
+   "s": 3082.06,
+   "e": 3083.87,
+   "text": "goals aapke cute hain,"
+  },
+  {
+   "c": 769,
+   "s": 3084.01,
+   "e": 3086.81,
+   "text": "implementation intention kaam karti hai,"
+  },
+  {
+   "c": 770,
+   "s": 3086.89,
+   "text": "yaani ki kaam karti hai, chahe jis tareeke se bhi aap usko dekh lo. Buri habit ka loop aapko samajhna padega,",
+   "e": 3094.29
+  },
+  {
+   "c": 771,
+   "e": 3099.75,
+   "text": "60 second cognitive pause lena important hai,",
+   "s": 3095.33
+  },
+  {
+   "c": 772,
+   "s": 3100.19,
+   "e": 3102.77,
+   "text": "toh aap log buri aadat ko dheere dheere tod paaoge."
+  },
+  {
+   "c": 773,
+   "s": 3103.34,
+   "text": "Number five: ideas chahiye? Bore ho jaao,",
+   "e": 3106.79
+  },
+  {
+   "c": 774,
+   "s": 3106.81,
+   "e": 3108.47,
+   "text": "toh ideas bhi mil jaayenge."
+  },
+  {
+   "c": 775,
+   "s": 3108.5,
+   "e": 3111.18,
+   "text": "Thinking time ko schedule kar lijiye aap,"
+  },
+  {
+   "c": 776,
+   "s": 3110.91,
+   "e": 3114.25,
+   "text": "toh aap logon ko ideas aane shuru ho jaayenge, aapka DMN"
+  },
+  {
+   "c": 777,
+   "s": 3114.02,
+   "e": 3115.49,
+   "text": "activate ho jaayega."
+  },
+  {
+   "c": 778,
+   "s": 3116.0,
+   "text": "Number six: 5 AM club sab ke liye nahi hai. Toh sab logon ko bechna band kar dijiye, jo log bech rahe hain. Apna khud ka chronotype samjhiye,",
+   "e": 3126.56
+  },
+  {
+   "c": 780,
+   "s": 3128.05,
+   "text": "us chronotype ko achhe tareeke se use kariye, aap log bhi successful ho jaaoge.",
+   "e": 3132.47
+  },
+  {
+   "c": 781,
+   "s": 3134.99,
+   "e": 3138.84,
+   "text": "Aur number seven: burnout se bachna hai agar,"
+  },
+  {
+   "c": 782,
+   "s": 3139.31,
+   "text": "toh 3M",
+   "e": 3140.59
+  },
+  {
+   "c": 783,
+   "s": 3140.9,
+   "e": 3142.95,
+   "text": "aap logon ko samajhna padega: micro,"
+  },
+  {
+   "c": 784,
+   "s": 3143.03,
+   "e": 3145.65,
+   "text": "meso aur macro breaks waale."
+  },
+  {
+   "c": 785,
+   "s": 3145.89,
+   "text": "Aur ye sab biological laws hain,",
+   "e": 3148.84
+  },
+  {
+   "c": 786,
+   "s": 3149.32,
+   "text": "gravity jaisi.",
+   "e": 3150.61
+  },
+  {
+   "c": 787,
+   "s": 3152.38,
+   "e": 3155.08,
+   "text": "Aur isko agar aap log ignore karoge na,"
+  },
+  {
+   "c": 788,
+   "s": 3155.12,
+   "text": "toh aap log aur zyada suffer karoge,",
+   "e": 3157.09
+  },
+  {
+   "c": 789,
+   "s": 3161.71,
+   "text": "aur isko agar aap log sahi tareeke se follow karoge,",
+   "e": 3164.42
+  },
+  {
+   "c": 790,
+   "s": 3164.77,
+   "e": 3173.52,
+   "text": "toh superhuman jaise results milna shuru ho jaayenge. Aapka dimaag ekdum focus machine hai,"
+  },
+  {
+   "c": 791,
+   "s": 3173.76,
+   "e": 3175.59,
+   "text": "storytelling machine hai,"
+  },
+  {
+   "c": 792,
+   "s": 3175.76,
+   "e": 3182.07,
+   "text": "aur ekdum idea machine hai. Bas seekho aap log isko kis tareeke se use karna hai."
+  },
+  {
+   "c": 796,
+   "s": 3189.04,
+   "e": 3189.65,
+   "text": "Aur"
+  },
+  {
+   "c": 797,
+   "s": 3190.23,
+   "e": 3190.73,
+   "text": "is"
+  },
+  {
+   "c": 798,
+   "s": 3190.74,
+   "e": 3193.39,
+   "text": "poori ki poori video mein aap logon ko agar"
+  },
+  {
+   "c": 799,
+   "s": 3193.66,
+   "text": "kuch bhi valuable points dikhe hain,",
+   "e": 3195.79
+  },
+  {
+   "c": 800,
+   "s": 3196.6,
+   "e": 3197.84,
+   "text": "toh aap log"
+  },
+  {
+   "c": 801,
+   "text": "hamare channel ko subscribe kariye,",
+   "s": 3198.3,
+   "e": 3200.42
+  },
+  {
+   "c": 802,
+   "text": "apne doston ko, apne ghar waalon ko, apne bachchon ko",
+   "s": 3201.15,
+   "e": 3205.29
+  },
+  {
+   "c": 803,
+   "s": 3205.23,
+   "e": 3206.8,
+   "text": "ye video dikhaaiye."
+  },
+  {
+   "c": 813,
+   "s": 3234.43,
+   "e": 3238.4,
+   "text": "Toh mera kaam tha science pahunchana, decision aapka hai. You're watching FitFinfluencer, milte hain"
+  },
+  {
+   "c": 814,
+   "s": 3238.42,
+   "text": "next video mein.",
+   "e": 3239.16
+  }
+ ],
+ "lead": 0.06,
+ "tail": 0.1
+}

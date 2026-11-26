@@ -1,0 +1,608 @@
+# ---- A: cold open
+0 | Maine bahut saare super-successful logon ke baare mein padha hai.
+1 | Chahe wo
+2 | log founders ho, chahe wo Olympic champions ho,
+3 | athletes hon bahut achhe,
+4 | cricketers hon bahut achhe,
+5 | ya
+6 | bahut zyada bade billionaires ho.
+7 | Wo log literally jo zero se shuru karke 100 tak pahunche hain, apna safar kiya hai,
+8 | un saare logon mein sirf ek cheez common thi. Pata hai kya hai?
+9 | Wo cheez na idea thi, na luck tha, na talent tha, aur connection toh bilkul hi nahi tha.
+10 | Wo pata hai ek cheez kya thi?
+11 | BELIEF.
+12 | In logon ko sach mein lagta tha
+13 | ki ye log jo soch rahe hain, ye log jo sapna dekh rahe hain, wo sach ho sakta hai.
+15 | Iske bahut bade bade examples hain. Main MS Dhoni ki hi baat le leta hoon.
+16 | Kis tareeke se unhone
+17 | apni zindagi mein,
+18 | ki ek TT ki job karke, wahan par
+19 | zyadatar cricketers ki zindagi khatam ho jaati hai, us jagah se
+20 | ek aisa insaan jo cricket ka legend ban gaya.
+21 | Aap kuch socho ki uski life kahan se kahan tak aayi.
+22 | Agar usne wo TT ki job
+23 | mein wo satisfy ho gaya hota, jismein uske ghar waalon ne kaha tha
+24 | ki
+25 | "beta, job mat chhodna, kuch bhi ho jaaye." Log naraaz ho gaye the, aur ye saari cheezein.
+26 | Toh wo aaj India ke liye itne saare
+27 | medals, itne saare cups nahi la paaya hota.
+28 | Toh aap kuch socho ki
+29 | us belief
+30 | ko aap kis tareeke se define kar sakte ho.
+31 | Main bata raha hoon aap logon ko, jahan normal logon ko deewar dikhaai deti hai,
+32 | wahin pe
+33 | successful logon ko darwaaza dikhaai deta hai. Aap samajh rahe ho? Aur ye saari cheezein
+34 | wo log jaante hain ki kab kaun sa darwaaza kholna hai, aur kis tareeke se wo apne aapko
+35 | mould kar rahe hote hain.
+36 | Aur ye saari cheezein pata hai kya hai? Ye saari cheezein neuroscience hai.
+37 | Aapke dimaag mein
+38 | ek network hai jo aapke beliefs ko control karta hai.
+40 | Aur aaj main exactly usi network par baat karunga
+41 | jo aap log
+42 | ko
+43 | believe dilaata hai ki aap log ye kar sakte ho ya nahi kar sakte ho.
+44 | Aur aaj main ye bhi bataunga
+45 ew=11 | ki kis tareeke se aap us neuroscience ki wajah se
+46 | apne dimaag ko reprogram kar sakte ho.
+# ---- B: DMN
+51 | Aapke dimaag mein ek neural network hai,
+52 | iska naam hai Default Mode Network,
+53 | yaani ki short mein DMN.
+54 | Ab ye DMN kya hai?
+55 | Ye aapke dimaag ka ek kahaani banaane waala department hai.
+56 | Jab aap kuch nahi kar rahe hote ho na,
+57 | daydreaming kar rahe hote ho,
+58 | bore ho rahe hote ho, chahe wo shower mein khade ho rahe ho,
+59 | chahe wo kahin aap bike chala rahe ho,
+60 | chahe kisi active network mein ho,
+61 | toh aapka dimaag kya karta hai, pata hai?
+62 | Ye aapko story sunaata hai.
+63 | Ye aapko story sunaata hai, aapke hi baare mein story sunaata hai.
+66 | Main kaun hoon? Meri kya identity hai?
+67 | Main kya kar sakta hoon? Main life mein kya kar raha hoon? Kitna possible hai life mein kahan tak pahunchna? Mera future kaisa hoga? Ye saari cheezein
+68 | aap logon ko
+69 | DMN
+70 | batata hai.
+71 | Aur ye wo narrator hai
+72 | jo aapke dimaag mein 24 ghante, 7 din
+73 | chalta hi rehta hai, 24x7 chalta rehta hai.
+74 | Aur yahi wo cheez hai jo billionaires mein alag hoti hai, founders mein alag hoti hai, jo achhe successful log hain un logon mein alag hoti hai.
+76 | Unka DMN unhe batata hai ki "tu kar sakta hai bhai saab,
+77 | tu kuch bhi kar sakta hai,
+78 | koi limit nahi hai,
+79 | aur ye darwaaza khulega,
+80 | aur ye possible hai." Is tareeke ke thoughts aate hain
+81 | sahi logon mein.
+82 | Matlab samajh rahe ho
+83 | ki jinka DMN
+84 ew=24 | active hota hai, wo is tareeke se sochta hai, wo solution based par kaam karta hai, na ki problem based par kaam karta hai.
+92 | Aur sabse important cheez pata hai kya hai? Aapke dimaag mein ek biological law hai.
+96 | Aapka dimaag hamesha us data ko dhoondta hai jo aapke beliefs ko
+97 | confirm karte hain.
+98 | Toh agar aap logon ko lagta hai ki aapki zindagi mein kuch sahi nahi ho raha hai, aapki life ekdum kharaab hai,
+99 | toh aapka dimaag wahi saari cheezein dhoondega,
+100 ew=6 | waisi situation banaayega, waisi belief karaayega.
+106 | Aur aap logon ko lagega ki "dekha, phir bura ho gaya, main toh bola hi tha ki ye bura ho jaayega."
+107 | Toh aap logon ko
+108 | usi belief ke upar aur belief karaaya ki aap ye kaam nahi kar sakte,
+109 | "aur aap isko rehne do,
+110 | aage se kabhi try bhi mat karna,
+111 | ye aapse hoga hi nahi, aap iske laayak bane hi nahi ho."
+118 | Agar aapko lagta hai ki mujhe opportunities milti hain,
+119 | toh aapka dimaag dhoondega opportunities,
+120 | aapka dimaag dhoondega achhe achhe ideas,
+124 | jo hamesha aur log nahi dekh paate hain, wo saari cheezein aapko dikhne lagengi.
+125 | Isi tareeke se,
+126 | jaise mujhe business dikhne lagta hai, har ek doosri cheez mujhe business ki tarah dikhti hai,
+127 | toh
+128 | mujhe opportunities ki tarah dikhti hai, ki yahan bhi opportunity, yahan bhi opportunity hai.
+130 | Toh aap logon ka bhi agar DMN
+131 | activate hoga, toh aap logon ko bhi opportunities dikhengi, aap logon ko problems nahi dikhengi, aap logon ko lagega ki
+132 | kis tareeke se is opportunity ko grab kar sakta hoon main khud.
+136 | Aur yahi reason hai ki successful log pata hai kya kehte hain?
+137 | Ki "achaanak koi ek insaan mil jaata hai," achha,
+138 | "achaanak ek idea aa jaata hai, achaanak koi aur naya darwaaza khul jaata hai." Ye saari cheezein random nahi hain. Unka dimaag wo cheez karwa raha hai un logon se.
+139 | Jo opportunities aap logon ko dikhaai nahi de rahi hain, ek successful aadmi ko opportunities dikhaai dengi. Kyun? Kyunki unka dimaag us tareeke se chal raha hai,
+140 | kyunki unhi beliefs ne dimaag ko ekdum train kar rakha hai.
+# ---- C: belief design
+145 | Ab sabse bada sawaal ye hai ki agar DMN itna zyada powerful hai, toh kya hum ise change kar sakte hain?
+146 | Haan,
+147 | 100% change kar sakte hain.
+153 | Research dikhaati hai ki agar aap apne beliefs ko,
+154 | agar continuously alag alag tareeke se design kariye,
+155 | unko repeat kariye,
+156 | toh aapka DMN
+157 | alag se rewrite karne lagta hai saari cheezon ko.
+158 | Naye naye neural pathways banne lagte hain,
+159 | aur aapka dimaag us nayi story ko accept karne lagta hai jo aap logon ko us time par dikhna shuru ho rahi hai.
+160 | Matlab ki jo aap log daydreaming kar rahe ho,
+161 | jo aap log regular basis pe manifest kar rahe ho, wo saari cheezein aap logon ko milna shuru ho jaati hain.
+162 | Ab ye karna kaise hai? Iske chaar
+163 | step framework hain, isko zaroor achhe tareeke se dekhna,
+164 | kyunki agar chaaron mein se ek bhi agar sahi tareeke se nahi kiye,
+165 | toh aap log is cheez ko khud se activate nahi kar paaoge.
+167 | Step number one: identify kariye apne belief ko. Paper pe likhiye, "Main us tarah ka insaan hoon..."
+168 | aur phir blank
+169 | ko fill kariye.
+170 | Example:
+171 | "Main us tarah ka insaan hoon jo apni health ko priority deta hoon."
+172 | "Main us tarah ka insaan hoon jo apni
+173 | family ko priority deta hai,
+174 | kyunki mujhe ye pata hai ki meri performance ke liye meri health zaroori hai,
+175 | mujhe khush rehne ke liye meri family zaroori hai."
+176 | Toh ye saari cheezein
+177 | mujhe pehle se pata hai, that's why main in saari cheezon ko priority deta hoon.
+178 | Step number 2:
+179 | aapko sabse pehle data nikaalna hoga. Wo facts jo aapko pata hain,
+180 | aur jo is belief ko support karte hain.
+181 | Jaise,
+182 | "mujhe pata hai ki neend se focus badhta hai,
+183 | mujhe pata hai ki exercise se energy aati hai, mujhe pata hai ki ye cheezein karne se life better hoti hai."
+184 | Ye saara ka saara data likhna padega aapko.
+187 | Step number three: better future likhiye aap log apna.
+188 | Agar ye belief
+189 | true hai,
+190 | toh kya hoga?
+191 | Agar ye belief galat hai, toh kya hoga?
+192 | "Agar main ye karunga,
+193 | toh main smarter dikhunga,
+194 | healthier dikhunga, zyada focused dikhunga,
+195 | main apna sabse best version bana paaunga apne aapko."
+198 | Step number 4: nayi habits likhiye,
+199 | wo specific behaviour jo is belief se
+200 | match kar rahi hai.
+201 | "Main har raat 11 baje sona chahta hoon,
+202 | main har raat 11 baje se pehle phone rakh dunga,
+203 | kam se kam 7-8 ghante ki neend lunga."
+204 | Ye saari cheezein aapko likhni padengi, saari habits likhni padengi: "main achha khaana khaunga, main hamesha exercise karunga." Ye saari cheezein likhni padengi.
+205 | Ab sab milaake ek sentence banaaiye:
+206 | "Main us tarah ka insaan hoon jo har raat 7 ghante ki neend leta hai,
+207 | kyunki mujhe pata hai ki meri performance ke liye ye important hai, ye edge hai,
+208 | aur log nahi le paa rahe hain ye saari cheezein,
+209 | mere liye ye edge hai."
+210 | Aapko ye abhi believe nahi karna hai.
+211 | Ye ekdum fake lagega aap logon ko.
+212 | But
+213 | fake it
+214 | till you make it.
+215 | Aur ye ekdum science-backed version hai.
+216 | Har din ye likhiye, bahut zyada important hai.
+217 | Din mein utha karke ek baar padhiye, review kariye, brain ko train kariye. Jaise gym mein aap log muscle train kar rahe hain, us tareeke se apne brain ko train kariye.
+218 | Kya hoga?
+219 | Aapka DMN,
+220 | us storytelling machine ko
+221 | ekdum sach mein badalna shuru kar dega.
+233 | Main bata raha hoon aap logon ko, khud-ba-khud opportunities aane lagengi, khud-ba-khud opportunities dikhne lagengi, ideas aane lagenge, log milne lagenge, achaanak se log milenge.
+234 | But actually
+235 | this is not random.
+236 | Aapne apna search filter change kar diya hai,
+237 | that's why aapko ye saari cheezein dikh rahi hain.
+238 | Aur ye har successful aadmi ko dikhti hain.
+# ---- D: implementation intentions
+240 | Chaliye, ab aap logon ne belief design kar liye, habit likh liye,
+241 | lekin implementation kaise hoga?
+242 | Kyunki research kehti hai ki goal
+243 | rakhna kaafi nahi hai.
+244 | Main khud jaldi sone ki koshish karta hoon.
+252 | Aur research mein ek technique hai, implementation intention ki.
+254 | 100 se zyada studies ho chuki hain, 100 se zyada test ho chuke hain,
+255 | aur ye
+256 | ekdum simple hai.
+257 | Format pata hai kya hoga?
+258 | Aur iska poora ka poora format main bata deta hoon aapko: "JAB ___ hoga,
+259 | TAB main ___ karunga."
+260 | Simple si cheez hai.
+261 | "Jab 11 baje raat ko alarm bajega,
+262 | tab main phone
+263 | charging pe laga karke bed pe let jaaunga."
+270 | Aur ye
+271 | karne se aapko dheere dheere dheere fark dikhega.
+272 | Ye movie jaisi detail
+273 | mein dikhegi aap logon ko.
+274 | Jaise main dekh sakta hoon
+275 | ki aap ghar mein ho, 11 baj rahe hain,
+276 | aur us time pe aapne phone charging pe lagaaya,
+277 | aur phir
+278 | bed pe let karke
+279 | aapne ye socha ki aaj maine din bhar kya kiya,
+280 | kis tareeke se main apna kal ka din plan karunga. Aur ye saari cheezein
+281 | aapne socha, aur ye specific hai,
+282 | ye ekdum clear hai,
+283 | aur isi liye ye kaam karta hai, har baar kaam karega.
+284 | Ek
+285 | aur trick main bata deta hoon aap logon ko:
+286 | chhota chhota shuru kariye, small steps.
+287 | Pehle sirf ye kariye ki 11 baje
+288 | aap log alarm lagaaiye,
+289 | aur
+290 | us alarm pe phone ko
+291 | side rakh dijiye. Neend nahi aa rahi hai, koi baat nahi, aap
+292 | koi
+293 | copy-pen lekar ke baith jaayiye, likhiye kuch,
+294 | aapka agle din ka plan likh lo aap,
+295 | aaj aapne kya kya kiya wo likh lo aap,
+296 | phir uske baad
+297 | brush kar lo aap,
+298 | aur phir uske baad
+299 | aankhein band karke,
+300 | kuch chhoti chhoti exercises hain jisse aap logon ko jaldi neend aa sakti hai, wo saari cheezein kar lo aap. Ek ek step dheere dheere kar lo.
+301 | Aur phir ye chhote chhote chhote chhote chhote steps aapko,
+302 | aapke liye bahut easy ho jaayenge
+303 | over the time,
+304 | aur phir aap
+305 | in saari cheezon ko ek saath karna shuru kar doge.
+# ---- E: bad habit loop
+306 | Ab baat karte hain buri habits ki,
+307 | kyunki nayi habits banaana mushkil toh hai,
+308 | but puraani ko todna aur bhi zyada mushkil hai.
+309 | Jaise jo log smoking karte hain, smoking chhodna is very
+310 | tough,
+311 | kyunki logon ki body
+312 | ki need ban jaati hai smoking.
+313 | Aur isko todna itna zyada important kyun hai?
+314 | Ye samjhaane ke liye main neural networks samjhaana
+315 | chahunga aap logon ko.
+316 | Imagine kariye ki aapke dimaag mein ek raasta hai.
+317 | Har baar jab aap ek behaviour karte ho, toh wo raasta mazboot hota chala jaata hai.
+319 | Jaise jungli raasta pehle patla hua karta tha. Aapne das baar aana jaana kiya, aur wo raasta thoda sa wide ho gaya.
+320 | Sau baar kiya, thoda sa aur wide ho gaya,
+321 | aur
+322 | hazaar baar kiya toh road ban gaya, highway ban gaya.
+323 | Aur yahi saari cheezein, yahi habit, yahi addiction,
+324 | aap logon ko change karna hai.
+325 | Jaise ki main aap logon ko bata raha hoon, koi ek aadat aapke do neurons ko connect kar rahi hai.
+327 | Jaise driving aap samajh lo,
+328 | ki aapne jab ek baar gaadi chalaayi,
+329 | toh aapko
+330 | driving aayi,
+331 | jismein aapko darr lag raha tha. But isi ko kai baar chalaaya, toh ye jo neurons ek doosre se connect hue the, wo jo skill
+332 | jo bani thi aap logon ki, ye neurons jo connect hue the,
+333 | ab ye baar baar baar baar
+334 | connect hona shuru honge. Jab ye dono neurons baar baar connect hona shuru honge,
+335 | toh
+336 | aapko driving itni achhe tareeke se aa jaayegi.
+346 | Ab wo jo pehli road thi,
+347 | wo ab road highway ban chuki hai,
+348 | means aapka skill itna zyada strong ho chuka hai ki ab wo subconscious mind mein hai aapke.
+349 | Dekhiye, main bata raha hoon, log addiction sunke darte hain, lagta hai unko ki bahut buri cheez hai. Addiction ka matlab hota hai ki
+350 | ek behaviour jo aapko baar baar karna padta hai.
+351 | Koi exercise ka
+352 | addicted hai,
+353 | koi
+354 | kindness ka addicted hai,
+355 | koi scrolling ka addicted hai, same mechanism hai, koi smoking ka addicted hai, same mechanism hai.
+356 | Ab buri habit ka loop
+357 | kaise kaam karta hai,
+358 | aur achhi habit ka loop kaise kaam karta hai, iske baare mein baat kar lete hain.
+367 | Step one:
+368 | feeling aati hai.
+369 | Toh
+370 | kaun kaun si feeling aati hai? Stress hota hai aadmi, bore hota hai,
+371 | overwhelming ho jaata hai,
+372 | thakaan
+373 | waali feeling aati hai,
+374 | loneliness waali feeling aati hai.
+375 | Step two: aapka dimaag kehta hai ki "mujhe
+376 | isse
+377 | bhaagna hai,
+378 | ye achha feel nahi ho raha hai."
+379 | Toh kya karte ho aap log? Wo cheez jo pehle bhi kaam aayi thi,
+380 | usko
+381 | phir se karna shuru karte ho. Toh jaise scroll kar dete ho aap log, mithaai kha lete ho aap log, cigarette peena shuru kar dete ho, binge watch kar dete ho kisi cheez ko,
+382 | kisi
+383 | series ko.
+400 sw=1 | Step number three: temporarily achha lagta hai, distraction mil gayi aap logon ko, ekdum candy ki tarah. Jaise
+401 | aapko sugar craving hui aur aapko candy mil gayi,
+402 | toh uski tarah aap logon ko
+403 ew=5 | temporarily achha lagne lagta hai.
+406 | Step number four: behaviour khatam ho gaya, aap logon ka phone neeche rakha, aur ab kya feel ho raha hai?
+407 | Same stress jo pehle tha, wahi same feel hona shuru ho gaya,
+408 | plus ab toh sharam bhi aa rahi hai ki
+409 | "maine ye saari cheezein stress ko control karne ke liye kiya tha, aur iski wajah se aur zyada stress ho gaya."
+410 | Toh ab stress plus sharam, dono hain. Pehle se aur zyada bura feel hone laga.
+413 | Phir se wahi
+414 | same behaviour ka loop continue kar deta hai aadmi.
+417 | Aur har baar jab aap is loop se guzarte ho, wo neural highway jo aap logon ka tha, wo aur zyada mazboot ho jaata hai.
+418 | Isi kaaran se aap log
+419 | na smoking chhod paate ho, na koi nasha chhod paate ho.
+427 | Jab aap daily daily gym jaaoge, toh gym jaane ki aadat ban jaayegi.
+428 | Gym jaane ki aadat ban jaayegi, toh gym jis din nahi jaaoge,
+429 | us din zyada problem hogi aapko.
+430 | Toh
+431 | iska bhi ek loop hai.
+432 | Toh aapko achhi aadat ka loop rakhna hai ki buri aadat ka loop rakhna hai,
+433 | this is all upon you.
+435 | Sabse important question jo ab dimaag mein aata hai logon ke: ab is loop ko todenge kaise?
+436 | Step one: awareness is the most important thing. Pehle ye samjho ki loop
+437 | chal kyun raha hai, kiska loop chal raha hai.
+438 | Toh zyadatar logon ko toh ye pata hi nahi hota hai ki
+439 | kya wo log
+440 | is kisi loop mein phase bhi hue hain ki nahi phase hue hain. Jab aap phone uthaane waale hote ho scroll karne ke liye, toh ruko ek baar,
+441 | ek cognitive pause le lo us cheez ke liye.
+443 | Poochho khud se ki "main kyun scroll karna chahta hoon? Ab bhi kyun karna chahta hoon? Kya feel ho raha hai?" aap logon ko.
+445 | Aur yahi sabse bada
+446 | important step hai:
+447 | aap apni feeling identify karo,
+448 | aap apne aapko dekho ki aap
+449 | kya karna chah rahe ho.
+450 | Kya aapke future ke liye theek hai?
+451 | Kya aapki timing sahi
+452 | kat rahi hai?
+453 | Ye saari cheezein identify karna is very important.
+454 | Step number 2:
+455 | replacement behaviour.
+456 | Scroll karne ki jagah
+457 | kuch aur kar lijiye.
+458 | Chhota sa kariye, magar kuch aur kariye. Easy kariye, magar kuch aur kariye. Aankh band kariye 60 second ke liye, bas.
+459 | Aur
+460 | kuch nahi
+461 | karna hai us time par,
+462 | sirf aankh band kariye aur saans apni
+463 | dekhte rahiye.
+464 | Saans ko ekdum achhe tareeke se dekhiye, isi ko kehte hain dhyaan
+465 | karna.
+472 | Toh agar ye saari cheezein karna shuru kar doge aap, toh aap apne loop pehchaanna shuru kar doge.
+473 | Step number three: permission do khud ko,
+474 | ki agar 60 second ke baad bhi scroll karne ka mann hai,
+475 | toh karo,
+476 | tab koi sharam nahi aani chahiye.
+477 | But pehle 60 second ka pause lena important hai.
+478 | Aur pata isse kya hoga? Pehli baar 60 second ke baad
+479 | bhi aap log scroll karoge,
+480 | doosri baar shaayad aap nahi karoge,
+481 | aur teesri baar ye easy hoga ki aapko scrolling nahi karni hai.
+482 | Aur ye 60 second ka pause aapke liye ek naya raasta bana raha hoga.
+483 ew=17 | Pehle patla raasta banaayega, phir dheere dheere dheere isi raaste ko wide karega, phir road, phir highway.
+501 | Aapka bhi dimaag badal sakta hai, kuch bhi change ho sakta hai,
+502 | bas
+503 | andar se chaahne ki jo baat kehta hai na aadmi, wo saari cheezein important hain.
+# ---- F: creativity
+504 | Ab creativity ki baat kar lete hain. Log kehte hain ki "mujhe ideas
+505 | nahi aate hain,
+506 | main creative hoon hi nahi."
+508 | Research kehti hai ki aapko ideas isliye nahi aate hain kyunki aap bore nahi hote hain.
+509 | Yaad rakhiye, DMN,
+510 | wo jo storytelling machine hai,
+511 | wo tab activate hoti hai jab aap kuch nahi kar rahe hote ho,
+512 | yaani ki
+513 | daydreaming, mind wandering,
+514 | aur bore hone ke baad jo aapka DMN activate hota hai.
+515 | Tab hi
+516 | aap logon ko storytelling
+517 | waala
+519 | DMN activate hota hai, aur
+520 | tab hi aap logon ko ye cheez samajh mein aati hai ki kya karna hai, kya nahi karna hai.
+521 | Tab hi aap log daydreaming kar paate ho, tab hi aap log mind wandering kar paate ho.
+523 | Aur iska opposite kya hai, pata hai? CEN, yaani ki CEN, Central Executive Network.
+524 | Aur ye aapke dimaag ka CEO hai.
+525 | Kya goal hai iska? Focus karo,
+526 | kaam karo, deadline rakho,
+527 | aur is deadline par apne kaam ko poora karo.
+528 | Jab ye CEN activate ho jaata hai, toh DMN quiet hai. Jab aap busy ho, focused ho, deadline pe ho, ideas nahi aayenge aapko.
+529 | Lekin jab aap bored ho rahe ho, jab aap ekdum bored ho, lonely ho, akele ho, kuch nahi kar rahe ho, phone-vone scroll nahi kar rahe ho, toh CEN aapka quiet ho jaata hai aur DMN activate ho jaata hai,
+530 | aur toh
+531 | tab aap ideas
+532 | surface pe laate ho.
+533 | Isi liye shower mein ideas aate hain,
+534 | isi liye aap logon ko akele baithne par idea aata hai, isi liye aapko drive karte hue idea aata hai. Toh science kya kehti hai, pata hai kya?
+535 | Jab aap kisi problem pe kaam karte ho, toh saara data load ho jaata hai dimaag mein.
+536 | Neural networks aapke active ho jaate hain,
+537 | but
+538 | aapko solution nahi mil raha hota hai.
+539 | Phir aap walk pe jaate ho.
+541 | Toh log kehte hain, pata hai kya? Jab aap stress mein ho, toh aap walk pe chale jaao,
+542 | aap running pe chale jaao,
+543 | ya shower le lo,
+544 | ya cooking kar lo,
+545 | kuch aisa karo jo autopilot pe ho jaaye.
+549 | Pata hai kya hota hai?
+550 | Naye variables
+551 | introduce hote hain:
+552 | paani ki feeling,
+553 | naya environment,
+554 | alag alag type ke sounds. Aur dimaag mein wo loaded data ka jo neural network tha na,
+555 | wo
+556 | rearrange hone lagta hai,
+557 | aur boom!
+558 | Ek naya idea phir se aa jaata hai aap logon ko.
+559 ew=9 | Aur ye random nahi hai, ye predictable science hai.
+562 | Aur iska matlab hai ki aap agar ideas chahte ho,
+563 | toh aapko bored hona
+564 | padega, bored hone ke liye time dena padega.
+566 | Toh kuch successful log ise
+567 | "thinking time" kehte hain.
+568 | Schedule karte hain is cheez ko, har din 15 se 20 minute,
+569 | kuch nahi karte hain, na phone, na scroll,
+570 | bore hote rehte hain sirf,
+571 | aur
+572 | ideas
+573 | khud aana shuru hote hain unke paas.
+# ---- G: 5 AM club + chronotypes
+574 | Aur ab ek myth todta hoon aap logon ka, jo mujhe bahut irritate karta hai.
+575 | "Paanch baje utho,
+576 | cold
+577 | plunge karo,
+578 | lemon water piyo, push-ups karo, journaling karo, aur
+579 | tab jaakar aap successful ban jaaoge." Aisa kuch nahi hota hai bhai saab.
+580 | Main aath baje ya nau baje uthta hoon aaraam se,
+581 | raat ke ek-do baje tak kaam karta hoon.
+582 | Abhi bhi aapko time dikha de raha hoon main aapko:
+583 | 11 baj ke
+585 | 43, dekh rahe ho aap,
+586 | time,
+587 | 11:43, 23:43,
+588 | abhi ka time ho raha hai,
+589 | main jab video shoot kar raha hoon.
+590 | Toh
+591 | main aapko bata raha hoon, koi bhi timing
+592 | important nahi hai.
+593 | Ye sab sirf sunne mein achha lagta hai ki "paanch baje subah uth jaao
+594 | aur
+595 ew=7 | das baje raat mein so jaao."
+596 sw=1 ew=12 | But science kehti hai ye sabke liye sahi hai hi nahi.
+602 | 2017 mein Medicine ka ek Nobel Prize mila,
+603 | teen scientists ko mila. Unhone discover kiya ki insaanon mein ek circadian rhythm hoti nahi hai.
+607 | Sabse pehla chronotype hai: AM shifted.
+608 | Ye log subah 5 se 6 baje
+609 | naturally uth jaate hain.
+610 | Energy subah peak pe hoti hai, shaam tak ghat jaati hai. Population ka roughly 25% log
+612 | chronotype one waale hain.
+613 | Chronotype 2:
+615 | chronotype 2, ye biphasic hai, yaani ki matlab ki do peaks aate hain inke.
+616 | Subah ek ghanta energy mein rehte hain, peak mein, aur dopahar mein ye energy crash ho jaati hai, shaam ko phir doosra peak aata hai. Aur majority of log
+617 | isi type ke hain.
+618 | Chronotype 3:
+619 | PM shifted. Ye log subah naturally bahut slow slow slow slow se honge, energy shaam ko ekdum peak karti hai, aur raat ko sharp ho jaate hain ye log. Aur population ka sirf 10 se 15% log aise hain jo
+620 | chronotype 3 mein hain.
+621 | Ab sochiye, agar aap PM shifted hain
+622 | aur force kar rahe hain apne aapko 5 baje uthne ke liye,
+623 | toh aap apne peak performance hours waste kar rahe ho. Us time pe toh aap so rahe ho jab aapke sabse peak performance hours hain,
+624 | aur
+625 | sabse kamzor time mein aap kaam karne jaa rahe ho, jis time pe aapko neend aati, jis time pe aap sabse lazy hote ho.
+629 | Toh pehle apna chronotype jaaniye,
+630 | phir apna
+631 | din design kariye.
+633 | Agar aap AM shifted ho, toh subah focused hokar
+634 | kaam kariye, shaam ko
+635 | ekdum aap administrative kaam kariye, jismein aapka zyada mehnat waala kaam na ho. Agar aap biphasic ho,
+636 | toh
+637 ew=23 | subah focus hokar ke kaam kariye, dopahar ko ek break lijiye, koi exercise wagairah kariye, phir shaam ko doosra focus session kar rakhiye.
+641 | Tab jaakar aap log biphasic waale jo chronotype mein,
+642 | aap log fit baithoge.
+643 | Agar aap PM shifted ho, toh subah creative kaam,
+644 | brainstorming kariye,
+645 | padhiye kuch achha,
+646 | podcasts dekhiye achhe achhe,
+647 | kyunki
+648 | agar aap log thoda tired ho,
+649 | toh DMN activate hoga, us time par ideas achhe aayenge.
+650 | Raat ko focused deep work kar paaoge aap log.
+651 | Toh chronotype 3 mein main aata hoon.
+652 | Toh mujhe aisa lagta hai ki mera peak performance raat ke time pe aata hai,
+653 | toh main chronotype 3 par kaam karta hoon,
+654 | na ki chronotype one pe. Paanch baje uth karke mujhse kaam nahi hota hai.
+655 | Mujhe pata hai ekdum achhe tareeke se,
+656 | 7 ghante ki neend meri body ke liye important hai. Toh main
+657 | do baje so karke aath baje uth jaa raha hoon, toh bhi koi problem nahi hai.
+658 sw=1 | Main aap logon ko bata de raha hoon, 5 AM club ekdum porn hai. Sunne mein ekdum sexy lagega aap logon ko, but aapke liye kaam
+659 | karega ki nahi karega, ye zaroori nahi hai.
+660 | Sabse zaroori hai ki 7 ghante ki achhi neend important hai, 8 ghante ki bhi chalegi. Jab tak aap logon ki body recover achhe tareeke se nahi kar jaati hai na, tab tak ki neend important hai.
+661 | Aur usko fix karna
+662 | sabse zaroori hai. Baaki saari ki saari cheezein secondary hain.
+# ---- H: burnout + 3M
+663 | Last: burnout. Kyunki aaj har 25 saal ka banda
+664 | bol raha hai ki "main burnout ho gaya hoon."
+665 | Pehle samjho ki burnout hota kya hai. Stress aur burnout same nahi hain. Stress normal hai, aap insaan ho, stress hoga, cortisol upar jaayega, aur ye zaroori
+666 | hai aap logon ki body ke liye ki aap logon ka cortisol
+668 | kabhi kabhi upar jaaye.
+669 | Focus ke liye important hai,
+670 | alertness ke liye important hai.
+671 | Problem tab hoti hai jab stress ka cycle close nahi hota hai.
+672 | Stress upar gaya,
+673 | kaam kiya apna,
+674 | phir neeche aana chahiye, but wo aaya hi nahi neeche, stress mein hi reh gaya aadmi, aur ye
+676 | aapki jo stress ki cycle hai na, usko tod deta hai.
+679 | Jab stress upar hi rehta hai, toh subah se raat tak, hafte dar hafte,
+680 | tab jaakar burnout aata hai.
+681 | Wo jo daily ke stress ko aap log burnout se relate kar rahe ho, wo ekdum galat baat hai.
+682 | Ab iska solution kya hai? Iska solution hai 3M
+683 | framework.
+684 | M1, yaani ki micro breaks.
+685 | Har din aap log 10 se 15 minute ka break lijiye.
+686 | Kuch aisa kariye jo challenging ho:
+687 | nayi recipe try kariye,
+688 | koi instrument bajaaiye,
+689 | kuch naye route par walk kariye. Daily daily ek hi route par walk karoge toh phir kharaab lagega. Ye saari cheezein
+690 | aap logon ko karni padengi,
+691 | phone nahi use karna padega,
+692 | kuch koi game khel lijiye. Completely
+693 | psychological detachment rakhiye apni,
+698 | matlab dimaag se kaam aur stress poora ka poora hata dijiye.
+703 | Tab jaakar aap logon ko thoda achhe tareeke se
+704 | stress cycle ko manage karna aayega.
+706 | Ab jo 3M waale framework mein
+707 | M2 hai, wo kya hai?
+708 | Wo hai meso breaks.
+709 | Har hafte 2-4 ghante
+710 | koi hobby kariye, jaise painting hua,
+711 | aapko
+712 | cricket khelne jaana, toh cricket khel liya aapne,
+713 | aapko kuch naya seekhna, toh wahan chale jaaiye, kuch challenging karna, wahan chale jaaiye, koi marathon daudna, wahan chale jaaiye.
+717 | Wo kaam kariye jahan par aap apni pareshaaniyon ko bhool paayein. Jaise kuch log aise maine dekhe hain
+718 | apni zindagi mein
+719 | jo poore hafte ekdum lag ke kaam karte hain, aur hafte ke aakhri do din, yaani ki weekends pe, wo log cricket khelte hain,
+720 | aur uske through
+721 | wo log apne hafte bhar ki
+722 | jo thakaan rehti hai, hafte bhar ka jo stress rehta hai, usko bhula paate hain, aur uski wajah se unka brain
+723 | phir se achhe tareeke se active ho paata hai.
+724 | Isko kehte hain meso breaks.
+725 | Aur M3, jo maine aap logon ko bataaya
+726 | 3M framework mein,
+727 | usmein hai macro breaks, har mahine,
+728 | aadha din se poora din,
+729 | completely disconnected ho jaaiye har ek cheez se.
+733 | Koi kaam nahi, koi email nahi, kisi se baat nahi karna,
+734 | jo dil mein aaye wo kariye,
+735 | bas kaam mat kariye.
+736 | Condition sab mein same hai: complete psychological detachment,
+737 ew=26 | jo hai wo zyada important hai. Matlab mentally kaam se poora ka poora door ho jaana. Sirf body rest nahi karegi, aapka dimaag bhi rest karega.
+740 | Agar aap scrolling ko break maante ho,
+741 | toh wo toh break ekdum nahi. Research kehti hai, pata hai kya?
+742 | Ki scrolling
+743 | break nahi. Aapke
+744 | jo dimaag ko hai na, wo aur zyada thaka deta hai. Matlab ki,
+745 | scrolling karte hue aapko aisa lagta hai ki jaise aap kaam kar rahe ho,
+746 | toh aapke dimaag ko toh break mila hi nahi.
+747 | Toh phir kyun scrolling karni hai? Scrolling means ekdum bekaar cheez hai.
+749 | Toh sabse badi cheez main aap logon ko bata raha hoon, ki scrolling karna important hai, ye nahi.
+750 | Scrolling karne ki bajaay aap log movies dekhiye,
+751 | kuch aisi movies dekhiye jo
+752 | aap logon
+753 | ke dimaag ko ghumaayein thoda sa,
+754 | travel karaayein,
+755 | kuch achhi movies dekhiye jis pe aap hans paao, laughter aaye.
+756 | Toh ye saari cheezein karo aap.
+# ---- I: recap + close
+757 | Toh aaj hum logon ne is poori ki poori video se kya kya cheezein seekhi?
+758 | Number one: billionaires ka dimaag
+759 | alag
+760 | tareeke, alag
+761 | beliefs pe kaam karta hai,
+762 | aur isi wajah se wo log billionaires hain, isi wajah se wo log successful hain.
+763 | Aur ye luck ya talent nahi hai, ye belief hai.
+765 | Number two: aap apne belief khud se design kar sakte ho, aur uske chaar step ke framework maine aap logon ko bata diye.
+767 | Number 3:
+768 | goals aapke cute hain,
+769 | implementation intention kaam karti hai,
+770 | yaani ki kaam karti hai, chahe jis tareeke se bhi aap usko dekh lo. Buri habit ka loop aapko samajhna padega,
+771 | 60 second cognitive pause lena important hai,
+772 | toh aap log buri aadat ko dheere dheere tod paaoge.
+773 | Number five: ideas chahiye? Bore ho jaao,
+774 | toh ideas bhi mil jaayenge.
+775 | Thinking time ko schedule kar lijiye aap,
+776 | toh aap logon ko ideas aane shuru ho jaayenge, aapka DMN
+777 | activate ho jaayega.
+778 | Number six: 5 AM club sab ke liye nahi hai. Toh sab logon ko bechna band kar dijiye, jo log bech rahe hain. Apna khud ka chronotype samjhiye,
+780 | us chronotype ko achhe tareeke se use kariye, aap log bhi successful ho jaaoge.
+781 | Aur number seven: burnout se bachna hai agar,
+782 | toh 3M
+783 | aap logon ko samajhna padega: micro,
+784 | meso aur macro breaks waale.
+785 | Aur ye sab biological laws hain,
+786 | gravity jaisi.
+787 | Aur isko agar aap log ignore karoge na,
+788 | toh aap log aur zyada suffer karoge,
+789 | aur isko agar aap log sahi tareeke se follow karoge,
+790 | toh superhuman jaise results milna shuru ho jaayenge. Aapka dimaag ekdum focus machine hai,
+791 | storytelling machine hai,
+792 | aur ekdum idea machine hai. Bas seekho aap log isko kis tareeke se use karna hai.
+796 | Aur
+797 | is
+798 | poori ki poori video mein aap logon ko agar
+799 | kuch bhi valuable points dikhe hain,
+800 | toh aap log
+801 | hamare channel ko subscribe kariye,
+802 | apne doston ko, apne ghar waalon ko, apne bachchon ko
+803 | ye video dikhaaiye.
+813 | Toh mera kaam tha science pahunchana, decision aapka hai. You're watching FitFinfluencer, milte hain
+814 | next video mein.

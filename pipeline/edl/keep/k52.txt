@@ -1,0 +1,16 @@
+31 sw=7 | Jahan normal logon ko deewar dikhaai deti hai,
+32 | wahin pe
+33 ew=7 | successful logon ko darwaaza dikhaai deta hai.
+96 | Aapka dimaag hamesha us data ko dhoondta hai jo aapke beliefs ko
+97 | confirm karte hain.
+322 | Hazaar baar kiya toh road ban gaya, highway ban gaya.
+410 ew=7 | Toh ab stress plus sharam, dono hain.
+508 | Research kehti hai ki aapko ideas isliye nahi aate hain kyunki aap bore nahi hote hain.
+580 | Main aath baje ya nau baje uthta hoon aaraam se,
+581 | raat ke ek-do baje tak kaam karta hoon.
+658 sw=9 ew=15 | 5 AM club ekdum porn hai.
+740 | Agar aap scrolling ko break maante ho,
+741 ew=6 | toh wo toh break ekdum nahi.
+790 sw=9 | Aapka dimaag ekdum focus machine hai,
+791 | storytelling machine hai,
+792 ew=5 | aur ekdum idea machine hai.
