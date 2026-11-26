@@ -211,7 +211,7 @@ C.chips={
 const XSVG='<svg class="mark" viewBox="0 0 70 70"><circle cx="35" cy="35" r="31" fill="rgba(255,77,94,.15)" stroke="#FF4D5E" stroke-width="4"/><path d="M23 23 L47 47 M47 23 L23 47" stroke="#FF4D5E" stroke-width="7" stroke-linecap="round" fill="none" pathLength="1"/></svg>';
 const VSVG='<svg class="mark" viewBox="0 0 70 70"><circle cx="35" cy="35" r="31" fill="rgba(55,245,155,.15)" stroke="#37F59B" stroke-width="4"/><path d="M20 36 L31 47 L51 25" stroke="#37F59B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none" pathLength="1"/></svg>';
 C.checklist={
-  build(ev){ const el=h('div','ev'); const box=h('div','check card'); if(ev.title){ const k=h('div','kicker',ev.title); k.style.marginBottom='10px'; box.appendChild(k);}
+  build(ev){ const el=h('div','ev'); const box=h('div','check card'+(ev.cls?' '+ev.cls:'')); if(ev.title){ const k=h('div','kicker',ev.title); k.style.marginBottom='10px'; box.appendChild(k);}
     ev.rows=ev.items.map(it=>{ const r=h('div','row'); r.innerHTML=`<span class="lbl">${fmt(it.text)}</span>${it.mark==='check'?VSVG:XSVG}`; box.appendChild(r); return r; });
     el.appendChild(box); place(el,ev); return el; },
   update(ev,el,t){ const o=env(ev,t,.3,.3); el.style.opacity=o; if(!o) return; el.firstChild.style.transform=`translateY(${(1-E.outCubic(P(t,ev.t0,.4)))*40}px)`;

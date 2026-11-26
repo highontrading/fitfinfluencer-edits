@@ -24,6 +24,8 @@ def KC(t0, t1, lines, y=150, sizes=None, **kw):   # centred, for full-frame mome
     return S_.kin(t0, t1, lines, x=W // 2, y=y, align='center', sizes=sizes or [92] * len(lines), **kw)
 def Bh(t0, t1, word, **kw): kw['size'] = min(kw.get('size', 240), 260); kw.setdefault('z', 1.0); return S_.behind(t0, t1, word, **kw)
 P = [40, 920]
+CSS = ('.check.dense .row{padding:14px 6px;font-size:42px}.check.dense svg{width:56px;height:56px}'
+       '.check.dense7 .row{padding:9px 6px;font-size:34px}.check.dense7 svg{width:46px;height:46px}.check.dense7{padding:30px 40px}')
 CARD = {'rect': [1000, 90, 860, 900], 'r': 40, 'scale': 1.05, 'faceY': 0.42}
 def card(t0, t1): S_.card(t0, t1, cap_y=990)
 def add(ev): ev.setdefault('panel', P); return S_.add(ev)
@@ -180,7 +182,7 @@ anim(S(367), S(417) - 0.08, V.loop([('FEELING', '#FFFFFF', S(367) + 0.2), ('ESCA
 K(S(417), S(427) - 0.05, ['EVERY LOOP MAKES THE', 'HIGHWAY *STRONGER*'], sizes=[76, 100], anim='rise')
 B(44416, S(427), S(431) - 0.05, off=1.0)
 K(S(427), S(435) - 0.05, ['GOOD HABITS', '*LOOP TOO*'], sizes=[100, 120], anim='rise')
-K(S(431), S(435) - 0.05, ['GOOD LOOP OR BAD LOOP: YOUR CHOICE'], x=W // 2, y=860, align='center', sizes=[48], font='oswald', anim='rise', fit=1700)
+K(S(431), S(435) - 0.05, ['GOOD LOOP OR BAD LOOP: YOUR CHOICE'], x=W // 2, y=780, align='center', sizes=[48], font='oswald', anim='rise', fit=1700)
 K(S(435), S(436) - 0.05, ['HOW TO', '*BREAK IT*'], sizes=[100, 140], anim='slam')
 card(S(436) - 0.05, S(454) - 0.08)
 add({'type': 'checklist', 't0': S(436), 't1': S(454) - 0.08, 'y': 150, 'title': 'Step 1: Awareness', 'items': [
@@ -198,7 +200,7 @@ add({'type': 'chain', 't0': S(473), 't1': S(482) - 0.08, 'y': 150, 'title': 'Ste
     {'t': S(478), 'text': '1st time: you still scroll'}, {'t': S(480), 'text': '2nd time: *maybe not*'}, {'t': S(481), 'text': '3rd time: *easy*', 'st': 'yes', 'stc': 'green'}]})
 card(S(482) - 0.05, S(501) - 0.08)
 anim(S(482), S(501) - 0.08, V.highway([S(482) + 0.3, T('dheere', S(483)), T('road', S(483)), T('highway', S(483))], names=('NEW PATH', 'WIDER', 'ROAD', 'HIGHWAY'), labels=('', '', '', '')), y=120)
-K(S(482) + 0.5, S(501) - 0.08, ['THE OLD HIGHWAY WEAKENS. THE NEW ROAD GROWS.'], x=490, y=860, align='center', sizes=[38], font='oswald', anim='rise', fit=880)
+K(S(482) + 0.5, S(501) - 0.08, ['THE OLD HIGHWAY WEAKENS.', 'THE NEW ROAD GROWS.'], x=490, y=810, align='center', sizes=[36, 36], font='oswald', anim='rise', fit=880)
 K(S(501), S(504) - 0.05, ['YOUR BRAIN', '*CAN CHANGE*'], sizes=[100, 130], anim='slam')
 
 # ================= PART 5: CREATIVITY
@@ -246,7 +248,7 @@ def col_html(name, c, t, items):
             f'<div style="font-family:Oswald;font-weight:700;font-size:38px;color:{c};letter-spacing:1px">{name}</div>'
             f'<div style="font-family:Poppins;font-weight:600;font-size:28px;color:#fff;line-height:1.3">{li}</div></div>')
 anim(S(629), S(651) - 0.08, '<div style="display:flex;padding:0 10px">' + ''.join(col_html(*c) for c in cols) + '</div>', y=160)
-K(S(629), S(651) - 0.08, ['KNOW YOUR TYPE. DESIGN YOUR DAY.'], x=490, y=110, align='center', sizes=[44], font='oswald', anim='rise', fit=880)
+K(S(629), S(651) - 0.08, ['KNOW YOUR TYPE. DESIGN YOUR DAY.'], x=490, y=110, align='center', sizes=[34], font='oswald', anim='rise', fit=880)
 K(S(651), S(655) - 0.05, ["I'M", '*CHRONOTYPE 3*'], sizes=[100, 130], anim='slam')
 K(S(655), S(658) - 0.05, ['2 AM TO 8 AM.', '*7 HOURS.* NO PROBLEM.'], sizes=[90, 84], anim='rise', stagger=1.0)
 K(S(658), S(660) - 0.05, ['THE 5 AM CLUB:', 'SOUNDS SEXY, ~MAY NOT WORK~'], sizes=[80, 76], anim='slam', stagger=1.2)
@@ -257,15 +259,14 @@ chapter(S(663), 7, 'BURNOUT + THE 3M FRAMEWORK')
 K(S(663) + 2.4, S(665) - 0.05, ['EVERY 25-YEAR-OLD:', '*"I\'M BURNED OUT"*'], sizes=[76, 92], anim='rise')
 card(S(665) - 0.05, S(681) - 0.08)
 anim(S(665), S(681) - 0.08, V.stress_curve(S(671), S(679), t0=S(665) + 0.3), y=140)
-K(S(665), S(671) - 0.08, ['STRESS IS NORMAL. CORTISOL HELPS YOU FOCUS.'], x=490, y=860, align='center', sizes=[38], font='oswald', anim='rise', fit=880)
+K(S(665), S(671) - 0.08, ['STRESS IS NORMAL.', 'CORTISOL HELPS YOU FOCUS.'], x=490, y=800, align='center', sizes=[36, 36], font='oswald', anim='rise', fit=880)
 K(S(681), S(682) - 0.05, ['DAILY STRESS', '~IS NOT~ BURNOUT'], sizes=[100, 110], anim='slam')
 Bh(S(682), S(684) - 0.05, '3M FRAMEWORK', size=220, color=GOLD)
 card(S(684) - 0.05, S(706) - 0.08)
-add({'type': 'checklist', 't0': S(684), 't1': S(706) - 0.08, 'y': 150, 'title': 'M1: Micro breaks (daily)', 'items': [
+add({'type': 'checklist', 't0': S(684), 't1': S(706) - 0.08, 'y': 150, 'title': 'M1: Micro breaks (daily)', 'cls': 'dense', 'items': [
     {'t': S(685), 'text': '*10-15 min*, every day', 'mark': 'check'}, {'t': S(686), 'text': 'Something *challenging*', 'mark': 'check'},
     {'t': S(687), 'text': 'New recipe, an instrument', 'mark': 'check'}, {'t': S(689), 'text': 'A *new route* for your walk', 'mark': 'check'},
     {'t': S(691), 'text': '~No phone~', 'mark': 'x'}, {'t': S(693), 'text': '*Complete psychological detachment*', 'mark': 'check'}]})
-K(S(693), S(706) - 0.08, ['PSYCHOLOGICAL DETACHMENT = MENTALLY SWITCHING OFF FROM WORK'], x=490, y=880, align='center', sizes=[30], font='oswald', anim='rise', fit=880)
 card(S(706) - 0.05, S(725) - 0.08)
 add({'type': 'checklist', 't0': S(706), 't1': S(725) - 0.08, 'y': 150, 'title': 'M2: Meso breaks (weekly)', 'items': [
     {'t': S(709), 'text': '*2-4 hours*, every week', 'mark': 'check'}, {'t': S(710), 'text': 'A hobby: painting, *cricket*', 'mark': 'check'},
@@ -284,7 +285,7 @@ K(S(749), S(757) - 0.05, ['WATCH A *GOOD MOVIE*', 'TRAVEL. LAUGH.'], sizes=[90, 
 # ================= RECAP + CLOSE
 chapter(S(757), 8, 'WHAT WE LEARNED')
 card(S(758) - 0.05, S(785) - 0.08)
-add({'type': 'checklist', 't0': S(758), 't1': S(785) - 0.08, 'y': 120, 'title': 'Your brain\'s blueprint', 'items': [
+add({'type': 'checklist', 't0': S(758), 't1': S(785) - 0.08, 'y': 120, 'title': 'Your brain\'s blueprint', 'cls': 'dense7', 'items': [
     {'t': S(758), 'text': '1. Belief, not luck or talent', 'mark': 'check'}, {'t': S(765), 'text': '2. *Design* your beliefs: 4 steps', 'mark': 'check'},
     {'t': S(767), 'text': '3. Goals are cute, *plans work*', 'mark': 'check'}, {'t': T('buri', S(770)), 'text': '4. Break the loop: *60-sec pause*', 'mark': 'check'},
     {'t': S(773), 'text': '5. Need ideas? *Get bored*', 'mark': 'check'}, {'t': S(778), 'text': '6. Know your *chronotype*', 'mark': 'check'},
@@ -305,7 +306,7 @@ caps = S_.captions(max_words=4, max_chars=26, hl_pats=[r'belief', r'beliefs', r'
     r'subconscious', r'loop', r'feeling', r'shame', r'awareness', r'pause', r'cognitive', r'60', r'dhyaan', r'permission', r'ideas?', r'bore', r'bored', r'cen',
     r'shower', r'variables', r'autopilot', r'myth', r'nobel', r'chronotype', r'circadian', r'peak', r'neend', r'burnout', r'stress', r'cortisol', r'micro', r'meso',
     r'macro', r'detachment', r'scrolling', r'movies', r'superhuman', r'machine', r'science', r'subscribe'])
-S_.save(caps, cta_t=cta, cap_y=900, hold=1.0, extra={'capScale': 0.72, 'vigInCompose': True}, brand={'text': 'Fit<b>Finfluencer</b>', 't0': 3.0, 't1': cta})
+S_.save(caps, cta_t=cta, cap_y=900, hold=1.0, extra={'capScale': 0.72, 'vigInCompose': True, 'css': CSS}, brand={'text': 'Fit<b>Finfluencer</b>', 't0': 3.0, 't1': cta})
 mus = {'dur': D + 1.0, 'sections': [], 'drops': [S(11), S(92), S(146), T('porn', S(658)), S(740)], 'hits': []}
 bounds = [(0, 'curiosity'), (S(51), 'teaching'), (S(145), 'uplift'), (S(240), 'focus'), (S(306), 'dark'), (S(435), 'hope'), (S(504), 'light'),
           (S(574), 'energy'), (S(663), 'calm'), (S(757), 'inspire')]

@@ -17,7 +17,13 @@ for (a, n), (b, _) in zip(starts, starts[1:] + [(td + md, None)]):
 times = [c[0] for c in cuts[1:]]
 full = f'{OUT}/{NAME}_FULL.mp4'
 kf = ','.join(f'{t:.3f}' for t in times)
-subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', 'out/v52_final.mp4', '-i', 'out/v51_final.mp4', '-filter_complex', '[0:v][0:a][1:v][1:a]concat=n=2:v=1:a=1[v][a]',
+G = json.load(open(f'{W}/patch_frames.json')) if os.path.exists(f'{W}/patch_frames.json') else []
+ins = ['-i', 'out/v52_final.mp4', '-i', 'out/v51_final.mp4']; fc = []; last = '1:v'
+for k, (a, b) in enumerate(G):   # fixed-layout patches laid over the main render, frame-exact
+    ins += ['-i', f'out/v51_patch{k}.mp4']; t = a * 1001 / 30000
+    fc.append(f'[{k + 2}:v]setpts=PTS-STARTPTS+{t:.6f}/TB[p{k}];[{last}][p{k}]overlay=eof_action=pass:repeatlast=0[m{k}]'); last = f'm{k}'
+fc.append(f'[0:v][0:a][{last}][1:a]concat=n=2:v=1:a=1[v][a]')
+subprocess.run(['ffmpeg', '-v', 'error', '-y'] + ins + ['-filter_complex', ';'.join(fc),
                 '-map', '[v]', '-map', '[a]', '-c:v', 'libx264', '-preset', 'slow', '-crf', '20', '-maxrate', '4.6M', '-bufsize', '9M', '-pix_fmt', 'yuv420p',
                 '-force_key_frames', kf, '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', full], check=True)
 pdir = f'{OUT}/parts'; os.makedirs(pdir, exist_ok=True)
